@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2077627615939321961",
+    "created_at": "2026-07-16T05:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077627615939321961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2077555226383699968",
+          "start": 3,
+          "username": "luciawannadone"
+        }
+      ],
+      "urls": [
+        {
+          "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo 模仿人类失败者/全世界最恨homework之人 人生是被恐惧追赶着逃跑 请祝福我快些死掉吧！",
+          "display_url": "x.com/lvovl3?s=11",
+          "end": 55,
+          "expanded_url": "https://x.com/lvovl3?s=11",
+          "start": 32,
+          "status": 200,
+          "title": "只是想不存在 (@lvovl3) on X",
+          "unwound_url": "https://x.com/lvovl3?s=11",
+          "url": "https://t.co/0CQP2MczqO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077627615939321961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077564338941108395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luciawannadone: 我是lucia\n前世： https://t.co/0CQP2MczqO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2077627615939321961",
+        "created_at": "2026-07-16T05:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077627615939321961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2077555226383699968",
+              "start": 3,
+              "username": "luciawannadone"
+            }
+          ],
+          "urls": [
+            {
+              "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo 模仿人类失败者/全世界最恨homework之人 人生是被恐惧追赶着逃跑 请祝福我快些死掉吧！",
+              "display_url": "x.com/lvovl3?s=11",
+              "end": 55,
+              "expanded_url": "https://x.com/lvovl3?s=11",
+              "start": 32,
+              "status": 200,
+              "title": "只是想不存在 (@lvovl3) on X",
+              "unwound_url": "https://x.com/lvovl3?s=11",
+              "url": "https://t.co/0CQP2MczqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077627615939321961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077564338941108395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luciawannadone: 我是lucia\n前世： https://t.co/0CQP2MczqO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077555226383699968",
+        "conversation_id": "2077564338941108395",
+        "created_at": "2026-07-16T01:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077564338941108395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo 模仿人类失败者/全世界最恨homework之人 人生是被恐惧追赶着逃跑 请祝福我快些死掉吧！",
+              "display_url": "x.com/lvovl3?s=11",
+              "end": 35,
+              "expanded_url": "https://x.com/lvovl3?s=11",
+              "start": 12,
+              "status": 200,
+              "title": "只是想不存在 (@lvovl3) on X",
+              "unwound_url": "https://x.com/lvovl3?s=11",
+              "url": "https://t.co/0CQP2MczqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077564338941108395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是lucia\n前世： https://t.co/0CQP2MczqO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 1074,
+          "like_count": 7657,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 3830
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-16T00:48:17.000Z",
+        "description": "@lvovl3 的备用号\nid:只是想不存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "lvovl3"
+              }
+            ]
+          }
+        },
+        "id": "2077555226383699968",
+        "name": "请与我再续前缘",
+        "pinned_tweet_id": "2077564338941108395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077560779373690880/liSaNpGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "luciawannadone",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2066540192262230046",
+    "created_at": "2026-06-15T15:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066540192262230046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1531874456997863424",
+          "start": 3,
+          "username": "youhappynohappy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066540192262230046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066539043698192678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youhappynohappy: 我建了一个只有oder聊天吹水的群，想进的可以私信发我微信号我加你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2066540192262230046",
+        "created_at": "2026-06-15T15:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066540192262230046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1531874456997863424",
+              "start": 3,
+              "username": "youhappynohappy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066540192262230046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066539043698192678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youhappynohappy: 我建了一个只有oder聊天吹水的群，想进的可以私信发我微信号我加你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531874456997863424",
+        "conversation_id": "2066539043698192678",
+        "created_at": "2026-06-15T15:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066539043698192678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066539043698192678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我建了一个只有oder聊天吹水的群，想进的可以私信发我微信号我加你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 904,
+          "like_count": 5544,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3011
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "Gå icke ut i gräset med bara fötter;\nmin trädgård är full av skärvor.\n①個廢粅@ouhouh166807q\n叫我小心就好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ouhouh166807q"
+              }
+            ]
+          }
+        },
+        "id": "1531874456997863424",
+        "location": "山姆后院",
+        "name": "不开心就不开心呗",
+        "pinned_tweet_id": "2064664300892143667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045177151373377536/WYIiopRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 181,
+          "like_count": 14967,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 712
+        },
+        "username": "youhappynohappy",
+        "verified": false
+      }
+    ]
+  }
+}

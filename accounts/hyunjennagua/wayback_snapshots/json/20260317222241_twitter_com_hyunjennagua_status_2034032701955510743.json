@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2033915249674621075",
+    "created_at": "2026-03-17T22:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T23:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034032701955510743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026876224589701120",
+          "start": 0,
+          "username": "R1k0xo33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034032701955510743",
+    "in_reply_to_user_id": "2026876224589701120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033915249674621075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1k0xo33w 卧槽摸摸你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033915242007433225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnrIu8bEAkHXYt.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033915242003238917",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnrIu7bEAUX7xE.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033915242007433218",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnrIu8bEAIgle9.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033915242007429120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnrIu8bAAAAL4X.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2033915249674621075",
+        "created_at": "2026-03-17T22:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T23:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034032701955510743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026876224589701120",
+              "start": 0,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034032701955510743",
+        "in_reply_to_user_id": "2026876224589701120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033915249674621075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo33w 卧槽摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033915242007433225",
+            "3_2033915242003238917",
+            "3_2033915242007433218",
+            "3_2033915242007429120"
+          ]
+        },
+        "author_id": "2026876224589701120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033915249674621075",
+        "created_at": "2026-03-17T14:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033915249674621075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gcbTJw9DGD",
+              "end": 70,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2033915249674621075/photo/1",
+              "media_key": "3_2033915242007433225",
+              "start": 47,
+              "url": "https://t.co/gcbTJw9DGD"
+            },
+            {
+              "display_url": "pic.x.com/gcbTJw9DGD",
+              "end": 70,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2033915249674621075/photo/1",
+              "media_key": "3_2033915242003238917",
+              "start": 47,
+              "url": "https://t.co/gcbTJw9DGD"
+            },
+            {
+              "display_url": "pic.x.com/gcbTJw9DGD",
+              "end": 70,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2033915249674621075/photo/1",
+              "media_key": "3_2033915242007433218",
+              "start": 47,
+              "url": "https://t.co/gcbTJw9DGD"
+            },
+            {
+              "display_url": "pic.x.com/gcbTJw9DGD",
+              "end": 70,
+              "expanded_url": "https://x.com/R1k0xo33w/status/2033915249674621075/photo/1",
+              "media_key": "3_2033915242007429120",
+              "start": 47,
+              "url": "https://t.co/gcbTJw9DGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033915249674621075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还在药效中突然就转线急诊了🫠\n“我到底在干嘛”\n破伤风好贵啊不过给我开了双氢可待因这个能哦吧 https://t.co/gcbTJw9DGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿｜我需要钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 566,
+          "like_count": 2967,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "颓废磕药青年的碎碎念｜喜欢可爱的孩子｜、",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026876338431561728/kdfQPrqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 96,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 105
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

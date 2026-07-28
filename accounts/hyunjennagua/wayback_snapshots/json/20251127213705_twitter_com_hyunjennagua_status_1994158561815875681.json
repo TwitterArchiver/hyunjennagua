@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1994036893793579364",
+    "created_at": "2025-11-27T21:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T22:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994158561815875681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1963002471057653761",
+          "start": 0,
+          "username": "inia_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994158561815875681",
+    "in_reply_to_user_id": "1963002471057653761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994062825103212998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inia_cn 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1994036893793579364",
+        "created_at": "2025-11-27T21:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T22:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994158561815875681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1963002471057653761",
+              "start": 0,
+              "username": "inia_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994158561815875681",
+        "in_reply_to_user_id": "1963002471057653761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994062825103212998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inia_cn 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963002471057653761",
+        "conversation_id": "1994036893793579364",
+        "created_at": "2025-11-27T15:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994062825103212998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994062825103212998",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994036893793579364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 少割哦要好好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "pinned_tweet_id": "1993633187520508332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 116,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 268
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T22:14:02.000Z",
+        "description": "想要成为大家的情绪垃圾桶🗑️                                                              07 // ♏ //🇮 🇳 🇫 🇵 // 互fo // #树洞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "树洞"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inia_cn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inia_cn",
+                "start": 0,
+                "url": "https://t.co/HHLIYYmpfg"
+              }
+            ]
+          }
+        },
+        "id": "1963002471057653761",
+        "location": "520m",
+        "name": "inia🌠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993569034290503681/Ap1s_QWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/HHLIYYmpfg",
+        "username": "inia_cn",
+        "verified": false
+      }
+    ]
+  }
+}

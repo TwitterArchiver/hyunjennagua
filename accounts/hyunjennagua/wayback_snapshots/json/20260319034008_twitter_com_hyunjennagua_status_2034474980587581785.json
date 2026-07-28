@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2034199129086189947",
+    "created_at": "2026-03-19T03:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T04:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034474980587581785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2020120354463838209",
+          "start": 0,
+          "username": "kuuki_oxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034474980587581785",
+    "in_reply_to_user_id": "2020120354463838209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034245681251238037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuuki_oxx 那我直接回关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2034199129086189947",
+        "created_at": "2026-03-19T03:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034474980587581785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2020120354463838209",
+              "start": 0,
+              "username": "kuuki_oxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034474980587581785",
+        "in_reply_to_user_id": "2020120354463838209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034245681251238037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuuki_oxx 那我直接回关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020120354463838209",
+        "conversation_id": "2034199129086189947",
+        "created_at": "2026-03-18T12:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034245681251238037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034245681251238037",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034199129086189947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 那还说啥了直接关注☝️🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "简介施工中…好闺蜜：@colleen_ab6642",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 587,
+          "like_count": 3071,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1709
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T13:00:20.000Z",
+        "description": "transgender 🏳️‍⚧️ 6/2/2025 🍥 | 日常碎碎念 偶尔夜聊 慢慢认识人 | 期待互fo喵❤️🥰",
+        "id": "2020120354463838209",
+        "name": "kainox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020137099740250112/w7QXmkZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 30,
+          "like_count": 732,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "kuuki_oxx",
+        "verified": false
+      }
+    ]
+  }
+}

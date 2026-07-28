@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977003506738642945"
+      ],
+      "media_source_tweet_id": [
+        "1977003512065298518"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1977382951148040587",
+    "created_at": "2025-10-12T14:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T15:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977382951148040587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676500088221478912",
+          "start": 3,
+          "username": "DOGYeah3376"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TAGq3vYFGO",
+          "end": 40,
+          "expanded_url": "https://x.com/DOGYeah3376/status/1977003512065298518/photo/1",
+          "media_key": "3_1977003506738642945",
+          "start": 17,
+          "url": "https://t.co/TAGq3vYFGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977382951148040587",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977003512065298518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DOGYeah3376: https://t.co/TAGq3vYFGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_1977003506738642945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-6NvrbwAEyCkC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977003506738642945"
+          ],
+          "media_source_tweet_id": [
+            "1977003512065298518"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1977382951148040587",
+        "created_at": "2025-10-12T14:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T15:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977382951148040587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676500088221478912",
+              "start": 3,
+              "username": "DOGYeah3376"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TAGq3vYFGO",
+              "end": 40,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1977003512065298518/photo/1",
+              "media_key": "3_1977003506738642945",
+              "start": 17,
+              "url": "https://t.co/TAGq3vYFGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977382951148040587",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977003512065298518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DOGYeah3376: https://t.co/TAGq3vYFGO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977003506738642945"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1977003512065298518",
+        "created_at": "2025-10-11T13:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977003512065298518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TAGq3vYFGO",
+              "end": 23,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1977003512065298518/photo/1",
+              "media_key": "3_1977003506738642945",
+              "start": 0,
+              "url": "https://t.co/TAGq3vYFGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977003512065298518",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1148,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TAGq3vYFGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "躁狂加焦虑 匿名https://t.co/CIziKBo47L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 31,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 8,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 38,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 55
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1977003730294956431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 977,
+          "like_count": 51131,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 3282
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

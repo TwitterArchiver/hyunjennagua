@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2043272040635830561",
+    "created_at": "2026-04-12T10:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043272040635830561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043272040635830561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042959570310684679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 读错下面的词语说明你的文化造纸很高：\n\n不言苟笑，文化造旨，犹可未知，如坐针毯 ，味同爵蜡，群英翡翠，风花雪夜，坦诚公布，暴珍天物 ，白里浪条，有失公充，岁土转生，金喽玉衣，兵来土掩水来将挡，一就而就，赢弱不堪，卧龙凤稚，明眸善眯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2043272040635830561",
+        "created_at": "2026-04-12T10:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043272040635830561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837114188046684161",
+              "start": 3,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043272040635830561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042959570310684679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winterfruit_1: 读错下面的词语说明你的文化造纸很高：\n\n不言苟笑，文化造旨，犹可未知，如坐针毯 ，味同爵蜡，群英翡翠，风花雪夜，坦诚公布，暴珍天物 ，白里浪条，有失公充，岁土转生，金喽玉衣，兵来土掩水来将挡，一就而就，赢弱不堪，卧龙凤稚，明眸善眯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2042959570310684679",
+        "created_at": "2026-04-11T13:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042959570310684679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042959570310684679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1751,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "读错下面的词语说明你的文化造纸很高：\n\n不言苟笑，文化造旨，犹可未知，如坐针毯 ，味同爵蜡，群英翡翠，风花雪夜，坦诚公布，暴珍天物 ，白里浪条，有失公充，岁土转生，金喽玉衣，兵来土掩水来将挡，一就而就，赢弱不堪，卧龙凤稚，明眸善眯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 709,
+          "like_count": 4376,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 2350
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 1460,
+          "like_count": 39774,
+          "listed_count": 7,
+          "media_count": 1693,
+          "tweet_count": 11640
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

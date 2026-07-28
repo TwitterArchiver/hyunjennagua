@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2041165604560753074",
+    "created_at": "2026-04-06T14:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041165604560753074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2032802107745824768",
+          "start": 3,
+          "username": "guangzhouxidu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041165604560753074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041015213496103228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guangzhouxidu: 不要转发小何的抽奖，此类骗子以抽奖赠送等名义博取流量，也根本不会送出，和之前的大王类似，后续受害者会在大量评论转发量无法分辨真假，其发布的图片也是盗图，并且还是沃尔玛能购买的普通软糖，不要给此类骗子转发评论白送流量，成为诈骗的帮凶 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2041013681417588736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMjISabkAAXZg4.jpg",
+        "width": 522
+      },
+      {
+        "height": 953,
+        "media_key": "3_2041013681274884097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMjIR4aEAE8Ri4.jpg",
+        "width": 509
+      },
+      {
+        "height": 939,
+        "media_key": "3_2041013677571346432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMjIEFakAA_uHA.jpg",
+        "width": 1725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2041165604560753074",
+        "created_at": "2026-04-06T14:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041165604560753074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2032802107745824768",
+              "start": 3,
+              "username": "guangzhouxidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041165604560753074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041015213496103228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guangzhouxidu: 不要转发小何的抽奖，此类骗子以抽奖赠送等名义博取流量，也根本不会送出，和之前的大王类似，后续受害者会在大量评论转发量无法分辨真假，其发布的图片也是盗图，并且还是沃尔玛能购买的普通软糖，不要给此类骗子转发评论白送流量，成为诈骗的帮凶 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041013681417588736",
+            "3_2041013681274884097",
+            "3_2041013677571346432"
+          ]
+        },
+        "author_id": "2032802107745824768",
+        "conversation_id": "2041015213496103228",
+        "created_at": "2026-04-06T04:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041015213496103228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3SyzOHK59D",
+              "end": 139,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2041015213496103228/photo/1",
+              "media_key": "3_2041013681417588736",
+              "start": 116,
+              "url": "https://t.co/3SyzOHK59D"
+            },
+            {
+              "display_url": "pic.x.com/3SyzOHK59D",
+              "end": 139,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2041015213496103228/photo/1",
+              "media_key": "3_2041013681274884097",
+              "start": 116,
+              "url": "https://t.co/3SyzOHK59D"
+            },
+            {
+              "display_url": "pic.x.com/3SyzOHK59D",
+              "end": 139,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2041015213496103228/photo/1",
+              "media_key": "3_2041013677571346432",
+              "start": 116,
+              "url": "https://t.co/3SyzOHK59D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041015213496103228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5662,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不要转发小何的抽奖，此类骗子以抽奖赠送等名义博取流量，也根本不会送出，和之前的大王类似，后续受害者会在大量评论转发量无法分辨真假，其发布的图片也是盗图，并且还是沃尔玛能购买的普通软糖，不要给此类骗子转发评论白送流量，成为诈骗的帮凶 https://t.co/3SyzOHK59D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 682,
+          "like_count": 3745,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2028
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所 私信常开，接受投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 33,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 44
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

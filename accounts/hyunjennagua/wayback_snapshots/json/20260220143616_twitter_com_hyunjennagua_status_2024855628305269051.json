@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024753381152346116"
+      ],
+      "media_source_tweet_id": [
+        "2024753409359024267"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2024855628305269051",
+    "created_at": "2026-02-20T14:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T15:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024855628305269051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "127890210",
+          "start": 3,
+          "username": "taurus_07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6CsJ7xvpGT",
+          "end": 49,
+          "expanded_url": "https://x.com/taurus_07/status/2024753409359024267/video/1",
+          "media_key": "13_2024753381152346116",
+          "start": 26,
+          "url": "https://t.co/6CsJ7xvpGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024855628305269051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024753409359024267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taurus_07: ⚠️音量注意ね... https://t.co/6CsJ7xvpGT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26633,
+        "height": 852,
+        "media_key": "13_2024753381152346116",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024753381152346116/img/XUVg-ocjWMltjgaR.jpg",
+        "public_metrics": {
+          "view_count": 48641
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024753381152346116/vid/avc1/320x568/xvxd3vPJM0tW0Ppq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024753381152346116/vid/avc1/480x852/WJhb77ErRrwTpn8c.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024753381152346116/pl/NyDXOFz38YN_wpDn.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024753381152346116"
+          ],
+          "media_source_tweet_id": [
+            "2024753409359024267"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2024855628305269051",
+        "created_at": "2026-02-20T14:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024855628305269051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "127890210",
+              "start": 3,
+              "username": "taurus_07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CsJ7xvpGT",
+              "end": 49,
+              "expanded_url": "https://x.com/taurus_07/status/2024753409359024267/video/1",
+              "media_key": "13_2024753381152346116",
+              "start": 26,
+              "url": "https://t.co/6CsJ7xvpGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024855628305269051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024753409359024267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taurus_07: ⚠️音量注意ね... https://t.co/6CsJ7xvpGT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024753381152346116"
+          ]
+        },
+        "author_id": "127890210",
+        "conversation_id": "2024753409359024267",
+        "created_at": "2026-02-20T07:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024753409359024267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CsJ7xvpGT",
+              "end": 34,
+              "expanded_url": "https://x.com/taurus_07/status/2024753409359024267/video/1",
+              "media_key": "13_2024753381152346116",
+              "start": 11,
+              "url": "https://t.co/6CsJ7xvpGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024753409359024267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 603,
+          "impression_count": 136784,
+          "like_count": 1596,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️音量注意ね... https://t.co/6CsJ7xvpGT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 217,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-30T14:56:35.000Z",
+        "description": "19 JD",
+        "id": "127890210",
+        "name": "まゆ",
+        "pinned_tweet_id": "1937154656578273689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931279984317845504/daKLR7y8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5113,
+          "following_count": 233,
+          "like_count": 5700,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 401
+        },
+        "username": "taurus_07",
+        "verified": false
+      }
+    ]
+  }
+}

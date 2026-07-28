@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2074883744507605215",
+    "created_at": "2026-07-09T07:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075125159644766348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1826397809303535616",
+          "start": 0,
+          "username": "owerwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075125159644766348",
+    "in_reply_to_user_id": "1826397809303535616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075117936885572086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owerwe 谢谢呀嘿嘿🐱❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2074883744507605215",
+        "created_at": "2026-07-09T07:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075125159644766348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1826397809303535616",
+              "start": 0,
+              "username": "owerwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075125159644766348",
+        "in_reply_to_user_id": "1826397809303535616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075117936885572086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owerwe 谢谢呀嘿嘿🐱❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826397809303535616",
+        "conversation_id": "2074883744507605215",
+        "created_at": "2026-07-09T07:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075117936885572086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075117936885572086",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074883744507605215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1014,
+          "like_count": 6587,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-21T23:15:59.000Z",
+        "description": "INFJ/od💊/双相/纹身/穿孔/请多多关注我吧ww 互fo请私信｜查成分 🚪188 333",
+        "id": "1826397809303535616",
+        "location": "𓉸ྀི请保持礼貌不闲聊 爸爸活线下价目主页有过🚪带口令",
+        "name": "おとわྀིྀི",
+        "pinned_tweet_id": "2072834897442648195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074445855474753537/uf9c4E9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 71,
+          "like_count": 990,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 493
+        },
+        "url": "",
+        "username": "owerwe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2041780775557767536",
+    "created_at": "2026-04-09T02:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042067128778383470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1899875511054307328",
+          "start": 0,
+          "username": "Yovott"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042067128778383470",
+    "in_reply_to_user_id": "1899875511054307328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042055816539468138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yovott 啊啊啊啊救命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2041780775557767536",
+        "created_at": "2026-04-09T02:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042067128778383470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1899875511054307328",
+              "start": 0,
+              "username": "Yovott"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042067128778383470",
+        "in_reply_to_user_id": "1899875511054307328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042055816539468138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yovott 啊啊啊啊救命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899875511054307328",
+        "conversation_id": "2041780775557767536",
+        "created_at": "2026-04-09T01:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042055816539468138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042055816539468138",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041780775557767536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 此时od妹就像老大妈听见楼下送鸡蛋了一样疯狂涌入你的房间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 683,
+          "like_count": 4027,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 2131
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-12T17:30:20.000Z",
+        "description": "170/90 接端手🥣/语聊\n特别宅的一只性瘾母狗",
+        "id": "1899875511054307328",
+        "location": "🚪52/188/288",
+        "name": "♡",
+        "pinned_tweet_id": "1916417123376648552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904158676451282944/z4EwNvBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 7,
+          "like_count": 386,
+          "listed_count": 5,
+          "media_count": 99,
+          "tweet_count": 620
+        },
+        "username": "Yovott",
+        "verified": false
+      }
+    ]
+  }
+}

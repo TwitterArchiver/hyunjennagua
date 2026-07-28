@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2079980089954185634",
+    "created_at": "2026-07-23T08:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080208883889648118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072348873948053504",
+          "start": 0,
+          "username": "angelkawaii2TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080208883889648118",
+    "in_reply_to_user_id": "2072348873948053504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080193608033227258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2TwT aaaa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2079980089954185634",
+        "created_at": "2026-07-23T08:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080208883889648118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072348873948053504",
+              "start": 0,
+              "username": "angelkawaii2TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080208883889648118",
+        "in_reply_to_user_id": "2072348873948053504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080193608033227258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2TwT aaaa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072348873948053504",
+        "conversation_id": "2079980089954185634",
+        "created_at": "2026-07-23T07:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080193608033227258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080193608033227258",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079980089954185634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 喜欢老大的画aaa，，🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 1111,
+          "like_count": 9026,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 4085
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-01T15:58:08.000Z",
+        "description": "谨遵用法用量 上网快乐冲浪",
+        "id": "2072348873948053504",
+        "name": "myslee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072349709927403520/TbAcND3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 118,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "angelkawaii2TwT",
+        "verified": false
+      }
+    ]
+  }
+}

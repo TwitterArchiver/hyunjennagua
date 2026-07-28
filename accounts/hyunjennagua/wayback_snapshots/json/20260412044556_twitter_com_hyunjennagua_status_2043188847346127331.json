@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042971461665853441"
+      ],
+      "media_source_tweet_id": [
+        "2042971548257259907"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2043188847346127331",
+    "created_at": "2026-04-12T04:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043188847346127331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1536879871694999553",
+          "start": 3,
+          "username": "seitenkanna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4AR3XdlOQ5",
+          "end": 62,
+          "expanded_url": "https://x.com/seitenkanna/status/2042971548257259907/photo/1",
+          "media_key": "3_2042971461665853441",
+          "start": 39,
+          "url": "https://t.co/4AR3XdlOQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043188847346127331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042971548257259907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seitenkanna: what? 這真的是洗手的圖案wwwww? https://t.co/4AR3XdlOQ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2042971461665853441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoXuGLakAE4lS7.png",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042971461665853441"
+          ],
+          "media_source_tweet_id": [
+            "2042971548257259907"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2043188847346127331",
+        "created_at": "2026-04-12T04:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043188847346127331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1536879871694999553",
+              "start": 3,
+              "username": "seitenkanna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4AR3XdlOQ5",
+              "end": 62,
+              "expanded_url": "https://x.com/seitenkanna/status/2042971548257259907/photo/1",
+              "media_key": "3_2042971461665853441",
+              "start": 39,
+              "url": "https://t.co/4AR3XdlOQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043188847346127331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042971548257259907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seitenkanna: what? 這真的是洗手的圖案wwwww? https://t.co/4AR3XdlOQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042971461665853441"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "conversation_id": "2042971548257259907",
+        "created_at": "2026-04-11T14:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042971548257259907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4AR3XdlOQ5",
+              "end": 45,
+              "expanded_url": "https://x.com/seitenkanna/status/2042971548257259907/photo/1",
+              "media_key": "3_2042971461665853441",
+              "start": 22,
+              "url": "https://t.co/4AR3XdlOQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042971548257259907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 21385,
+          "like_count": 421,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "what? 這真的是洗手的圖案wwwww? https://t.co/4AR3XdlOQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 710,
+          "like_count": 4324,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSuX6j\n圖奇:https://t.co/YkKOU5z2az \nDC群:https://t.co/5dcpXrExHx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 22,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 74,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 51,
+                "url": "https://t.co/O6HztSuX6j"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 101,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 78,
+                "url": "https://t.co/YkKOU5z2az"
+              },
+              {
+                "display_url": "discord.gg/EbKZJbrYtJ",
+                "end": 130,
+                "expanded_url": "https://discord.gg/EbKZJbrYtJ",
+                "start": 107,
+                "url": "https://t.co/5dcpXrExHx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGY3c"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天神奈@兩聲類Vtuber",
+        "pinned_tweet_id": "1713829179014426931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991793225141825536/rU2YpGKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8595,
+          "following_count": 938,
+          "like_count": 21800,
+          "listed_count": 41,
+          "media_count": 3285,
+          "tweet_count": 14209
+        },
+        "url": "https://t.co/SRtlcPGY3c",
+        "username": "seitenkanna",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2002373577467732407",
+    "created_at": "2025-12-20T21:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T22:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002495313140199872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758710235060207616",
+          "start": 0,
+          "username": "litaiyi6917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002495313140199872",
+    "in_reply_to_user_id": "1758710235060207616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002477413817856236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litaiyi6917 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2002373577467732407",
+        "created_at": "2025-12-20T21:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T22:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002495313140199872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758710235060207616",
+              "start": 0,
+              "username": "litaiyi6917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002495313140199872",
+        "in_reply_to_user_id": "1758710235060207616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002477413817856236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litaiyi6917 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758710235060207616",
+        "conversation_id": "2002373577467732407",
+        "created_at": "2025-12-20T20:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T21:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002477413817856236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002477413817856236",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002373577467732407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 很萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 178,
+          "like_count": 1444,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T04:29:40.000Z",
+        "description": "Baby, I fall in love again come every summertime",
+        "id": "1758710235060207616",
+        "name": "KaKa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920035896688050176/PgFesJlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 526,
+          "like_count": 4630,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1745
+        },
+        "username": "litaiyi6917",
+        "verified": false
+      }
+    ]
+  }
+}

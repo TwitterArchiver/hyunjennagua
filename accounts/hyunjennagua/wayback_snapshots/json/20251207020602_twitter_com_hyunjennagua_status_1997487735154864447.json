@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1997487735154864447",
+    "created_at": "2025-12-07T02:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997487735154864447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558346182316896256",
+          "start": 3,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997487735154864447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997163255488557479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoxer15: 我一看见那群人管张诗尧叫小蛋糕就想吐。这个世界什么时候停止溺爱雄性。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1997487735154864447",
+        "created_at": "2025-12-07T02:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997487735154864447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558346182316896256",
+              "start": 3,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997487735154864447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997163255488557479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoxer15: 我一看见那群人管张诗尧叫小蛋糕就想吐。这个世界什么时候停止溺爱雄性。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "1997163255488557479",
+        "created_at": "2025-12-06T04:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T05:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997163255488557479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997163255488557479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 222421,
+          "like_count": 1655,
+          "quote_count": 1,
+          "reply_count": 98,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我一看见那群人管张诗尧叫小蛋糕就想吐。这个世界什么时候停止溺爱雄性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 150,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "4i \\  ENTP\\ 摩羯\\173 \\可以叫我小物 / 头像是本人",
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "1988912862757060631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997349460091785217/bbiPHMK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 197,
+          "like_count": 11540,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 5191
+        },
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

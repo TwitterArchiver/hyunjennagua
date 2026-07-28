@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2033915589467746549",
+    "created_at": "2026-03-17T22:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T23:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034033138578362461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034033138578362461",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033915589467746549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1275,
+        "media_key": "3_2033915578268979206",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnrcTnbEAY-5ok.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2033915589467746549",
+        "created_at": "2026-03-17T22:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T23:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034033138578362461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034033138578362461",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033915589467746549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033915578268979206"
+          ]
+        },
+        "author_id": "2014723682548224000",
+        "conversation_id": "2033915589467746549",
+        "created_at": "2026-03-17T14:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033915589467746549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/trYrbtwgM9",
+              "end": 30,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2033915589467746549/photo/1",
+              "media_key": "3_2033915578268979206",
+              "start": 7,
+              "url": "https://t.co/trYrbtwgM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033915589467746549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我遇到天使了 https://t.co/trYrbtwgM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿｜我需要钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 566,
+          "like_count": 2967,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1648
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "男的請先過門！喜歡我請給我打錢~ \n姐姐：@OoOooo0518\n\n哥哥：@FangX79807\n\n寶寶：@AiXi1207",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "FangX79807"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "AiXi1207"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "香港",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2026185467692220473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031772724541157376/hd0rc-h1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 298,
+          "like_count": 4315,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1310
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": false
+      }
+    ]
+  }
+}

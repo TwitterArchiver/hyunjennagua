@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2076604395618496915",
+    "created_at": "2026-07-13T09:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076604395618496915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyunjennagua/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/hyunjennagua/status/2032018831024005397",
+          "start": 30,
+          "url": "https://t.co/qEQ2q7otxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076604395618496915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032018831024005397",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "巅峰时期1280t不过现在基本都卖掉了自己就剩了320t（ https://t.co/qEQ2q7otxe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2032018787978133505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDMuUlJbQAEJZQ1.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076604395618496915",
+        "created_at": "2026-07-13T09:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076604395618496915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyunjennagua/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hyunjennagua/status/2032018831024005397",
+              "start": 30,
+              "url": "https://t.co/qEQ2q7otxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076604395618496915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032018831024005397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "巅峰时期1280t不过现在基本都卖掉了自己就剩了320t（ https://t.co/qEQ2q7otxe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032018787978133505"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2032018831024005397",
+        "created_at": "2026-03-12T09:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032018831024005397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTw5C9Kx6s",
+              "end": 41,
+              "expanded_url": "https://x.com/hyunjennagua/status/2032018831024005397/photo/1",
+              "media_key": "3_2032018787978133505",
+              "start": 18,
+              "url": "https://t.co/XTw5C9Kx6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032018831024005397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1341,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加上这个我手里有25盒普瑞800t https://t.co/XTw5C9Kx6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1046,
+          "like_count": 7451,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 3675
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057440783310172160"
+      ],
+      "media_source_tweet_id": [
+        "2057440791392567732"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2057701317280485383",
+    "created_at": "2026-05-22T05:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057701317280485383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1128010587089264640",
+          "start": 3,
+          "username": "uixxixu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D2zpJe0Hb8",
+          "end": 48,
+          "expanded_url": "https://x.com/uixxixu/status/2057440791392567732/photo/1",
+          "media_key": "3_2057440783310172160",
+          "start": 25,
+          "url": "https://t.co/D2zpJe0Hb8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057701317280485383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057440791392567732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uixxixu: 这人盗我图 别被他骗了 https://t.co/D2zpJe0Hb8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057440783310172160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1_fduasAA6gFD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057440783310172160"
+          ],
+          "media_source_tweet_id": [
+            "2057440791392567732"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2057701317280485383",
+        "created_at": "2026-05-22T05:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057701317280485383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1128010587089264640",
+              "start": 3,
+              "username": "uixxixu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2zpJe0Hb8",
+              "end": 48,
+              "expanded_url": "https://x.com/uixxixu/status/2057440791392567732/photo/1",
+              "media_key": "3_2057440783310172160",
+              "start": 25,
+              "url": "https://t.co/D2zpJe0Hb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057701317280485383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057440791392567732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uixxixu: 这人盗我图 别被他骗了 https://t.co/D2zpJe0Hb8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057440783310172160"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057440791392567732",
+        "created_at": "2026-05-21T12:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057440791392567732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2zpJe0Hb8",
+              "end": 35,
+              "expanded_url": "https://x.com/uixxixu/status/2057440791392567732/photo/1",
+              "media_key": "3_2057440783310172160",
+              "start": 12,
+              "url": "https://t.co/D2zpJe0Hb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057440791392567732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3281,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这人盗我图 别被他骗了 https://t.co/D2zpJe0Hb8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 881,
+          "like_count": 5128,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 2842
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 427,
+          "like_count": 5446,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 3146
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2076936943469002771",
+    "created_at": "2026-07-14T10:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076974699586973925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1757962929637675008",
+          "start": 0,
+          "username": "Manno_BU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076974699586973925",
+    "in_reply_to_user_id": "1757962929637675008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076959589921386954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Manno_BU 之前开蓝标貌似没这么好（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076936943469002771",
+        "created_at": "2026-07-14T10:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076974699586973925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1757962929637675008",
+              "start": 0,
+              "username": "Manno_BU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076974699586973925",
+        "in_reply_to_user_id": "1757962929637675008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076959589921386954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manno_BU 之前开蓝标貌似没这么好（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757962929637675008",
+        "conversation_id": "2076936943469002771",
+        "created_at": "2026-07-14T09:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076959589921386954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076959589921386954",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076936943469002771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 因为你开蓝标了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 1056,
+          "like_count": 7562,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T03:00:14.000Z",
+        "description": "fpv飞手 摄影师",
+        "id": "1757962929637675008",
+        "location": "广州",
+        "name": "BU_Manno",
+        "pinned_tweet_id": "2065007185239966160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065007836573339648/AADzwJsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 1961,
+          "like_count": 32083,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 2738
+        },
+        "url": "",
+        "username": "Manno_BU",
+        "verified": false
+      }
+    ]
+  }
+}

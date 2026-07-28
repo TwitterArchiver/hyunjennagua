@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2074886442451669420",
+    "created_at": "2026-07-09T06:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075103669759140218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783810900555882496",
+          "start": 0,
+          "username": "MaybefL8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075103669759140218",
+    "in_reply_to_user_id": "1783810900555882496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074924672630882752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaybefL8964 谢谢嘿嘿૮₍˃̶ꇴ˂̶₎ა！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2074886442451669420",
+        "created_at": "2026-07-09T06:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075103669759140218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783810900555882496",
+              "start": 0,
+              "username": "MaybefL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075103669759140218",
+        "in_reply_to_user_id": "1783810900555882496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074924672630882752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaybefL8964 谢谢嘿嘿૮₍˃̶ꇴ˂̶₎ა！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783810900555882496",
+        "conversation_id": "2074886442451669420",
+        "created_at": "2026-07-08T18:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074924672630882752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074924672630882752",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074886442451669420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 1010,
+          "like_count": 6540,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 3448
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-26T10:50:54.000Z",
+        "description": "我是以前的dunk~^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y0tsubaKoiwai",
+                "end": 23,
+                "expanded_url": "http://t.me/Y0tsubaKoiwai",
+                "start": 0,
+                "url": "https://t.co/8Vfrej9ouW"
+              }
+            ]
+          }
+        },
+        "id": "1783810900555882496",
+        "name": "au revoir4227^ ^",
+        "pinned_tweet_id": "2039725301484433571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021881579124232192/Pg7308E0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 146,
+          "like_count": 20766,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/8Vfrej9ouW",
+        "username": "MaybefL8964",
+        "verified": true
+      }
+    ]
+  }
+}

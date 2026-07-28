@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2029383005387599954",
+    "created_at": "2026-03-05T02:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T03:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029383005387599954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015770770576678912",
+          "start": 3,
+          "username": "Stewie071105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029383005387599954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 162
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028894981759615005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stewie071105: 低学历，头发油腻，双眼无神，一脸苦相，穷逼，丑逼，缺爱逼，悲观主义者，前途渺茫，懒惰又邋遢，寻找月薪2万的工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2029383005387599954",
+        "created_at": "2026-03-05T02:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029383005387599954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015770770576678912",
+              "start": 3,
+              "username": "Stewie071105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029383005387599954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 162
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028894981759615005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stewie071105: 低学历，头发油腻，双眼无神，一脸苦相，穷逼，丑逼，缺爱逼，悲观主义者，前途渺茫，懒惰又邋遢，寻找月薪2万的工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015770770576678912",
+        "conversation_id": "2028894981759615005",
+        "created_at": "2026-03-03T18:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T19:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028894981759615005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028894981759615005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 162331,
+          "like_count": 1487,
+          "quote_count": 16,
+          "reply_count": 113,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "低学历，头发油腻，双眼无神，一脸苦相，穷逼，丑逼，缺爱逼，悲观主义者，前途渺茫，懒惰又邋遢，寻找月薪2万的工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 327,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T12:56:27.000Z",
+        "description": "骂我死全家 🚪52",
+        "id": "2015770770576678912",
+        "name": "饺子",
+        "pinned_tweet_id": "2020173140572483854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020843589862055936/g-5BpMGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 33,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 154
+        },
+        "username": "Stewie071105",
+        "verified": false
+      }
+    ]
+  }
+}

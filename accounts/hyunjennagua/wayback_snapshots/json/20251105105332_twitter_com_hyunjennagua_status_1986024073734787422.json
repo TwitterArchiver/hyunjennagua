@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1984988225279307950",
+    "created_at": "2025-11-05T10:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T11:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986024073734787422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1932404881543118848",
+          "start": 0,
+          "username": "1G1S2Y2L9S5moon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986024073734787422",
+    "in_reply_to_user_id": "1932404881543118848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984988225279307950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1G1S2Y2L9S5moon 又玩光遇又玩99太有品味了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1984988222481670145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wYRXxaoAElx_m.jpg",
+        "width": 1610
+      },
+      {
+        "height": 720,
+        "media_key": "3_1984988220942393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wYRSCbIAAxA7V.jpg",
+        "width": 1610
+      },
+      {
+        "height": 720,
+        "media_key": "3_1984988217435983872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wYRE-bkAAsM_-.jpg",
+        "width": 1610
+      },
+      {
+        "height": 720,
+        "media_key": "3_1984988220476813312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wYRQTa8AA7gv5.jpg",
+        "width": 1610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1984988225279307950",
+        "created_at": "2025-11-05T10:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986024073734787422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1932404881543118848",
+              "start": 0,
+              "username": "1G1S2Y2L9S5moon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986024073734787422",
+        "in_reply_to_user_id": "1932404881543118848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984988225279307950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1G1S2Y2L9S5moon 又玩光遇又玩99太有品味了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984988222481670145",
+            "3_1984988220942393344",
+            "3_1984988217435983872",
+            "3_1984988220476813312"
+          ]
+        },
+        "author_id": "1932404881543118848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984988225279307950",
+        "created_at": "2025-11-02T14:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984988225279307950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrMvwGSIqe",
+              "end": 104,
+              "expanded_url": "https://x.com/1G1S2Y2L9S5moon/status/1984988225279307950/photo/1",
+              "media_key": "3_1984988222481670145",
+              "start": 81,
+              "url": "https://t.co/hrMvwGSIqe"
+            },
+            {
+              "display_url": "pic.x.com/hrMvwGSIqe",
+              "end": 104,
+              "expanded_url": "https://x.com/1G1S2Y2L9S5moon/status/1984988225279307950/photo/1",
+              "media_key": "3_1984988220942393344",
+              "start": 81,
+              "url": "https://t.co/hrMvwGSIqe"
+            },
+            {
+              "display_url": "pic.x.com/hrMvwGSIqe",
+              "end": 104,
+              "expanded_url": "https://x.com/1G1S2Y2L9S5moon/status/1984988225279307950/photo/1",
+              "media_key": "3_1984988217435983872",
+              "start": 81,
+              "url": "https://t.co/hrMvwGSIqe"
+            },
+            {
+              "display_url": "pic.x.com/hrMvwGSIqe",
+              "end": 104,
+              "expanded_url": "https://x.com/1G1S2Y2L9S5moon/status/1984988225279307950/photo/1",
+              "media_key": "3_1984988220476813312",
+              "start": 81,
+              "url": "https://t.co/hrMvwGSIqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984988225279307950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许命运已被冠位指定，但作为它的主角或观测者，我们穿梭于潜意识与现实世界的边界，解析出亦幻亦当真的时代剧本，反时代浪潮或许只是一场噩梦，但它也指不定在哪真实存在 https://t.co/hrMvwGSIqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 66,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 110
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T11:50:13.000Z",
+        "description": "反对暴力 反对仇恨 反对早起 反对体制/\n一只不想当人类的猫，请给可怜的猫猫多点关心多点爱，猫猫会很感谢你的                       可以叫我小鱼喵            目前为三代目",
+        "id": "1932404881543118848",
+        "location": "America",
+        "name": "绛橘色日落",
+        "pinned_tweet_id": "1975054212213113342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984918699174989824/u2COHyhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 526,
+          "like_count": 7482,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1688
+        },
+        "username": "1G1S2Y2L9S5moon",
+        "verified": false
+      }
+    ]
+  }
+}

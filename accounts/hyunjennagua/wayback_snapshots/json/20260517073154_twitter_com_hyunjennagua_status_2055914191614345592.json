@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2055914191614345592",
+    "created_at": "2026-05-17T07:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055914191614345592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yionna1226/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yionna1226/status/2052271914262167566",
+          "start": 7,
+          "url": "https://t.co/bouFDjfN2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055914191614345592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052271914262167566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽真的假的 https://t.co/bouFDjfN2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2052271907068862465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsibRNaYAENlm6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2055914191614345592",
+        "created_at": "2026-05-17T07:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055914191614345592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yionna1226/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yionna1226/status/2052271914262167566",
+              "start": 7,
+              "url": "https://t.co/bouFDjfN2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055914191614345592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052271914262167566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽真的假的 https://t.co/bouFDjfN2n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052271907068862465"
+          ]
+        },
+        "author_id": "1463718627287318528",
+        "conversation_id": "2052271914262167566",
+        "created_at": "2026-05-07T06:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052271914262167566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DuYUNcUk2c",
+              "end": 53,
+              "expanded_url": "https://x.com/chanyeol2130/status/2052271914262167566/photo/1",
+              "media_key": "3_2052271907068862465",
+              "start": 30,
+              "url": "https://t.co/DuYUNcUk2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052271914262167566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2477,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚药房给我来电话 说马上加巴喷丁也要下架 大家可以多囤点 https://t.co/DuYUNcUk2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 886,
+          "like_count": 5117,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 2828
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T03:58:24.000Z",
+        "description": "小号防炸号：@2130pcyyyy 🚪88好友位 🚪168图包 🚪188图包➕纯绿陪聊 🚪268图包➕线上半绿陪聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "2130pcyyyy"
+              }
+            ]
+          }
+        },
+        "id": "1463718627287318528",
+        "location": "距您≦100m",
+        "name": "鸣asuka.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597513750055047169/mG4qlnA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3595,
+          "following_count": 52,
+          "like_count": 1346,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 1530
+        },
+        "username": "Yionna1226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997218778988310529"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1997218792355565638",
+    "created_at": "2025-12-06T08:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T09:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997218792355565638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hp1NCqwrhg",
+          "end": 35,
+          "expanded_url": "https://x.com/hyunjennagua/status/1997218792355565638/photo/1",
+          "media_key": "3_1997218778988310529",
+          "start": 12,
+          "url": "https://t.co/Hp1NCqwrhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997218792355565638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人今晚▖▜▖▗吗？ https://t.co/Hp1NCqwrhg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997218792355565638].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997218792355565638",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997218792355565638"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1997218778988310529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7eL5dRWcAEzx8h.jpg",
+        "width": 576
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 149,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

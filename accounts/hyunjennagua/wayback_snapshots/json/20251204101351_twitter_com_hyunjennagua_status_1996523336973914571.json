@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996247402509217792"
+      ],
+      "media_source_tweet_id": [
+        "1996247740947616092"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1996523336973914571",
+    "created_at": "2025-12-04T10:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996523336973914571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775833048493240320",
+          "start": 3,
+          "username": "kuuki2010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ubzuCvgYjz",
+          "end": 68,
+          "expanded_url": "https://x.com/kuuki2010/status/1996247740947616092/video/1",
+          "media_key": "13_1996247402509217792",
+          "start": 45,
+          "url": "https://t.co/ubzuCvgYjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996523336973914571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996247740947616092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuuki2010: 转载 不记得从哪找的了 \n割唧唧的视频\n慎入⚠️\n慎入‼️ https://t.co/ubzuCvgYjz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1996523336973914571].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1996523336973914571",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1996523336973914571"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32233,
+        "height": 432,
+        "media_key": "13_1996247402509217792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996247402509217792/img/CHk5GVrmONXhwOFP.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996247402509217792/vid/avc1/320x332/Cq7IqGHWBgoFZUqA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996247402509217792/vid/avc1/416x432/dWcuXenjprveW4pm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996247402509217792/pl/zZ1NB62IZfiQYt4T.m3u8"
+          }
+        ],
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996247402509217792"
+          ]
+        },
+        "author_id": "1775833048493240320",
+        "conversation_id": "1996247740947616092",
+        "created_at": "2025-12-03T15:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996247740947616092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubzuCvgYjz",
+              "end": 53,
+              "expanded_url": "https://x.com/kuuki2010/status/1996247740947616092/video/1",
+              "media_key": "13_1996247402509217792",
+              "start": 30,
+              "url": "https://t.co/ubzuCvgYjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996247740947616092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "转载 不记得从哪找的了 \n割唧唧的视频\n慎入⚠️\n慎入‼️ https://t.co/ubzuCvgYjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 141,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "💊 10年xyn 🏳️‍⚧️ 🖤 overdose lover 🩸喜欢非主流 🥰🤚\n❤️ rebzyyx ,kets4eki,clover,snor..scenecore\n💉 期待互fo😋😋",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "kuuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974481137121824768/-nq3k8dg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 139,
+          "like_count": 9018,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 708
+        },
+        "username": "kuuki2010",
+        "verified": false
+      }
+    ]
+  }
+}

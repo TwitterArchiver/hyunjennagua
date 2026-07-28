@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2028023610019815725",
+    "created_at": "2026-03-01T08:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T09:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028023610019815725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1608808238518001664",
+          "start": 3,
+          "username": "Chapteristic1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028023610019815725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027409453528617281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chapteristic1: 🌎世界性压抑：\n欧洲：可以看看你的照片吗？\n美国：(介绍+脸照+身材)，可以出来看下vibe\n澳洲+加拿大：开车接你or带你出去玩\n国内：鸡照or侮辱or意淫小作文\n\n丁丁弹射速度：中=美&gt;欧&gt;澳&gt;加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2028023610019815725",
+        "created_at": "2026-03-01T08:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028023610019815725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1608808238518001664",
+              "start": 3,
+              "username": "Chapteristic1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028023610019815725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027409453528617281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chapteristic1: 🌎世界性压抑：\n欧洲：可以看看你的照片吗？\n美国：(介绍+脸照+身材)，可以出来看下vibe\n澳洲+加拿大：开车接你or带你出去玩\n国内：鸡照or侮辱or意淫小作文\n\n丁丁弹射速度：中=美&gt;欧&gt;澳&gt;加"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608808238518001664",
+        "conversation_id": "2027409453528617281",
+        "created_at": "2026-02-27T15:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027409453528617281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027409453528617281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 227080,
+          "like_count": 1662,
+          "quote_count": 9,
+          "reply_count": 37,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "🌎世界性压抑：\n欧洲：可以看看你的照片吗？\n美国：(介绍+脸照+身材)，可以出来看下vibe\n澳洲+加拿大：开车接你or带你出去玩\n国内：鸡照or侮辱or意淫小作文\n\n丁丁弹射速度：中=美&gt;欧&gt;澳&gt;加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 236,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T12:52:41.000Z",
+        "description": "🇬🇧🇺🇸🇦🇺我是网黄吗 🌴树洞@chachal07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "chachal07"
+              }
+            ]
+          }
+        },
+        "id": "1608808238518001664",
+        "location": "开课ing👅",
+        "name": "Alcholio",
+        "pinned_tweet_id": "2027244612792783347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664017618053808132/J2H36VfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31704,
+          "following_count": 20,
+          "like_count": 14,
+          "listed_count": 66,
+          "media_count": 144,
+          "tweet_count": 889
+        },
+        "username": "Chapteristic1",
+        "verified": true
+      }
+    ]
+  }
+}

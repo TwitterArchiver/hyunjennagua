@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2042896758972285309",
+    "created_at": "2026-04-11T09:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042896758972285309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cheese_ghostfo…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/cheese_ghostfox/status/2042821528589664618",
+          "start": 23,
+          "url": "https://t.co/rt3rCWSL2Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042896758972285309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042821528589664618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的晚安了 想起来之前我还在他这里买过药…. https://t.co/rt3rCWSL2Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1933,
+        "media_key": "3_2042821525892665345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmPWr5akAEjlD9.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042896758972285309",
+        "created_at": "2026-04-11T09:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042896758972285309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheese_ghostfo…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/cheese_ghostfox/status/2042821528589664618",
+              "start": 23,
+              "url": "https://t.co/rt3rCWSL2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042896758972285309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042821528589664618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的晚安了 想起来之前我还在他这里买过药…. https://t.co/rt3rCWSL2Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042821525892665345"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042821528589664618",
+        "created_at": "2026-04-11T04:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042821528589664618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqpgAlORe1",
+              "end": 146,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2042821528589664618/photo/1",
+              "media_key": "3_2042821525892665345",
+              "start": 123,
+              "url": "https://t.co/wqpgAlORe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042821528589664618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "晚安，炽老师...\n虽然是可预见的离别方式，然而狐还是感觉好遗憾...可能是遗憾没有珍惜还可以与您交流的时光吧\n请原谅狐冒昧地，使用您自己的作品\n来宣告与扩散它们作者的结局\n若有来生，但愿您的来生健康幸福\n若无后世，敬祝您的意识安宁消逝\n沉念:\n药圈的引路人之一，艺术家与哲学家，星辰与星尘之隙社群版主，荣誉管理员\n炽烈已极 阁下\n\n 丙午年二月廿四\n霧開川 望\n敬致"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7557,
+          "like_count": 164,
+          "quote_count": 10,
+          "reply_count": 30,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，炽老师...\n虽然是可预见的离别方式，然而狐还是感觉好遗憾...可能是遗憾没有珍惜还可以与您交流的时光吧\n请原谅狐冒昧地，使用您自己的作品\n来宣告与扩散它们作者的结局\n若有来生，但愿您的来生健康幸福\n若无后世，敬祝您的意识安宁消逝\n沉念: https://t.co/wqpgAlORe1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 708,
+          "like_count": 4259,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 1453,
+          "like_count": 16116,
+          "listed_count": 4,
+          "media_count": 554,
+          "tweet_count": 5083
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

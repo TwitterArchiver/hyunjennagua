@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1993950560157081661",
+    "created_at": "2025-11-27T08:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993960017834463558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1239120348680863745",
+          "start": 0,
+          "username": "CharLotte_tysy"
+        },
+        {
+          "end": 29,
+          "id": "1977975962961932288",
+          "start": 16,
+          "username": "hahagehahaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993960017834463558",
+    "in_reply_to_user_id": "1239120348680863745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993959693052739873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharLotte_tysy @hahagehahaha 我错了 我发布朋友圈后两分钟就已经删掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1993950560157081661",
+        "created_at": "2025-11-27T08:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993960017834463558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1239120348680863745",
+              "start": 0,
+              "username": "CharLotte_tysy"
+            },
+            {
+              "end": 29,
+              "id": "1977975962961932288",
+              "start": 16,
+              "username": "hahagehahaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993960017834463558",
+        "in_reply_to_user_id": "1239120348680863745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993959693052739873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharLotte_tysy @hahagehahaha 我错了 我发布朋友圈后两分钟就已经删掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239120348680863745",
+        "conversation_id": "1993950560157081661",
+        "created_at": "2025-11-27T08:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993959693052739873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            },
+            {
+              "end": 27,
+              "id": "1977975962961932288",
+              "start": 14,
+              "username": "hahagehahaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993959693052739873",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993951099142000863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua @hahagehahaha 可能还不太想分手，用这种方式想引起注意或者报复… 不是好手段"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 113,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 254
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T09:24:57.000Z",
+        "description": "吸血鬼就要无情的活在这世上！陷入药物滥用中的小蝙蝠一枚。",
+        "id": "1239120348680863745",
+        "location": "intelnet",
+        "name": "植野直花（小蝙蝠版",
+        "pinned_tweet_id": "1857462491527405822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971276790481158145/i-9y1Mt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 194,
+          "like_count": 12330,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 7981
+        },
+        "username": "CharLotte_tysy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T05:53:23.000Z",
+        "description": "红红火火恍恍惚惚",
+        "id": "1977975962961932288",
+        "location": "十万八千里",
+        "name": "哦哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979882984720252928/AC_zcl3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 180,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 545
+        },
+        "username": "hahagehahaha",
+        "verified": false
+      }
+    ]
+  }
+}

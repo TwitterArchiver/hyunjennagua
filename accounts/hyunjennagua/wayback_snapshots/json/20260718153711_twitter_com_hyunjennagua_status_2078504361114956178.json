@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078504353305108480"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078504361114956178",
+    "created_at": "2026-07-18T15:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078504361114956178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pdVa8GIrZ7",
+          "end": 78,
+          "expanded_url": "https://x.com/hyunjennagua/status/2078504361114956178/photo/1",
+          "media_key": "3_2078504353305108480",
+          "start": 55,
+          "url": "https://t.co/pdVa8GIrZ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078504361114956178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "翻到了之前和一个好朋友的聊天记录…好想她不过这辈子应该是没可能再回到以前了除非他来找我 我一次嗑愈美是因为她 https://t.co/pdVa8GIrZ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078504353305108480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhUsmraoAA4w2h.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078504353305108480"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078504361114956178",
+        "created_at": "2026-07-18T15:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078504361114956178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdVa8GIrZ7",
+              "end": 78,
+              "expanded_url": "https://x.com/hyunjennagua/status/2078504361114956178/photo/1",
+              "media_key": "3_2078504353305108480",
+              "start": 55,
+              "url": "https://t.co/pdVa8GIrZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078504361114956178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了之前和一个好朋友的聊天记录…好想她不过这辈子应该是没可能再回到以前了除非他来找我 我一次嗑愈美是因为她 https://t.co/pdVa8GIrZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 1085,
+          "like_count": 8052,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 3900
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

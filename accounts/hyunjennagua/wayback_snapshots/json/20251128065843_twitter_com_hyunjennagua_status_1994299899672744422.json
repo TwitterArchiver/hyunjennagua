@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994299888247373824"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1994299899672744422",
+    "created_at": "2025-11-28T06:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994299899672744422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fohaD40ZQr",
+          "end": 126,
+          "expanded_url": "https://x.com/hyunjennagua/status/1994299899672744422/photo/1",
+          "media_key": "3_1994299888247373824",
+          "start": 103,
+          "url": "https://t.co/fohaD40ZQr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994299899672744422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "赞赏到账通知\n收款金额\n￥0.01\n来自张竣达\n付款方留言您妈死了吧\n到账时间2025-11-28 14:56:03\n备注今日收到赞赏2笔，累计金额\n￥52.01\n查看详情&gt;\n我的账单支付服务摇优惠 https://t.co/fohaD40ZQr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994299888247373824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60tLp6WAAA_Y6f.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994299888247373824"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1994299899672744422",
+        "created_at": "2025-11-28T06:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994299899672744422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fohaD40ZQr",
+              "end": 126,
+              "expanded_url": "https://x.com/hyunjennagua/status/1994299899672744422/photo/1",
+              "media_key": "3_1994299888247373824",
+              "start": 103,
+              "url": "https://t.co/fohaD40ZQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994299899672744422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赞赏到账通知\n收款金额\n￥0.01\n来自张竣达\n付款方留言您妈死了吧\n到账时间2025-11-28 14:56:03\n备注今日收到赞赏2笔，累计金额\n￥52.01\n查看详情&gt;\n我的账单支付服务摇优惠 https://t.co/fohaD40ZQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "pinned_tweet_id": "1993633187520508332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 122,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 282
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

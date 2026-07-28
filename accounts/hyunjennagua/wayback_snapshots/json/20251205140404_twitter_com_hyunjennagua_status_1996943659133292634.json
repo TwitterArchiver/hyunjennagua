@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996943650308435968"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1996943659133292634",
+    "created_at": "2025-12-05T14:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T15:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996943659133292634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 31,
+          "id": "1677587110210174976",
+          "start": 16,
+          "username": "colleen_ab6642"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 59,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1994932460413751298/wF5tNrrz?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1994932460413751298/wF5tNrrz?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 36,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "url": "https://t.co/BOb9eFVOOb"
+        },
+        {
+          "display_url": "pic.x.com/rSfUXG53za",
+          "end": 83,
+          "expanded_url": "https://x.com/hyunjennagua/status/1996943659133292634/photo/1",
+          "media_key": "3_1996943650308435968",
+          "start": 60,
+          "url": "https://t.co/rSfUXG53za"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996943659133292634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Twitter上的暗恋是  @colleen_ab6642\n\n➡️ https://t.co/BOb9eFVOOb https://t.co/rSfUXG53za"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1996943650308435968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7aRq3EbMAApvVH.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996943650308435968"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1996943659133292634",
+        "created_at": "2025-12-05T14:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996943659133292634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1677587110210174976",
+              "start": 16,
+              "username": "colleen_ab6642"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 59,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1994932460413751298/wF5tNrrz?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1994932460413751298/wF5tNrrz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/BOb9eFVOOb"
+            },
+            {
+              "display_url": "pic.x.com/rSfUXG53za",
+              "end": 83,
+              "expanded_url": "https://x.com/hyunjennagua/status/1996943659133292634/photo/1",
+              "media_key": "3_1996943650308435968",
+              "start": 60,
+              "url": "https://t.co/rSfUXG53za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996943659133292634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @colleen_ab6642\n\n➡️ https://t.co/BOb9eFVOOb https://t.co/rSfUXG53za"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 157,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T07:55:19.000Z",
+        "description": "抑郁症、焦虑症患者（目前康复治疗ing)，爱好文学、历史、哲学、精神分析、政治经济学（以及算半个二次元）友好一切性少数群体🏳️‍🌈🏳️‍⚧️，和所有人都能友好交流（除了无理取闹讲不通者会ban）",
+        "id": "1677587110210174976",
+        "location": "Tokyo-to, Japan",
+        "name": "人世间的Polonius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677590805152944128/4WNEwiFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 876,
+          "like_count": 5207,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 267
+        },
+        "username": "colleen_ab6642",
+        "verified": false
+      }
+    ]
+  }
+}

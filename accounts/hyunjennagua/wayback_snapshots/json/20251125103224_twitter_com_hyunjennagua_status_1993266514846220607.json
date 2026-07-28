@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1992977054141415726",
+    "created_at": "2025-11-25T10:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993266514846220607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1696180150428454912",
+          "start": 0,
+          "username": "7_xinnnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993266514846220607",
+    "in_reply_to_user_id": "1696180150428454912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993265286770737306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_xinnnnn 好分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1992977054141415726",
+        "created_at": "2025-11-25T10:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993266514846220607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1696180150428454912",
+              "start": 0,
+              "username": "7_xinnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993266514846220607",
+        "in_reply_to_user_id": "1696180150428454912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993265286770737306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_xinnnnn 好分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696180150428454912",
+        "conversation_id": "1992977054141415726",
+        "created_at": "2025-11-25T10:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993265286770737306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993265286770737306",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992977054141415726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 好分还是坏分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 101,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 151
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T15:17:43.000Z",
+        "description": "重拾.",
+        "id": "1696180150428454912",
+        "location": "07XX",
+        "name": "7 xin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741854275419197440/hOJiC9jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "7_xinnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

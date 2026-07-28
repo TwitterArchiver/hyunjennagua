@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995748083485884416",
+        "3_1995748084333092864",
+        "3_1995748085780135936"
+      ],
+      "media_source_tweet_id": [
+        "1995748097327075831",
+        "1995748097327075831",
+        "1995748097327075831"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1995831122190893240",
+    "created_at": "2025-12-02T12:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995831122190893240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871325333380861952",
+          "start": 3,
+          "username": "XIII_drawing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wmeN9GyxDD",
+          "end": 102,
+          "expanded_url": "https://x.com/XIII_drawing/status/1995748097327075831/photo/1",
+          "media_key": "3_1995748083485884416",
+          "start": 79,
+          "url": "https://t.co/wmeN9GyxDD"
+        },
+        {
+          "display_url": "pic.x.com/wmeN9GyxDD",
+          "end": 102,
+          "expanded_url": "https://x.com/XIII_drawing/status/1995748097327075831/photo/1",
+          "media_key": "3_1995748084333092864",
+          "start": 79,
+          "url": "https://t.co/wmeN9GyxDD"
+        },
+        {
+          "display_url": "pic.x.com/wmeN9GyxDD",
+          "end": 102,
+          "expanded_url": "https://x.com/XIII_drawing/status/1995748097327075831/photo/1",
+          "media_key": "3_1995748085780135936",
+          "start": 79,
+          "url": "https://t.co/wmeN9GyxDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995831122190893240",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995748097327075831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XIII_drawing: reupload arm cuts (fascia)\n\nsfx makeup!!! everything fake!!! https://t.co/wmeN9GyxDD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995831122190893240].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995831122190893240",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995831122190893240"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1995748083485884416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JSTtlXwAAmPaT.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1995748084333092864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JSTwvXIAAbJF4.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1995748085780135936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JST2IXQAA8scZ.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995748083485884416",
+            "3_1995748084333092864",
+            "3_1995748085780135936"
+          ]
+        },
+        "author_id": "1871325333380861952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995748097327075831",
+        "created_at": "2025-12-02T06:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T07:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995748097327075831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmeN9GyxDD",
+              "end": 84,
+              "expanded_url": "https://x.com/XIII_drawing/status/1995748097327075831/photo/1",
+              "media_key": "3_1995748083485884416",
+              "start": 61,
+              "url": "https://t.co/wmeN9GyxDD"
+            },
+            {
+              "display_url": "pic.x.com/wmeN9GyxDD",
+              "end": 84,
+              "expanded_url": "https://x.com/XIII_drawing/status/1995748097327075831/photo/1",
+              "media_key": "3_1995748084333092864",
+              "start": 61,
+              "url": "https://t.co/wmeN9GyxDD"
+            },
+            {
+              "display_url": "pic.x.com/wmeN9GyxDD",
+              "end": 84,
+              "expanded_url": "https://x.com/XIII_drawing/status/1995748097327075831/photo/1",
+              "media_key": "3_1995748085780135936",
+              "start": 61,
+              "url": "https://t.co/wmeN9GyxDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995748097327075831",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 1145,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "reupload arm cuts (fascia)\n\nsfx makeup!!! everything fake!!! https://t.co/wmeN9GyxDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 138,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T22:41:56.000Z",
+        "description": "just another broken girl, gambling with her life//shedtwt//21//\ntelegram channel: https://t.co/safLw9OiBK\nprivate: @dismal_eternity",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 115,
+                "username": "dismal_eternity"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+PqVnuWrpMlw3Y…",
+                "end": 105,
+                "expanded_url": "https://t.me/+PqVnuWrpMlw3YWE6",
+                "start": 82,
+                "url": "https://t.co/safLw9OiBK"
+              }
+            ]
+          }
+        },
+        "id": "1871325333380861952",
+        "name": "XIII.cuts.again",
+        "pinned_tweet_id": "1983425484559134947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919297141400358912/Yfv3KYGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4945,
+          "following_count": 116,
+          "like_count": 761,
+          "listed_count": 5,
+          "media_count": 57,
+          "tweet_count": 561
+        },
+        "username": "XIII_drawing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030323969837166592"
+      ],
+      "media_source_tweet_id": [
+        "2030324035259908161"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2030523205006364966",
+    "created_at": "2026-03-08T05:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030523205006364966"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "shtwt"
+        },
+        {
+          "end": 36,
+          "start": 28,
+          "tag": "goretwt"
+        },
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "shedtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2006428442133397504",
+          "start": 3,
+          "username": "breakcoredoll00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jXiMQzokEG",
+          "end": 69,
+          "expanded_url": "https://x.com/breakcoredoll00/status/2030324035259908161/video/1",
+          "media_key": "13_2030323969837166592",
+          "start": 46,
+          "url": "https://t.co/jXiMQzokEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030523205006364966",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030324035259908161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @breakcoredoll00: #shtwt #goretwt #shedtwt https://t.co/jXiMQzokEG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030523205006364966].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030523205006364966",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030523205006364966"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6815,
+        "height": 920,
+        "media_key": "13_2030323969837166592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030323969837166592/img/zY9xlA_Y43gIms3y.jpg",
+        "public_metrics": {
+          "view_count": 1443
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030323969837166592/vid/avc1/320x408/bYjBcyNgHK-OfkYE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030323969837166592/vid/avc1/480x612/td9fMhLd5vcoMHqM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030323969837166592/vid/avc1/720x920/INPBYKPEypPY6G0X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030323969837166592/pl/qMaly2NYnDJYMWRG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030323969837166592"
+          ]
+        },
+        "author_id": "2006428442133397504",
+        "conversation_id": "2030324035259908161",
+        "created_at": "2026-03-07T16:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030324035259908161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            },
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "goretwt"
+            },
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "shedtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXiMQzokEG",
+              "end": 48,
+              "expanded_url": "https://x.com/breakcoredoll00/status/2030324035259908161/video/1",
+              "media_key": "13_2030323969837166592",
+              "start": 25,
+              "url": "https://t.co/jXiMQzokEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030324035259908161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 3852,
+          "like_count": 578,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "#shtwt #goretwt #shedtwt https://t.co/jXiMQzokEG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 353,
+          "like_count": 2620,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T18:13:22.000Z",
+        "description": "#shtwt #goretwt TW : sensitive content.\ni follow back",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "goretwt"
+              }
+            ]
+          }
+        },
+        "id": "2006428442133397504",
+        "location": "she/her",
+        "name": "⃟",
+        "pinned_tweet_id": "2029487996970688786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029147301688819713/3mYTVy0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 722,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 92
+        },
+        "username": "breakcoredoll00",
+        "verified": false
+      }
+    ]
+  }
+}

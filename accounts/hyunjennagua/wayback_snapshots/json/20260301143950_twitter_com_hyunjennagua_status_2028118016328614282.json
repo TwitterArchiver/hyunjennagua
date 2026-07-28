@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2028117221990416760",
+    "created_at": "2026-03-01T14:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T15:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028118016328614282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1955540676663447553",
+          "start": 0,
+          "username": "Hiyori_ovo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028118016328614282",
+    "in_reply_to_user_id": "1955540676663447553",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028117947139711255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiyori_ovo_ 🫰🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2028117221990416760",
+        "created_at": "2026-03-01T14:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028118016328614282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955540676663447553",
+              "start": 0,
+              "username": "Hiyori_ovo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028118016328614282",
+        "in_reply_to_user_id": "1955540676663447553",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028117947139711255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiyori_ovo_ 🫰🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955540676663447553",
+        "conversation_id": "2028117221990416760",
+        "created_at": "2026-03-01T14:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028117947139711255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028117947139711255",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028117221990416760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 蹲蹲🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2028028704157270381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 254,
+          "like_count": 2332,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T08:03:31.000Z",
+        "description": "20↑ 中文/English/日本語を勉強中です\n可以叫我悠悠",
+        "id": "1955540676663447553",
+        "location": "shinonome",
+        "name": "ひより",
+        "pinned_tweet_id": "2027733540209889423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027401774135717888/JXrY6JMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 101,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 96
+        },
+        "username": "Hiyori_ovo_",
+        "verified": false
+      }
+    ]
+  }
+}

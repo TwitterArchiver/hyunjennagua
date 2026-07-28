@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2002658235728474335",
+    "created_at": "2025-12-22T06:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T07:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002985403926880637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779818205344595968",
+          "start": 0,
+          "username": "Bunny_ljz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002985403926880637",
+    "in_reply_to_user_id": "1779818205344595968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002985118978413037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunny_ljz 是充钱了 类似于vip的特殊标识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2002658235728474335",
+        "created_at": "2025-12-22T06:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002985403926880637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779818205344595968",
+              "start": 0,
+              "username": "Bunny_ljz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002985403926880637",
+        "in_reply_to_user_id": "1779818205344595968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002985118978413037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunny_ljz 是充钱了 类似于vip的特殊标识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779818205344595968",
+        "conversation_id": "2002658235728474335",
+        "created_at": "2025-12-22T06:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002985118978413037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002985118978413037",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002658235728474335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 所以是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002726501666705755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 187,
+          "like_count": 1650,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-15T10:25:18.000Z",
+        "description": "不是我可爱 是你爱上我了 笨蛋（不约不卖）",
+        "id": "1779818205344595968",
+        "location": "纯绿🚪88",
+        "name": "Bunny_阿幼",
+        "pinned_tweet_id": "1883927015369453996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997630375150157824/1gdAAPhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 36,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 81
+        },
+        "username": "Bunny_ljz",
+        "verified": false
+      }
+    ]
+  }
+}

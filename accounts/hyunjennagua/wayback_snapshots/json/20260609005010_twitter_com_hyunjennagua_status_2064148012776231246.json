@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2064148012776231246",
+    "created_at": "2026-06-09T00:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064148012776231246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581866233225281538",
+          "start": 3,
+          "username": "K1ta_Ikuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064148012776231246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064015477714874797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K1ta_Ikuyo: 可以喜欢我吗？可以爱我吗？可以毫无理由地亲亲吗？可以把冰凉的手放进你的口袋里取暖吗？可以逛街时十指相扣吗？可以在睡前说晚安吗？可以在早晨有起床吻吗？可以和你共用一床被窝吗？可以把密码改成你的生日吗？可以在条件反射时第一个喊我的名字吗？可以和我一直…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2064148012776231246",
+        "created_at": "2026-06-09T00:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064148012776231246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581866233225281538",
+              "start": 3,
+              "username": "K1ta_Ikuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064148012776231246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064015477714874797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K1ta_Ikuyo: 可以喜欢我吗？可以爱我吗？可以毫无理由地亲亲吗？可以把冰凉的手放进你的口袋里取暖吗？可以逛街时十指相扣吗？可以在睡前说晚安吗？可以在早晨有起床吻吗？可以和你共用一床被窝吗？可以把密码改成你的生日吗？可以在条件反射时第一个喊我的名字吗？可以和我一直…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581866233225281538",
+        "conversation_id": "2064015477714874797",
+        "created_at": "2026-06-08T16:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064015477714874797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064015477714874797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 6417,
+          "like_count": 258,
+          "quote_count": 5,
+          "reply_count": 34,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "可以喜欢我吗？可以爱我吗？可以毫无理由地亲亲吗？可以把冰凉的手放进你的口袋里取暖吗？可以逛街时十指相扣吗？可以在睡前说晚安吗？可以在早晨有起床吻吗？可以和你共用一床被窝吗？可以把密码改成你的生日吗？可以在条件反射时第一个喊我的名字吗？可以和我一直这样谈恋爱吗？可以吗可以吗可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 889,
+          "like_count": 5431,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2964
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T04:34:43.000Z",
+        "description": "結束バンドのギタリスト｜❤️@N2009750000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "N2009750000"
+              }
+            ]
+          }
+        },
+        "id": "1581866233225281538",
+        "location": "Tokyo Japan",
+        "name": "きた いくよ",
+        "pinned_tweet_id": "1937031572701729195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005655391951290368/i8ZUNkDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11751,
+          "following_count": 3083,
+          "like_count": 35806,
+          "listed_count": 22,
+          "media_count": 679,
+          "tweet_count": 14753
+        },
+        "username": "K1ta_Ikuyo",
+        "verified": false
+      }
+    ]
+  }
+}

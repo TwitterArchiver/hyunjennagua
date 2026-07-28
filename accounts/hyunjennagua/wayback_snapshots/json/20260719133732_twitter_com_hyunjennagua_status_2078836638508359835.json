@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2077407759704916306",
+    "created_at": "2026-07-19T13:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078836638508359835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "622036546",
+          "start": 0,
+          "username": "Overdose_Rx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078836638508359835",
+    "in_reply_to_user_id": "622036546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077407759704916306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_Rx 加油！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2077407759704916306",
+        "created_at": "2026-07-19T13:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078836638508359835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "622036546",
+              "start": 0,
+              "username": "Overdose_Rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078836638508359835",
+        "in_reply_to_user_id": "622036546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077407759704916306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_Rx 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2077407759704916306",
+        "created_at": "2026-07-15T14:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077407759704916306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077407759704916306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "本人将暂时淡出药圈，但并非彻底离开。目前正努力戒除药物滥用（OD），并将生活重心转向学习。未来是否回归尚未可知，也可能就此淡出。感谢大家一路以来的陪伴与支持。愿各自前行，亦愿我们终会在下一处路口重逢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 1088,
+          "like_count": 8142,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 3940
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 世另我 @sacred1124 | 提问账号 @Overdose_Rc | 官号 @Psycho_Wiki | 社群：https://t.co/uRB7PdGquY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "sacred1124"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "Overdose_Rc"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/gfchxhnm",
+                "end": 145,
+                "expanded_url": "http://t.me/gfchxhnm",
+                "start": 122,
+                "url": "https://t.co/uRB7PdGquY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/726ooQNAiR"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "伊甸园",
+        "name": "椎名Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3053,
+          "following_count": 122,
+          "like_count": 11668,
+          "listed_count": 8,
+          "media_count": 720,
+          "tweet_count": 4280
+        },
+        "url": "https://t.co/726ooQNAiR",
+        "username": "Overdose_Rx",
+        "verified": false
+      }
+    ]
+  }
+}

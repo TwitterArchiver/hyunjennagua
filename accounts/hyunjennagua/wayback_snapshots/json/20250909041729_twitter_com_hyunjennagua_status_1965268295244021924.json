@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1964912394926543140",
+    "created_at": "2025-09-09T04:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T05:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965268295244021924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965268295244021924",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964912394926543140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 抱抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1964912394926543140",
+        "created_at": "2025-09-09T04:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T05:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965268295244021924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965268295244021924",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964912394926543140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945070018905145344",
+        "conversation_id": "1964912394926543140",
+        "created_at": "2025-09-08T04:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T05:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964912394926543140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964912394926543140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本开心不起来，什么事情都不想做，感觉有了一点点自杀倾向，是精神类药物的戒断反应吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "躁狂加焦虑",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "＾对不起，别原谅我 ＾ 想来找我丸的可以私信.加我qq或者tg ＾ (400fo再露脸叭)*（私信回fo,会查成分)＾(SM,k9重度爱好者，详情请见横幅）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Dianabsq",
+                "end": 23,
+                "expanded_url": "https://t.me/Dianabsq",
+                "start": 0,
+                "url": "https://t.co/FlpYO1wFSB"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "china",
+        "name": "砂糖桔🏳️‍⚧️（半上学版",
+        "pinned_tweet_id": "1957084213531783437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948026167304581120/CphJnSlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 165,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/FlpYO1wFSB",
+        "username": "DianaAnya0",
+        "verified": false
+      }
+    ]
+  }
+}

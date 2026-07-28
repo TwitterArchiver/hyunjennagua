@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2037385905657569650",
+    "created_at": "2026-03-27T06:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037422290439221482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707911374377213952",
+          "start": 0,
+          "username": "Rainyufanf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037422290439221482",
+    "in_reply_to_user_id": "1707911374377213952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037385905657569650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainyufanf 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037385895624790016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEY_rXMbUAAPjrz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2037385905657569650",
+        "created_at": "2026-03-27T06:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037422290439221482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707911374377213952",
+              "start": 0,
+              "username": "Rainyufanf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037422290439221482",
+        "in_reply_to_user_id": "1707911374377213952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037385905657569650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainyufanf 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037385895624790016"
+          ]
+        },
+        "author_id": "1707911374377213952",
+        "conversation_id": "2037385905657569650",
+        "created_at": "2026-03-27T04:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037385905657569650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZT8xTuV8d",
+              "end": 67,
+              "expanded_url": "https://x.com/Rainyufanf/status/2037385905657569650/photo/1",
+              "media_key": "3_2037385895624790016",
+              "start": 44,
+              "url": "https://t.co/wZT8xTuV8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037385905657569650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1407,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生知道我嗑药给我开的，说普瑞也能抗焦虑和止疼。我问了右美，医生说他们拿这个麻醉的都是 https://t.co/wZT8xTuV8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 612,
+          "like_count": 3287,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-30T00:13:26.000Z",
+        "description": "雪下的那么深~下的那么认真~",
+        "id": "1707911374377213952",
+        "location": "你心里",
+        "name": "雪下的那么深~下的那么认真~",
+        "pinned_tweet_id": "2016913911451439480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848327034537394176/2ld1xMwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 278,
+          "like_count": 6293,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1358
+        },
+        "username": "Rainyufanf",
+        "verified": false
+      }
+    ]
+  }
+}

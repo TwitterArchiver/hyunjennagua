@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077028342524698624"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2077028359922712749",
+    "created_at": "2026-07-14T13:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077028359922712749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tCad18lKNa",
+          "end": 27,
+          "expanded_url": "https://x.com/hyunjennagua/status/2077028359922712749/photo/1",
+          "media_key": "3_2077028342524698624",
+          "start": 4,
+          "url": "https://t.co/tCad18lKNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077028359922712749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啥游戏 https://t.co/tCad18lKNa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077028342524698624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMWReCaYAAJO8l.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077028342524698624"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2077028359922712749",
+        "created_at": "2026-07-14T13:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077028359922712749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCad18lKNa",
+              "end": 27,
+              "expanded_url": "https://x.com/hyunjennagua/status/2077028359922712749/photo/1",
+              "media_key": "3_2077028342524698624",
+              "start": 4,
+              "url": "https://t.co/tCad18lKNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077028359922712749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥游戏 https://t.co/tCad18lKNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 1057,
+          "like_count": 7610,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 3755
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

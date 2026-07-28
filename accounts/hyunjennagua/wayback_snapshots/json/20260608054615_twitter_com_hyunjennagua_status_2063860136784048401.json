@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2063860136784048401",
+    "created_at": "2026-06-08T05:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063860136784048401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1810704701744435200",
+          "start": 3,
+          "username": "worlds_end_fumo"
+        },
+        {
+          "end": 58,
+          "id": "1607388730914140160",
+          "start": 44,
+          "username": "popcat1234566"
+        },
+        {
+          "end": 70,
+          "id": "1810692687789694976",
+          "start": 59,
+          "username": "lonelyfumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063860136784048401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063607798639030523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @worlds_end_fumo: 你好！我是popcat1234566。\n前世\n@popcat1234566 @lonelyfumo\n不幸被拿下，，\n主营：🎈，主页吱吱叫，转发文案。\n能让人笑的🎈：3.25r/瓶，12邮费。多买包邮。\n吱吱叫：0r。\n转发文案：0r。…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [popcat1234566].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "popcat1234566",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "popcat1234566"
+    },
+    {
+      "detail": "User has been suspended: [lonelyfumo].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "lonelyfumo",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "lonelyfumo"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063607783795339264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNoWIzaMAAAGik.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1662,
+        "media_key": "3_2063607783799582720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNoWI0a8AADEdT.jpg",
+        "width": 1659
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2063860136784048401",
+        "created_at": "2026-06-08T05:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063860136784048401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1810704701744435200",
+              "start": 3,
+              "username": "worlds_end_fumo"
+            },
+            {
+              "end": 58,
+              "id": "1607388730914140160",
+              "start": 44,
+              "username": "popcat1234566"
+            },
+            {
+              "end": 70,
+              "id": "1810692687789694976",
+              "start": 59,
+              "username": "lonelyfumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063860136784048401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063607798639030523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @worlds_end_fumo: 你好！我是popcat1234566。\n前世\n@popcat1234566 @lonelyfumo\n不幸被拿下，，\n主营：🎈，主页吱吱叫，转发文案。\n能让人笑的🎈：3.25r/瓶，12邮费。多买包邮。\n吱吱叫：0r。\n转发文案：0r。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063607783795339264",
+            "3_2063607783799582720"
+          ]
+        },
+        "author_id": "1810704701744435200",
+        "conversation_id": "2063607798639030523",
+        "created_at": "2026-06-07T13:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063607798639030523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1607388730914140160",
+              "start": 23,
+              "username": "popcat1234566"
+            },
+            {
+              "end": 49,
+              "id": "1810692687789694976",
+              "start": 38,
+              "username": "lonelyfumo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSqAsi6E6v",
+              "end": 167,
+              "expanded_url": "https://x.com/worlds_end_fumo/status/2063607798639030523/photo/1",
+              "media_key": "3_2063607783795339264",
+              "start": 144,
+              "url": "https://t.co/BSqAsi6E6v"
+            },
+            {
+              "display_url": "pic.x.com/BSqAsi6E6v",
+              "end": 167,
+              "expanded_url": "https://x.com/worlds_end_fumo/status/2063607798639030523/photo/1",
+              "media_key": "3_2063607783799582720",
+              "start": 144,
+              "url": "https://t.co/BSqAsi6E6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063607798639030523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "你好！我是popcat1234566。\n前世\n@popcat1234566 @lonelyfumo\n不幸被拿下，，\n主营：🎈，主页吱吱叫，转发文案。\n能让人笑的🎈：3.25r/瓶，12邮费。多买包邮。\n吱吱叫：0r。\n转发文案：0r。\nfo我转发点赞此贴抽两个10瓶笑气（需补12邮）。 https://t.co/BSqAsi6E6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 879,
+          "like_count": 5362,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2931
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T15:57:11.000Z",
+        "description": "第一次转生/🎈批发 联系https://t.co/Ve4lzmqf76\n原号\n@popcat1234566\n\n3.25/一支 12邮 9g\n互关寻回！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "popcat1234566"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 35,
+                "expanded_url": "http://t.me/opodoge",
+                "start": 12,
+                "url": "https://t.co/Ve4lzmqf76"
+              }
+            ]
+          }
+        },
+        "id": "1810704701744435200",
+        "location": "fumo island",
+        "name": "popcat1234566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608187446812672/qwIQh47u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "worlds_end_fumo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2077254011548471483",
+    "created_at": "2026-07-15T04:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077254011548471483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikeas84614109…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/mikeas846141091/status/2077250779833090217",
+          "start": 17,
+          "url": "https://t.co/3cy6b0h9Xv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077254011548471483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077250779833090217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家快来和可爱的TE互fo呀！！ https://t.co/3cy6b0h9Xv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2077254011548471483",
+        "created_at": "2026-07-15T04:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077254011548471483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikeas84614109…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mikeas846141091/status/2077250779833090217",
+              "start": 17,
+              "url": "https://t.co/3cy6b0h9Xv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077254011548471483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077250779833090217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家快来和可爱的TE互fo呀！！ https://t.co/3cy6b0h9Xv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851187218251202563",
+        "conversation_id": "2077250779833090217",
+        "created_at": "2026-07-15T04:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077250779833090217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077250779833090217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人互fo呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 1069,
+          "like_count": 7554,
+          "listed_count": 1,
+          "media_count": 343,
+          "tweet_count": 3774
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T09:00:13.000Z",
+        "description": "16/skz🐰🔝\n🚫🐰bottom🚫🤮\n牛腱子第一skz第二\n我喜欢看特摄/热血番 同好可以来找我玩",
+        "id": "1851187218251202563",
+        "name": "Keat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013300441870663680/sw_MMDyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 55,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "mikeas846141091",
+        "verified": false
+      }
+    ]
+  }
+}

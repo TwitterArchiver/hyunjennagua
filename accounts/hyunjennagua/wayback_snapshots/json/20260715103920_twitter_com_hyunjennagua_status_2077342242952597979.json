@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2077342242952597979",
+    "created_at": "2026-07-15T10:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077342242952597979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyunjennagua/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/hyunjennagua/status/2077341690365714487",
+          "start": 22,
+          "url": "https://t.co/nroADgwyA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077342242952597979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077341690365714487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想起来了我最喜欢哪个药我最喜欢劳拉配愈美 https://t.co/nroADgwyA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077341680118939648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQzQHiaQAAYZOE.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077341680127356928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQzQHkasAA-KTw.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077341680131506176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQzQHlaAAA5G2b.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077341680123142144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQzQHjaYAAeWP2.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2077342242952597979",
+        "created_at": "2026-07-15T10:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077342242952597979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyunjennagua/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/hyunjennagua/status/2077341690365714487",
+              "start": 22,
+              "url": "https://t.co/nroADgwyA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077342242952597979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077341690365714487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想起来了我最喜欢哪个药我最喜欢劳拉配愈美 https://t.co/nroADgwyA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077341680118939648",
+            "3_2077341680127356928",
+            "3_2077341680131506176",
+            "3_2077341680123142144"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2077341690365714487",
+        "created_at": "2026-07-15T10:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077341690365714487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wp7i00Vdao",
+              "end": 102,
+              "expanded_url": "https://x.com/hyunjennagua/status/2077341690365714487/photo/1",
+              "media_key": "3_2077341680118939648",
+              "start": 79,
+              "url": "https://t.co/wp7i00Vdao"
+            },
+            {
+              "display_url": "pic.x.com/wp7i00Vdao",
+              "end": 102,
+              "expanded_url": "https://x.com/hyunjennagua/status/2077341690365714487/photo/1",
+              "media_key": "3_2077341680127356928",
+              "start": 79,
+              "url": "https://t.co/wp7i00Vdao"
+            },
+            {
+              "display_url": "pic.x.com/wp7i00Vdao",
+              "end": 102,
+              "expanded_url": "https://x.com/hyunjennagua/status/2077341690365714487/photo/1",
+              "media_key": "3_2077341680131506176",
+              "start": 79,
+              "url": "https://t.co/wp7i00Vdao"
+            },
+            {
+              "display_url": "pic.x.com/wp7i00Vdao",
+              "end": 102,
+              "expanded_url": "https://x.com/hyunjennagua/status/2077341690365714487/photo/1",
+              "media_key": "3_2077341680123142144",
+              "start": 79,
+              "url": "https://t.co/wp7i00Vdao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077341690365714487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1pr（？应该吧\n2你好我也好\n3我倒是不会视奸前任但我会视奸已经断掉的朋友…因为我真的特别喜欢我的每一个朋友绝交非常舍不得啊\n4谢谢谢谢🤤🤤我有什么氛围啊 https://t.co/wp7i00Vdao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1072,
+          "like_count": 7582,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

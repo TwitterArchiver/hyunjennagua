@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2002373577467732407",
+    "created_at": "2025-12-21T08:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T09:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002662111038845282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1321755692907208705",
+          "start": 0,
+          "username": "dtCli2Uwc3ziQYk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002662111038845282",
+    "in_reply_to_user_id": "1321755692907208705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002661740707021250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dtCli2Uwc3ziQYk 你指的是od和割手吗？我没有固定的次数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2002373577467732407",
+        "created_at": "2025-12-21T08:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002662111038845282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1321755692907208705",
+              "start": 0,
+              "username": "dtCli2Uwc3ziQYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002662111038845282",
+        "in_reply_to_user_id": "1321755692907208705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002661740707021250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dtCli2Uwc3ziQYk 你指的是od和割手吗？我没有固定的次数"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1321755692907208705",
+        "conversation_id": "2002373577467732407",
+        "created_at": "2025-12-21T08:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002661740707021250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002661740707021250",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002660562459910207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua １日何回やるの？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 互fo私信！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 183,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-29T10:09:11.000Z",
+        "description": "バツイチ男で少し寂しがり屋 たまに言葉のキャッチボールしたいなぁと思っているけどエロ❌と出会いは❌しないよただ会話だけしたいだけ俺は俺だから",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minne.com/@yamahiro-1",
+                "end": 23,
+                "expanded_url": "http://minne.com/@yamahiro-1",
+                "start": 0,
+                "url": "https://t.co/c8zFu9XI61"
+              }
+            ]
+          }
+        },
+        "id": "1321755692907208705",
+        "name": "山本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917808508638224384/E_WYA38F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 75,
+          "like_count": 22191,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 16277
+        },
+        "url": "https://t.co/c8zFu9XI61",
+        "username": "dtCli2Uwc3ziQYk",
+        "verified": false
+      }
+    ]
+  }
+}

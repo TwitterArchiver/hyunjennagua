@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997170715963887616"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1997170765855445129",
+    "created_at": "2025-12-06T05:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997170765855445129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SJLUuSr2mu",
+          "end": 34,
+          "expanded_url": "https://x.com/hyunjennagua/status/1997170765855445129/photo/1",
+          "media_key": "3_1997170715963887616",
+          "start": 11,
+          "url": "https://t.co/SJLUuSr2mu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997170765855445129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂一个我闺蜜的收款码 https://t.co/SJLUuSr2mu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1997170715963887616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dgL0jXEAAki1f.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997170715963887616"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1997170765855445129",
+        "created_at": "2025-12-06T05:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997170765855445129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJLUuSr2mu",
+              "end": 34,
+              "expanded_url": "https://x.com/hyunjennagua/status/1997170765855445129/photo/1",
+              "media_key": "3_1997170715963887616",
+              "start": 11,
+              "url": "https://t.co/SJLUuSr2mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997170765855445129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂一个我闺蜜的收款码 https://t.co/SJLUuSr2mu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 148,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1993950560157081661",
+    "created_at": "2025-11-27T08:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993960076193956313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1813772293568704512",
+          "start": 0,
+          "username": "linlinlin12358"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993960076193956313",
+    "in_reply_to_user_id": "1813772293568704512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993957199899713595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlinlin12358 没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1993950560157081661",
+        "created_at": "2025-11-27T08:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993960076193956313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1813772293568704512",
+              "start": 0,
+              "username": "linlinlin12358"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993960076193956313",
+        "in_reply_to_user_id": "1813772293568704512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993957199899713595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlinlin12358 没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813772293568704512",
+        "conversation_id": "1993950560157081661",
+        "created_at": "2025-11-27T08:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993957199899713595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993957199899713595",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993950560157081661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 113,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 256
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T03:06:39.000Z",
+        "description": "喵",
+        "id": "1813772293568704512",
+        "location": "Hong Kong",
+        "name": "林林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813772470568251394/nAU9utW2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 133,
+          "like_count": 2239,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1159
+        },
+        "username": "linlinlin12358",
+        "verified": false
+      }
+    ]
+  }
+}

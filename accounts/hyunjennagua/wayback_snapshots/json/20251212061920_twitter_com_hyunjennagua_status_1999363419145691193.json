@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1999363419145691193",
+    "created_at": "2025-12-12T06:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T07:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999363419145691193"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999363419145691193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得自己是一个没用的人当我意识到我无法向一个正常人生活时，我觉得我这辈子都完了，我有时候就在想大家都讨厌我吗？都恨我吗？你们觉得我这个人是什么样子的？我在你们眼里是什么样的？但是我现在已经全部是花了也不是释怀了吧，我也不知道怎么说，我已经什么都不在乎了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1999363419145691193",
+        "created_at": "2025-12-12T06:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999363419145691193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999363419145691193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得自己是一个没用的人当我意识到我无法向一个正常人生活时，我觉得我这辈子都完了，我有时候就在想大家都讨厌我吗？都恨我吗？你们觉得我这个人是什么样子的？我在你们眼里是什么样的？但是我现在已经全部是花了也不是释怀了吧，我也不知道怎么说，我已经什么都不在乎了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 162,
+          "like_count": 991,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

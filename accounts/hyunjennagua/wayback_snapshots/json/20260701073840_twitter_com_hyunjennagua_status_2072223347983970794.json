@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2072223347983970794",
+    "created_at": "2026-07-01T07:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072223347983970794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko0202002/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/neko0202002/status/2072187406934261922",
+          "start": 26,
+          "url": "https://t.co/0LMtEOoThP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072223347983970794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072187406934261922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想请号主喝7月第一杯奶茶可以来了，我收款码准备好了 https://t.co/0LMtEOoThP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2072223347983970794",
+        "created_at": "2026-07-01T07:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072223347983970794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko0202002/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/neko0202002/status/2072187406934261922",
+              "start": 26,
+              "url": "https://t.co/0LMtEOoThP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072223347983970794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072187406934261922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想请号主喝7月第一杯奶茶可以来了，我收款码准备好了 https://t.co/0LMtEOoThP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2072187406934261922",
+        "created_at": "2026-07-01T05:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072187406934261922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Usam8964/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Usam8964/status/2072163598873329938",
+              "start": 26,
+              "url": "https://t.co/6Zdj919T6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072187406934261922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072163598873329938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想请号主喝7月第一杯奶茶可以来了，我收款码准备好了 https://t.co/6Zdj919T6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 984,
+          "like_count": 5951,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 3201
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 637,
+          "like_count": 2083,
+          "listed_count": 2,
+          "media_count": 2105,
+          "tweet_count": 5494
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

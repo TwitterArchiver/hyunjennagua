@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2039912613023211723",
+    "created_at": "2026-04-03T04:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039916568650616971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037776208436269056",
+          "start": 0,
+          "username": "CEtoilet8360"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039916568650616971",
+    "in_reply_to_user_id": "2037776208436269056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039913230068531421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CEtoilet8360 😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2039912613023211723",
+        "created_at": "2026-04-03T04:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039916568650616971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037776208436269056",
+              "start": 0,
+              "username": "CEtoilet8360"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039916568650616971",
+        "in_reply_to_user_id": "2037776208436269056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039913230068531421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CEtoilet8360 😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037776208436269056",
+        "conversation_id": "2039912613023211723",
+        "created_at": "2026-04-03T03:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039913230068531421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039913230068531421",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039912613023211723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 650,
+          "like_count": 3482,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T06:18:17.000Z",
+        "description": "欢迎互fo，一般乌蒙吃，w62橙晓紫酱持有，超檄桃樱堇白酱确认，化学实验最忠实的m，会到处旅游，私信不太多的话一般都会回🤣",
+        "id": "2037776208436269056",
+        "location": "我学校",
+        "name": "Ciel etoilet",
+        "pinned_tweet_id": "2038086639810174986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038072802587353089/od7nmgcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 137,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "username": "CEtoilet8360",
+        "verified": false
+      }
+    ]
+  }
+}

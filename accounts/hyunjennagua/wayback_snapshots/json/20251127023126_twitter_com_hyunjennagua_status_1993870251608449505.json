@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1993869857474138569",
+    "created_at": "2025-11-27T02:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T03:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993870251608449505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1813772293568704512",
+          "start": 0,
+          "username": "linlinlin12358"
+        },
+        {
+          "end": 27,
+          "id": "1531940882609364992",
+          "start": 16,
+          "username": "yukiki0604"
+        },
+        {
+          "end": 39,
+          "id": "1922675752660881408",
+          "start": 28,
+          "username": "maii779669"
+        },
+        {
+          "end": 48,
+          "id": "1949872734043099137",
+          "start": 40,
+          "username": "yu43363"
+        },
+        {
+          "end": 65,
+          "id": "1840825322935078912",
+          "start": 49,
+          "username": "andrea_lot16995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993870251608449505",
+    "in_reply_to_user_id": "1813772293568704512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993869857474138569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlinlin12358 @yukiki0604 @maii779669 @yu43363 @andrea_lot16995 咱俩是情侣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1993869848963895301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6umEEva0AU9U8d.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1993869857474138569",
+        "created_at": "2025-11-27T02:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993870251608449505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1813772293568704512",
+              "start": 0,
+              "username": "linlinlin12358"
+            },
+            {
+              "end": 27,
+              "id": "1531940882609364992",
+              "start": 16,
+              "username": "yukiki0604"
+            },
+            {
+              "end": 39,
+              "id": "1922675752660881408",
+              "start": 28,
+              "username": "maii779669"
+            },
+            {
+              "end": 48,
+              "id": "1949872734043099137",
+              "start": 40,
+              "username": "yu43363"
+            },
+            {
+              "end": 65,
+              "id": "1840825322935078912",
+              "start": 49,
+              "username": "andrea_lot16995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993870251608449505",
+        "in_reply_to_user_id": "1813772293568704512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993869857474138569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlinlin12358 @yukiki0604 @maii779669 @yu43363 @andrea_lot16995 咱俩是情侣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993869848963895301"
+          ]
+        },
+        "author_id": "1813772293568704512",
+        "conversation_id": "1993869857474138569",
+        "created_at": "2025-11-27T02:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993869857474138569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1531940882609364992",
+              "start": 22,
+              "username": "yukiki0604"
+            },
+            {
+              "end": 45,
+              "id": "1922675752660881408",
+              "start": 34,
+              "username": "maii779669"
+            },
+            {
+              "end": 65,
+              "id": "1965246583379034117",
+              "start": 52,
+              "username": "hyunjennagua"
+            },
+            {
+              "end": 80,
+              "id": "1949872734043099137",
+              "start": 72,
+              "username": "yu43363"
+            },
+            {
+              "end": 97,
+              "id": "1840825322935078912",
+              "start": 81,
+              "username": "andrea_lot16995"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 125,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/yVg7KEYvNL"
+            },
+            {
+              "display_url": "pic.x.com/ucKt8WwN0X",
+              "end": 149,
+              "expanded_url": "https://x.com/linlinlin12358/status/1993869857474138569/photo/1",
+              "media_key": "3_1993869848963895301",
+              "start": 126,
+              "url": "https://t.co/ucKt8WwN0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993869857474138569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @yukiki0604 @maii779669\n👰 配偶: @hyunjennagua\n👶 孩子: @yu43363 @andrea_lot16995\n\n➡️ https://t.co/yVg7KEYvNL https://t.co/ucKt8WwN0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 122,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 239
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T03:06:39.000Z",
+        "description": "喵",
+        "id": "1813772293568704512",
+        "location": "Hong Kong",
+        "name": "林林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813772470568251394/nAU9utW2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 133,
+          "like_count": 2211,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1143
+        },
+        "username": "linlinlin12358",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T10:09:12.000Z",
+        "description": "只有碎碎念",
+        "id": "1531940882609364992",
+        "name": "009",
+        "pinned_tweet_id": "1991161593623965755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992418940182773760/G-MVttzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 67,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 459
+        },
+        "username": "yukiki0604",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T15:30:18.000Z",
+        "description": "勇敢一点 自信一点 开心一点🤞                    \n                脚能到达的地方就不要让眼睛留遗憾\n                                另一个我：https://t.co/QIraP99KCc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/mai996778?t=GH…",
+                "end": 129,
+                "expanded_url": "https://x.com/mai996778?t=GH7GQnyLFX-k6G75Am7H3A&s=09",
+                "start": 106,
+                "url": "https://t.co/QIraP99KCc"
+              }
+            ]
+          }
+        },
+        "id": "1922675752660881408",
+        "name": "想要吻吻你的脸",
+        "pinned_tweet_id": "1988099771660443786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986495108653678592/308A_MrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 43,
+          "like_count": 1886,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 878
+        },
+        "username": "maii779669",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T16:41:23.000Z",
+        "description": "",
+        "id": "1949872734043099137",
+        "name": "饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992125912490598400/mGZYdYZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 227,
+          "like_count": 2653,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 969
+        },
+        "username": "yu43363",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T18:45:43.000Z",
+        "description": "請叫我菜菜🥬 /jojifuku/電波系/雌小鬼/戀痛/自私/善惡並存/焦虑/戒割戒o中",
+        "id": "1840825322935078912",
+        "location": "🤍不要讓我一個人🖤",
+        "name": "あい菜菜",
+        "pinned_tweet_id": "1858153003129135333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990122215845888000/lLW3g5Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 23,
+          "like_count": 504,
+          "listed_count": 5,
+          "media_count": 236,
+          "tweet_count": 805
+        },
+        "username": "andrea_lot16995",
+        "verified": false
+      }
+    ]
+  }
+}

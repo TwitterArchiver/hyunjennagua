@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078836982558687234"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2078835011797819637",
+    "created_at": "2026-07-19T13:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078836990859215025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601798366714908672",
+          "start": 0,
+          "username": "ranhuauu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Eu3MNlUki",
+          "end": 53,
+          "expanded_url": "https://x.com/hyunjennagua/status/2078836990859215025/photo/1",
+          "media_key": "3_2078836982558687234",
+          "start": 30,
+          "url": "https://t.co/8Eu3MNlUki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078836990859215025",
+    "in_reply_to_user_id": "1601798366714908672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078836722163708087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranhuauu 不是ai我已经把ai给我发消息给关掉了 https://t.co/8Eu3MNlUki"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078836982558687234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmDOLNbAAI1h1o.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078836982558687234"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2078835011797819637",
+        "created_at": "2026-07-19T13:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078836990859215025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601798366714908672",
+              "start": 0,
+              "username": "ranhuauu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Eu3MNlUki",
+              "end": 53,
+              "expanded_url": "https://x.com/hyunjennagua/status/2078836990859215025/photo/1",
+              "media_key": "3_2078836982558687234",
+              "start": 30,
+              "url": "https://t.co/8Eu3MNlUki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078836990859215025",
+        "in_reply_to_user_id": "1601798366714908672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078836722163708087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranhuauu 不是ai我已经把ai给我发消息给关掉了 https://t.co/8Eu3MNlUki"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601798366714908672",
+        "conversation_id": "2078835011797819637",
+        "created_at": "2026-07-19T13:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078836722163708087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078836722163708087",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078835011797819637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 好像素ai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 1088,
+          "like_count": 8143,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 3941
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T04:39:16.000Z",
+        "description": "人活著就是為了割手 犯病 崩潰 孤獨 自卑 自殘 自戀 自慰 自殺 嗑藥 ｜歡迎光臨｜中焦重抑 雙向 PTSD 割手 嗑藥 成分複雜｜ 歡迎和我互fo 就讓我們化學極樂 逃離痛苦的世界",
+        "id": "1601798366714908672",
+        "location": "極樂世界",
+        "name": "蚺華",
+        "pinned_tweet_id": "2072614173213892883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052071943541817344/7iKMlWNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 181,
+          "like_count": 9098,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2008
+        },
+        "url": "",
+        "username": "ranhuauu",
+        "verified": false
+      }
+    ]
+  }
+}

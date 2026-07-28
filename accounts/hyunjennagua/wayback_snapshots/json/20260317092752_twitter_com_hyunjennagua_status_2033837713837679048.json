@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2033808050390196587",
+    "created_at": "2026-03-17T09:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T10:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033837713837679048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588362906483101696",
+          "start": 0,
+          "username": "jkdghalf411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033837713837679048",
+    "in_reply_to_user_id": "1588362906483101696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033808050390196587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkdghalf411 不要。。小A快回我微信啊。。告诉我你没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2033808050390196587",
+        "created_at": "2026-03-17T09:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033837713837679048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588362906483101696",
+              "start": 0,
+              "username": "jkdghalf411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033837713837679048",
+        "in_reply_to_user_id": "1588362906483101696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033808050390196587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkdghalf411 不要。。小A快回我微信啊。。告诉我你没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588362906483101696",
+        "conversation_id": "2033808050390196587",
+        "created_at": "2026-03-17T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033808050390196587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033808050390196587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "定时推文，300tdfnd+100t止吐，想救我的话随意吧，没死的话一周之内会有更新"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿｜我需要钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 565,
+          "like_count": 2956,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1637
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T02:50:08.000Z",
+        "description": "=小A｜已有男友｜抑郁焦虑睡眠障碍bpd cptsd 双A｜脑子有问题，会odzc（在降频率）｜🚪188仅聊天，看心情发图片｜愿神之爱保佑你",
+        "id": "1588362906483101696",
+        "location": "电子眼一直在看着你",
+        "name": "水曜日电波幽灵¼",
+        "pinned_tweet_id": "2027385945969053915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027210877875994625/kl1sutD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5538,
+          "following_count": 635,
+          "like_count": 10746,
+          "listed_count": 17,
+          "media_count": 2400,
+          "tweet_count": 15382
+        },
+        "username": "jkdghalf411",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2074712144961249673",
+    "created_at": "2026-07-08T04:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074712144961249673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 64,
+          "id": "868831876315848705",
+          "start": 55,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "我的性别坐标：",
+          "display_url": "idrlabs.com/cn/gender-coor…",
+          "end": 51,
+          "expanded_url": "https://www.idrlabs.com/cn/gender-coordinates/41.67-77.5/result.php",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2074462060692516864/_8p8Xxwn?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074462060692516864/_8p8Xxwn?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 28,
+          "status": 200,
+          "title": "我是41.67%男性，77.5%女性，我属于女性象限。",
+          "unwound_url": "https://www.idrlabs.com/cn/gender-coordinates/41.67-77.5/result.php",
+          "url": "https://t.co/Imi2vQmeZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074712144961249673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是41.67%男性，77.5%女性，我属于女性象限。 https://t.co/Imi2vQmeZP 来自 @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2074712144961249673",
+        "created_at": "2026-07-08T04:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074712144961249673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "868831876315848705",
+              "start": 55,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "我的性别坐标：",
+              "display_url": "idrlabs.com/cn/gender-coor…",
+              "end": 51,
+              "expanded_url": "https://www.idrlabs.com/cn/gender-coordinates/41.67-77.5/result.php",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2074462060692516864/_8p8Xxwn?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074462060692516864/_8p8Xxwn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "我是41.67%男性，77.5%女性，我属于女性象限。",
+              "unwound_url": "https://www.idrlabs.com/cn/gender-coordinates/41.67-77.5/result.php",
+              "url": "https://t.co/Imi2vQmeZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074712144961249673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是41.67%男性，77.5%女性，我属于女性象限。 https://t.co/Imi2vQmeZP 来自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 995,
+          "like_count": 6384,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 3343
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "idrlabs.com",
+                "end": 23,
+                "expanded_url": "https://idrlabs.com/",
+                "start": 0,
+                "url": "https://t.co/RRNJ3gvQIb"
+              }
+            ]
+          }
+        },
+        "id": "868831876315848705",
+        "name": "IDRlabs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9634,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 41,
+          "media_count": 19,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/RRNJ3gvQIb",
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

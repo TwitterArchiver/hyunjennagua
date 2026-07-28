@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2042789922625696056",
+    "created_at": "2026-04-11T03:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042806722515939425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026259002813005824",
+          "start": 0,
+          "username": "OHOHOH121121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042806722515939425",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042789922625696056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OHOHOH121121 原来你是马来西亚人吗！"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "「壊れた意識を繋ぎ合わせ、電子の海を漂う。」 (⁠⁠˘⁠︶⁠˘⁠⁠)⁠.⁠｡⁠*⁠♡\n✨ 基本情報\n• 09 / ♐ / 159cm / 51-52kg\n• Genderfluid (身体女性) ｜ 恋愛・性的不可 🚫\n• Location: 🇲🇾 マレーシア\n• Language: 中国語🉑 / 英語🤏 / マレー語😭😭🙌\n🧠 メンタル (治療中…かな？)\n• 診断: 重度うつ病 / ADHD / ASD / 多重人格 (DID傾向)\n• 依存: 吸入剤依存 / 性依存 (自力で克服中)\n• 現状: 学生。主治医に本当のことを言えず、「もうすぐ治る」と思われてる… (⁠⁠•́⁠ ⁠⁠‿⁠ ⁠,⁠⁠•̀⁠)\n• 備考: 非OD / 非自傷カット。自殺念慮あり。地雷気味な性格ですが、ご容赦ください。\n🎨 趣味・嗜好\n• Music: ボカロ / J-Pop / インスト / 電子音楽中毒者 🎧\n• Style: デコラファッションに憧れてます！🌈\n• Art: お絵描き勢 🎨\n• Game: 音ゲー(引退気味) / ネット廃人 / 文学好き (⁠◡⁠ ⁠ω⁠ ⁠◡⁠)\n⚠️ 地雷 (閲覧注意！)\n1.グロ画像/自傷動画厳禁： 重い嘔吐感、幻覚、幻聴を引き起こすため、絶対に送らないでください ಥ⁠‿⁠ಥ\n3.三原則： 政治の話 / 恋愛 / エロ (パパ活NG) ❌\n3.習慣： 顔文字・絵文字多用。X/XHS/IG/QQに生息。\n🤝 繋がろう\n友達募集中！DMでお待ちしてます。フォロバ100％🥲\nそれぞれの深淵から、お互いにエールを。 (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡",
+        "height": 2048,
+        "media_key": "3_2042789919245111298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlym79akAIET6m.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042789919270289408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlym8DawAAQVD2.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2042789922625696056",
+        "created_at": "2026-04-11T03:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042806722515939425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042806722515939425",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042789922625696056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 原来你是马来西亚人吗！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042789919245111298",
+            "3_2042789919270289408"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2042789922625696056",
+        "created_at": "2026-04-11T02:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042789922625696056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/flR0mCNTeX",
+              "end": 44,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2042789922625696056/photo/1",
+              "media_key": "3_2042789919245111298",
+              "start": 21,
+              "url": "https://t.co/flR0mCNTeX"
+            },
+            {
+              "display_url": "pic.x.com/flR0mCNTeX",
+              "end": 44,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2042789922625696056/photo/1",
+              "media_key": "3_2042789919270289408",
+              "start": 21,
+              "url": "https://t.co/flR0mCNTeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042789922625696056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发一个自介，日语翻译请看alt❤️❤️🎊 https://t.co/flR0mCNTeX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 701,
+          "like_count": 4197,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2259
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "wispwood.sys",
+        "pinned_tweet_id": "2042789922625696056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041890255817818112/oZ2ZUU5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 191,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 126
+        },
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

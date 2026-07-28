@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042776567232049152"
+      ],
+      "media_source_tweet_id": [
+        "2042776576170037638"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2042900169864159655",
+    "created_at": "2026-04-11T09:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042900169864159655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IQkYiTnBBt",
+          "end": 42,
+          "expanded_url": "https://x.com/hgds0/status/2042776576170037638/photo/1",
+          "media_key": "3_2042776567232049152",
+          "start": 19,
+          "url": "https://t.co/IQkYiTnBBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042900169864159655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042776576170037638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 赌气的我就这样 https://t.co/IQkYiTnBBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042776567232049152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlmdv1bsAAgnKY.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042776567232049152"
+          ],
+          "media_source_tweet_id": [
+            "2042776576170037638"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2042900169864159655",
+        "created_at": "2026-04-11T09:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042900169864159655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQkYiTnBBt",
+              "end": 42,
+              "expanded_url": "https://x.com/hgds0/status/2042776576170037638/photo/1",
+              "media_key": "3_2042776567232049152",
+              "start": 19,
+              "url": "https://t.co/IQkYiTnBBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042900169864159655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042776576170037638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 赌气的我就这样 https://t.co/IQkYiTnBBt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042776567232049152"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2042776576170037638",
+        "created_at": "2026-04-11T01:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042776576170037638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQkYiTnBBt",
+              "end": 31,
+              "expanded_url": "https://x.com/hgds0/status/2042776576170037638/photo/1",
+              "media_key": "3_2042776567232049152",
+              "start": 8,
+              "url": "https://t.co/IQkYiTnBBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042776576170037638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7618,
+          "like_count": 374,
+          "quote_count": 5,
+          "reply_count": 33,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "赌气的我就这样 https://t.co/IQkYiTnBBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 707,
+          "like_count": 4262,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95646,
+          "following_count": 2476,
+          "like_count": 43996,
+          "listed_count": 134,
+          "media_count": 3964,
+          "tweet_count": 8347
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

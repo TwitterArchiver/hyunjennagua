@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026894439105572864"
+      ],
+      "media_source_tweet_id": [
+        "2026894451571130835"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2027226783146201537",
+    "created_at": "2026-02-27T03:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T04:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027226783146201537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1660637215335014402",
+          "start": 3,
+          "username": "cngcngyngy38992"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q92AVxttRu",
+          "end": 60,
+          "expanded_url": "https://x.com/cngcngyngy38992/status/2026894451571130835/photo/1",
+          "media_key": "3_2026894439105572864",
+          "start": 37,
+          "url": "https://t.co/q92AVxttRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027226783146201537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026894451571130835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cngcngyngy38992: 還有人記得這張童年陰影網圖嗎？ https://t.co/q92AVxttRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2026894439105572864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCD5wOAaMAA86-f.jpg",
+        "width": 122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026894439105572864"
+          ],
+          "media_source_tweet_id": [
+            "2026894451571130835"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2027226783146201537",
+        "created_at": "2026-02-27T03:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027226783146201537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1660637215335014402",
+              "start": 3,
+              "username": "cngcngyngy38992"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q92AVxttRu",
+              "end": 60,
+              "expanded_url": "https://x.com/cngcngyngy38992/status/2026894451571130835/photo/1",
+              "media_key": "3_2026894439105572864",
+              "start": 37,
+              "url": "https://t.co/q92AVxttRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027226783146201537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026894451571130835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cngcngyngy38992: 還有人記得這張童年陰影網圖嗎？ https://t.co/q92AVxttRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026894439105572864"
+          ]
+        },
+        "author_id": "1660637215335014402",
+        "conversation_id": "2026894451571130835",
+        "created_at": "2026-02-26T05:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026894451571130835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q92AVxttRu",
+              "end": 39,
+              "expanded_url": "https://x.com/cngcngyngy38992/status/2026894451571130835/photo/1",
+              "media_key": "3_2026894439105572864",
+              "start": 16,
+              "url": "https://t.co/q92AVxttRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026894451571130835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15967,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 53,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "還有人記得這張童年陰影網圖嗎？ https://t.co/q92AVxttRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 224,
+          "like_count": 2262,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T13:23:04.000Z",
+        "description": "07｜二次元｜喜歡拿推上畫師的圖｜打工人｜不定時發評分系列｜互fo私信",
+        "id": "1660637215335014402",
+        "location": "SIDE 6",
+        "name": "瓜子Online_瑪秋Mode🌻🍅",
+        "pinned_tweet_id": "1960011339298156743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005252839749382145/G_yvXLVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 4375,
+          "like_count": 14114,
+          "listed_count": 16,
+          "media_count": 1100,
+          "tweet_count": 5949
+        },
+        "username": "cngcngyngy38992",
+        "verified": false
+      }
+    ]
+  }
+}

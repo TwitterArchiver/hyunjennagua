@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2036342626606027217",
+    "created_at": "2026-03-24T08:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T09:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036358724785242422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946240021696040961",
+          "start": 0,
+          "username": "Noverdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036358724785242422",
+    "in_reply_to_user_id": "1946240021696040961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036358450914238485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noverdose_DBD 居然是你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2036342626606027217",
+        "created_at": "2026-03-24T08:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036358724785242422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946240021696040961",
+              "start": 0,
+              "username": "Noverdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036358724785242422",
+        "in_reply_to_user_id": "1946240021696040961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036358450914238485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noverdose_DBD 居然是你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946240021696040961",
+        "conversation_id": "2036342626606027217",
+        "created_at": "2026-03-24T08:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036358450914238485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036358450914238485",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036357683998064835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 我是超法友😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 613,
+          "like_count": 3196,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "💊🍥\n策划药\n薄荷糖，彩虹糖，飘飘糖，模拟ald-52\n物质：rush，类GHB,DBT,MiPT,苄达明\nhrt药物：泰补，土色，日雌\ntg客服https://t.co/OfRtqTZZJ0\n客服服务时间8.00-11.00 14.00-00.00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EmOvoo",
+                "end": 96,
+                "expanded_url": "http://t.me/EmOvoo",
+                "start": 73,
+                "url": "https://t.co/OfRtqTZZJ0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EmOvoo",
+                "end": 23,
+                "expanded_url": "http://t.me/EmOvoo",
+                "start": 0,
+                "url": "https://t.co/OfRtqTZZJ0"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "终之空",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "2035741819619942820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984269351256473600/z_4Rg7td_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 241,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/OfRtqTZZJ0",
+        "username": "Noverdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2068404584780046572",
+    "created_at": "2026-06-21T05:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068571870027542692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046660159867400192",
+          "start": 0,
+          "username": "nyanyanya6767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068571870027542692",
+    "in_reply_to_user_id": "2046660159867400192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068404584780046572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyanya6767 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2068404577716912128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRzASqbwAAfd0x.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2068404584780046572",
+        "created_at": "2026-06-21T05:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068571870027542692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046660159867400192",
+              "start": 0,
+              "username": "nyanyanya6767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068571870027542692",
+        "in_reply_to_user_id": "2046660159867400192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068404584780046572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyanya6767 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068404577716912128"
+          ]
+        },
+        "author_id": "2046660159867400192",
+        "conversation_id": "2068404584780046572",
+        "created_at": "2026-06-20T18:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068404584780046572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsFYUoMXeh",
+              "end": 33,
+              "expanded_url": "https://x.com/nyanyanya6767/status/2068404584780046572/photo/1",
+              "media_key": "3_2068404577716912128",
+              "start": 10,
+              "url": "https://t.co/rsFYUoMXeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068404584780046572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 614,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo恭喜🎉 https://t.co/rsFYUoMXeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642｜推群链接查成分通过https://t.co/9lJK4OEeRm｜自伤｜｜od｜碎碎念｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 70,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 47,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 949,
+          "like_count": 5667,
+          "listed_count": 0,
+          "media_count": 299,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T18:39:55.000Z",
+        "description": "可以叫我歐姆\n躁鬱｜焦慮｜解離｜ADHD｜自傷｜od｜穿孔｜金屬｜Goth｜\n純綠／半綠／非綠開放中，全台可跑歡迎私訊詢問\n防走失：@omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "omo20060903"
+              }
+            ]
+          }
+        },
+        "id": "2046660159867400192",
+        "name": "？二代目",
+        "pinned_tweet_id": "2061471539116339494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067311754770800640/SwayiZF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 582,
+          "like_count": 9613,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "nyanyanya6767",
+        "verified": false
+      }
+    ]
+  }
+}

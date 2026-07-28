@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2063896441362448716",
+    "created_at": "2026-06-08T08:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063896441362448716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1684550740533190658",
+          "start": 3,
+          "username": "Puppy162396475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063896441362448716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063683761657774421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Puppy162396475: 说出来可能会被骂，但是作为一个长得稍微有点点姿色的女生，我受到的恶意其实大部分都来自于同性，那些霸凌我的，诋毁我的，见不得我好的，几乎都是女孩子。但我敢说，我对得起我周围的每一个人，特别是女孩子，所以被同性中伤才是最扎心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2063896441362448716",
+        "created_at": "2026-06-08T08:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063896441362448716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1684550740533190658",
+              "start": 3,
+              "username": "Puppy162396475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063896441362448716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063683761657774421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Puppy162396475: 说出来可能会被骂，但是作为一个长得稍微有点点姿色的女生，我受到的恶意其实大部分都来自于同性，那些霸凌我的，诋毁我的，见不得我好的，几乎都是女孩子。但我敢说，我对得起我周围的每一个人，特别是女孩子，所以被同性中伤才是最扎心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684550740533190658",
+        "conversation_id": "2063683761657774421",
+        "created_at": "2026-06-07T18:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063683761657774421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063683761657774421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 53626,
+          "like_count": 469,
+          "quote_count": 12,
+          "reply_count": 163,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "说出来可能会被骂，但是作为一个长得稍微有点点姿色的女生，我受到的恶意其实大部分都来自于同性，那些霸凌我的，诋毁我的，见不得我好的，几乎都是女孩子。但我敢说，我对得起我周围的每一个人，特别是女孩子，所以被同性中伤才是最扎心的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 881,
+          "like_count": 5373,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2940
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T13:06:24.000Z",
+        "description": "希望我永远自由\n不怎么看私信，本人不主动私信任何人\n问我约不约的全都破产，骚扰我的一辈子发不了财",
+        "id": "1684550740533190658",
+        "location": "Central Region, Singapore",
+        "name": "Kim",
+        "pinned_tweet_id": "2019124722873876957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049171280046559232/lloGgr9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 77,
+          "like_count": 802,
+          "listed_count": 5,
+          "media_count": 38,
+          "tweet_count": 240
+        },
+        "username": "Puppy162396475",
+        "verified": false
+      }
+    ]
+  }
+}

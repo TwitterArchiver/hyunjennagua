@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2034474043366121594",
+    "created_at": "2026-03-19T04:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034484374989590654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1677587110210174976",
+          "start": 0,
+          "username": "colleen_ab6642"
+        },
+        {
+          "end": 31,
+          "id": "1605538501705043968",
+          "start": 16,
+          "username": "yangyan_huntun"
+        },
+        {
+          "end": 43,
+          "id": "1956544219751063552",
+          "start": 32,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034484374989590654",
+    "in_reply_to_user_id": "1677587110210174976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034482538635567518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@colleen_ab6642 @yangyan_huntun @wu_si42846 爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2034474043366121594",
+        "created_at": "2026-03-19T04:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034484374989590654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1677587110210174976",
+              "start": 0,
+              "username": "colleen_ab6642"
+            },
+            {
+              "end": 31,
+              "id": "1605538501705043968",
+              "start": 16,
+              "username": "yangyan_huntun"
+            },
+            {
+              "end": 43,
+              "id": "1956544219751063552",
+              "start": 32,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034484374989590654",
+        "in_reply_to_user_id": "1677587110210174976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034482538635567518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@colleen_ab6642 @yangyan_huntun @wu_si42846 爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677587110210174976",
+        "conversation_id": "2034474043366121594",
+        "created_at": "2026-03-19T04:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034482538635567518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            },
+            {
+              "end": 29,
+              "id": "1605538501705043968",
+              "start": 14,
+              "username": "yangyan_huntun"
+            },
+            {
+              "end": 41,
+              "id": "1956544219751063552",
+              "start": 30,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034482538635567518",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034474043366121594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua @yangyan_huntun @wu_si42846 嘿嘿🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 590,
+          "like_count": 3103,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T07:55:19.000Z",
+        "description": "抑郁症、焦虑症患者（目前康复治疗ing)，爱好文学、历史、哲学、精神分析、政治经济学（以及算半个二次元）友好一切性少数群体🏳️‍🌈🏳️‍⚧️，和所有人都能友好交流（除了无理取闹讲不通者会ban）",
+        "id": "1677587110210174976",
+        "location": "Tokyo-to, Japan",
+        "name": "人世间的Polonius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677590805152944128/4WNEwiFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 1218,
+          "like_count": 8248,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 496
+        },
+        "username": "colleen_ab6642",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T12:19:56.000Z",
+        "description": "INTP | 焦虑抑郁已确诊 | 喜扩列  | 06/185 |  bi男  |  可闲聊➕q，私聊找我要号，内容任意 | 细胞神曲 重返未来1999 起点精神病院 | od \n| 可以互fo私信我 | 我真的挺喜欢聊天的 | 什么都可以 |         | 接推广 |\n下面是匿名提问，随便问捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangyan_huntun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangyan_huntun",
+                "start": 0,
+                "url": "https://t.co/TOedcgnzZn"
+              }
+            ]
+          }
+        },
+        "id": "1605538501705043968",
+        "location": "重塑之手",
+        "name": "羊🐏言",
+        "pinned_tweet_id": "1804899894827884739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757687075501957121/AkWcu6eg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 360,
+          "like_count": 3733,
+          "listed_count": 5,
+          "media_count": 97,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/TOedcgnzZn",
+        "username": "yangyan_huntun",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "医院里跑出来的😍🤪🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀里账号@rinii165892\n❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "rinii165892"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2031370336944726139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 874,
+          "like_count": 34293,
+          "listed_count": 1,
+          "media_count": 597,
+          "tweet_count": 13128
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

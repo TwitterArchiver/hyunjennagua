@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1994248143810994332",
+    "created_at": "2025-11-28T03:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994249468653253085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977975962961932288",
+          "start": 0,
+          "username": "hahagehahaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994249468653253085",
+    "in_reply_to_user_id": "1977975962961932288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994249342497280045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahagehahaha 就是啊，我特讨厌我爸，但是只有我爸给我一些比较多的钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1994248143810994332",
+        "created_at": "2025-11-28T03:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994249468653253085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977975962961932288",
+              "start": 0,
+              "username": "hahagehahaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994249468653253085",
+        "in_reply_to_user_id": "1977975962961932288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994249342497280045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahagehahaha 就是啊，我特讨厌我爸，但是只有我爸给我一些比较多的钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977975962961932288",
+        "conversation_id": "1994248143810994332",
+        "created_at": "2025-11-28T03:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994249342497280045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994249342497280045",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994249024744894835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 有病吧，没事用力扭伤口，不怕二次伤害吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "pinned_tweet_id": "1993633187520508332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 122,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 280
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T05:53:23.000Z",
+        "description": "红红火火恍恍惚惚",
+        "id": "1977975962961932288",
+        "location": "十万八千里",
+        "name": "哦哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979882984720252928/AC_zcl3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 176,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 590
+        },
+        "username": "hahagehahaha",
+        "verified": false
+      }
+    ]
+  }
+}

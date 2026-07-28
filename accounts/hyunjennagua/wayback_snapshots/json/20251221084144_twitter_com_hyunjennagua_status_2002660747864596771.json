@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2002660747864596771",
+    "created_at": "2025-12-21T08:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T09:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002660747864596771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002660747864596771",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1965246583379034117",
+            "start": 0,
+            "username": "hyunjennagua"
+          }
+        ]
+      },
+      "text": "@hyunjennagua（用户名为“南瓜”）是一个中文圈的小型X（Twitter）账号，目前有约405名粉丝，拥有蓝V认证。\n\n**个人简介**：Bio中明确提到“双相情感障碍（bpd？焦虑抑郁 互fo私信！”，表明她可能正在经历或自我诊断为双相情感障碍（bipolar disorder）、边缘型人格障碍（BPD）以及焦虑抑郁等问题，并欢迎互关和私信交流。这类bio在精神健康相关的小众圈子中比较常见，用于寻找同类支持。\n\n**内容风格**：\n- 主要发帖类型为分享自拍照（往往是可爱、萌系或带滤镜的个人照），庆祝粉丝里程碑（如300fo、400fo感谢帖）。\n- 偶尔有日常碎碎念、互动回复（如“嘿嘿”“贴贴”“谢谢”），语气活泼亲切。\n- 有明确涉及付费内容的帖子，例如“52可加v 88以上可聊天”（疑似指微信或类似平台的付费加友/聊天服务）。\n- 部分照片可能涉及敏感主题（如自残痕迹等，从互动中有人提到“リスカ”即日语自残），这与bio中的精神健康描述相符。\n\n**互动情况**：\n- 帖子互动中等，一张自拍能获数百点赞、数十回复，主要来自中文、日文用户，评论多为夸可爱、萌，或简单互动。\n- 粉丝增长较快（短期内从300到400），说明有一定吸引力。\n- 整体社区氛围偏向“病娇”“低能量”“互fo交友”圈子，类似的用户常分享情绪、照片寻求共鸣或关注。\n\n**总体评价**：\n这是一个典型的精神健康分享+个人展示型账号，内容偏向可爱自拍和情绪表达，带有寻求关注/支持的成分，同时涉及轻度商业化（付费聊天）。如果你对可爱女孩自拍或相关心理话题感兴趣，可能觉得亲切有共鸣；但内容涉及心理问题和潜在付费服务，建议理性互动，避免过度沉浸。如果你是路人，看看照片娱乐即可，不必深交。账号活跃度高，更新频繁，适合喜欢日常萌图的用户关注。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua（用户名为“南瓜”）是一个中文圈的小型X（Twitter）账号，目前有约405名粉丝，拥有蓝V认证。\n\n**个人简介**：Bio中明确提到“双相情感障碍（bpd？焦虑抑郁 互fo私信！”，表明她可能正在经历或自我诊断为双相情感障碍（bipolar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2002660747864596771",
+        "created_at": "2025-12-21T08:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002660747864596771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002660747864596771",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 13,
+                "id": "1965246583379034117",
+                "start": 0,
+                "username": "hyunjennagua"
+              }
+            ]
+          },
+          "text": "@hyunjennagua（用户名为“南瓜”）是一个中文圈的小型X（Twitter）账号，目前有约405名粉丝，拥有蓝V认证。\n\n**个人简介**：Bio中明确提到“双相情感障碍（bpd？焦虑抑郁 互fo私信！”，表明她可能正在经历或自我诊断为双相情感障碍（bipolar disorder）、边缘型人格障碍（BPD）以及焦虑抑郁等问题，并欢迎互关和私信交流。这类bio在精神健康相关的小众圈子中比较常见，用于寻找同类支持。\n\n**内容风格**：\n- 主要发帖类型为分享自拍照（往往是可爱、萌系或带滤镜的个人照），庆祝粉丝里程碑（如300fo、400fo感谢帖）。\n- 偶尔有日常碎碎念、互动回复（如“嘿嘿”“贴贴”“谢谢”），语气活泼亲切。\n- 有明确涉及付费内容的帖子，例如“52可加v 88以上可聊天”（疑似指微信或类似平台的付费加友/聊天服务）。\n- 部分照片可能涉及敏感主题（如自残痕迹等，从互动中有人提到“リスカ”即日语自残），这与bio中的精神健康描述相符。\n\n**互动情况**：\n- 帖子互动中等，一张自拍能获数百点赞、数十回复，主要来自中文、日文用户，评论多为夸可爱、萌，或简单互动。\n- 粉丝增长较快（短期内从300到400），说明有一定吸引力。\n- 整体社区氛围偏向“病娇”“低能量”“互fo交友”圈子，类似的用户常分享情绪、照片寻求共鸣或关注。\n\n**总体评价**：\n这是一个典型的精神健康分享+个人展示型账号，内容偏向可爱自拍和情绪表达，带有寻求关注/支持的成分，同时涉及轻度商业化（付费聊天）。如果你对可爱女孩自拍或相关心理话题感兴趣，可能觉得亲切有共鸣；但内容涉及心理问题和潜在付费服务，建议理性互动，避免过度沉浸。如果你是路人，看看照片娱乐即可，不必深交。账号活跃度高，更新频繁，适合喜欢日常萌图的用户关注。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua（用户名为“南瓜”）是一个中文圈的小型X（Twitter）账号，目前有约405名粉丝，拥有蓝V认证。\n\n**个人简介**：Bio中明确提到“双相情感障碍（bpd？焦虑抑郁 互fo私信！”，表明她可能正在经历或自我诊断为双相情感障碍（bipolar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 互fo私信！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 183,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

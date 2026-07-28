@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2074827824335405516",
+    "created_at": "2026-07-08T12:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074830389336773062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074830389336773062",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074827824335405516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe 摸摸az"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1981,
+        "media_key": "3_2074826120558731264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtDXR6a4AA9RCT.jpg",
+        "width": 765
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2074826119795408896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtDXPEbgAAQUKu.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2074827824335405516",
+        "created_at": "2026-07-08T12:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074830389336773062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074830389336773062",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074827824335405516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 摸摸az"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074826120558731264",
+            "3_2074826119795408896"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074827824335405516",
+        "created_at": "2026-07-08T12:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074827824335405516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbvcCvGrYL",
+              "end": 166,
+              "expanded_url": "https://x.com/crossyangshe/status/2074827824335405516/photo/1",
+              "media_key": "3_2074826120558731264",
+              "start": 143,
+              "url": "https://t.co/KbvcCvGrYL"
+            },
+            {
+              "display_url": "pic.x.com/KbvcCvGrYL",
+              "end": 166,
+              "expanded_url": "https://x.com/crossyangshe/status/2074827824335405516/photo/1",
+              "media_key": "3_2074826119795408896",
+              "start": 143,
+              "url": "https://t.co/KbvcCvGrYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074827824335405516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哎，az最近生活实在很困难，饭都要吃不起了，想起来两年前在学校附近报了一个驾校来着，想着由于身体原因和精神状态确实不太好，想着就不学车了（az学车也很笨，科目二报名了两次考了四次都没有过），因为科目三没有学过，在网上搜了一下是可以退的，希望能退点钱能维持一下生活的开支，结果今天和教练反映了一下教练就各种扯皮，az离驾校那么也挺远的不可能浪费钱单独打车过去，没办法了只能在小程序上面反映一下看看有没有用吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，az最近生活实在很困难，饭都要吃不起了，想起来两年前在学校附近报了一个驾校来着，想着由于身体原因和精神状态确实不太好，想着就不学车了（az学车也很笨，科目二报名了两次考了四次都没有过），因为科目三没有学过，在网上搜了一下是可以退的，希望能退点钱能维持一下生活的开支，结果今天和教练 https://t.co/KbvcCvGrYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 998,
+          "like_count": 6446,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 3355
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 369,
+          "like_count": 2249,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041020779807264768"
+      ],
+      "media_source_tweet_id": [
+        "2041021483519225887"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2041022844797374547",
+    "created_at": "2026-04-06T05:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041022844797374547"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "男娘"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "伪娘"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "萝莉s"
+        },
+        {
+          "end": 56,
+          "start": 52,
+          "tag": "双马尾"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995243049673515008",
+          "start": 3,
+          "username": "sadlyer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wIvIpbcBC5",
+          "end": 80,
+          "expanded_url": "https://x.com/sadlyer/status/2041021483519225887/photo/1",
+          "media_key": "3_2041020779807264768",
+          "start": 57,
+          "url": "https://t.co/wIvIpbcBC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041022844797374547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041021483519225887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sadlyer: 🚪哥在出租车上偷偷摸我腿，刚回酒店就迫不及待爆操我 #男娘 #伪娘 #萝莉s #双马尾 https://t.co/wIvIpbcBC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041020779807264768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMpld-aUAAlFeX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041020779807264768"
+          ],
+          "media_source_tweet_id": [
+            "2041021483519225887"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2041022844797374547",
+        "created_at": "2026-04-06T05:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041022844797374547"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "男娘"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "伪娘"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "萝莉s"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "双马尾"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1995243049673515008",
+              "start": 3,
+              "username": "sadlyer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wIvIpbcBC5",
+              "end": 80,
+              "expanded_url": "https://x.com/sadlyer/status/2041021483519225887/photo/1",
+              "media_key": "3_2041020779807264768",
+              "start": 57,
+              "url": "https://t.co/wIvIpbcBC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041022844797374547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041021483519225887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sadlyer: 🚪哥在出租车上偷偷摸我腿，刚回酒店就迫不及待爆操我 #男娘 #伪娘 #萝莉s #双马尾 https://t.co/wIvIpbcBC5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041020779807264768"
+          ]
+        },
+        "author_id": "1995243049673515008",
+        "conversation_id": "2041021483519225887",
+        "created_at": "2026-04-06T05:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041021483519225887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男娘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "伪娘"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "萝莉s"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "双马尾"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wIvIpbcBC5",
+              "end": 67,
+              "expanded_url": "https://x.com/sadlyer/status/2041021483519225887/photo/1",
+              "media_key": "3_2041020779807264768",
+              "start": 44,
+              "url": "https://t.co/wIvIpbcBC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041021483519225887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🚪哥在出租车上偷偷摸我腿，刚回酒店就迫不及待爆操我 #男娘 #伪娘 #萝莉s #双马尾 https://t.co/wIvIpbcBC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 681,
+          "like_count": 3742,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T21:26:38.000Z",
+        "description": "🚪88 只回复支付宝口令 频道https://t.co/sEqlHPjaBg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sadlyer2",
+                "end": 38,
+                "expanded_url": "https://t.me/sadlyer2",
+                "start": 15,
+                "url": "https://t.co/sEqlHPjaBg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadlyer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadlyer",
+                "start": 0,
+                "url": "https://t.co/062nQ77JNY"
+              }
+            ]
+          }
+        },
+        "id": "1995243049673515008",
+        "location": "坐标河南 全国空降",
+        "name": "sadlyer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010876887136923648/-nk_ujMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 27,
+          "like_count": 81,
+          "listed_count": 11,
+          "media_count": 33,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/062nQ77JNY",
+        "username": "sadlyer",
+        "verified": false
+      }
+    ]
+  }
+}

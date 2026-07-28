@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066413993158393856"
+      ],
+      "media_source_tweet_id": [
+        "2066414001484136584"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2066524604894748759",
+    "created_at": "2026-06-15T14:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066524604894748759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1483087280764071945",
+          "start": 3,
+          "username": "iirin_120917"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZY587J8F92",
+          "end": 89,
+          "expanded_url": "https://x.com/iirin_120917/status/2066414001484136584/photo/1",
+          "media_key": "3_2066413993158393856",
+          "start": 66,
+          "url": "https://t.co/ZY587J8F92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066524604894748759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066414001484136584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iirin_120917: fuckfuck\n13.霖这里，不会再发任何敏感不当内容了，我完全遵守x规则🤤寻回互关求转…… https://t.co/ZY587J8F92"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066413993158393856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1glBUaQAAcHPS.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066413993158393856"
+          ],
+          "media_source_tweet_id": [
+            "2066414001484136584"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2066524604894748759",
+        "created_at": "2026-06-15T14:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066524604894748759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1483087280764071945",
+              "start": 3,
+              "username": "iirin_120917"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZY587J8F92",
+              "end": 89,
+              "expanded_url": "https://x.com/iirin_120917/status/2066414001484136584/photo/1",
+              "media_key": "3_2066413993158393856",
+              "start": 66,
+              "url": "https://t.co/ZY587J8F92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066524604894748759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066414001484136584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iirin_120917: fuckfuck\n13.霖这里，不会再发任何敏感不当内容了，我完全遵守x规则🤤寻回互关求转…… https://t.co/ZY587J8F92"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066413993158393856"
+          ]
+        },
+        "author_id": "1483087280764071945",
+        "conversation_id": "2066414001484136584",
+        "created_at": "2026-06-15T06:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066414001484136584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZY587J8F92",
+              "end": 71,
+              "expanded_url": "https://x.com/iirin_120917/status/2066414001484136584/photo/1",
+              "media_key": "3_2066413993158393856",
+              "start": 48,
+              "url": "https://t.co/ZY587J8F92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066414001484136584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1551,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "fuckfuck\n13.霖这里，不会再发任何敏感不当内容了，我完全遵守x规则🤤寻回互关求转…… https://t.co/ZY587J8F92"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 902,
+          "like_count": 5511,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T14:42:25.000Z",
+        "description": "13.0\n被幽灵ban了。\n大号@Shivam3228\n牛马💊@BhawnaniSamit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/SupDiuZTRD"
+              }
+            ]
+          }
+        },
+        "id": "1483087280764071945",
+        "location": "你看看你身后",
+        "name": "Selina",
+        "pinned_tweet_id": "2066414001484136584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066411684496052224/p5_CdLjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 56,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/SupDiuZTRD",
+        "username": "iirin_120917",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2028117221990416760",
+    "created_at": "2026-03-01T14:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T15:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028117938616541346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1485367789346963482",
+          "start": 0,
+          "username": "ruange46"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028117938616541346",
+    "in_reply_to_user_id": "1485367789346963482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028117807834243357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruange46 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2028117221990416760",
+        "created_at": "2026-03-01T14:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028117938616541346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1485367789346963482",
+              "start": 0,
+              "username": "ruange46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028117938616541346",
+        "in_reply_to_user_id": "1485367789346963482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028117807834243357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruange46 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485367789346963482",
+        "conversation_id": "2028117221990416760",
+        "created_at": "2026-03-01T14:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028117807834243357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028117807834243357",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028117221990416760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 阮歌大王堂堂降临"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2028028704157270381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 254,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1113
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T21:44:53.000Z",
+        "description": "06年的小女孩，互fo直接来！重抑重焦休学中，小女孩随便聊。oc，术力口，二次元都有接触。欢迎聊天！\n男性添加🚪30/60/99/520\n30永久纯绿好友位\n60开放朋友圈\n99半绿\n520非绿\n偶尔掉落穿衣擦边照\n原味有出，私信选想要的衣物问价，价格不高新来的哥哥有优惠哦~",
+        "id": "1485367789346963482",
+        "name": "阮歌喵（🚪，互fo",
+        "pinned_tweet_id": "2020994012262342844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022262717340364800/6r2vPxT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 102,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 418
+        },
+        "username": "ruange46",
+        "verified": false
+      }
+    ]
+  }
+}

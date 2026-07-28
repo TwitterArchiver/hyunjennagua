@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2028117221990416760",
+    "created_at": "2026-03-02T02:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T03:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028299794800669140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956544219751063552",
+          "start": 5,
+          "username": "wu_si42846"
+        },
+        {
+          "end": 34,
+          "id": "1564990471327215619",
+          "start": 20,
+          "username": "bisco91395061"
+        },
+        {
+          "end": 52,
+          "id": "1568430640428875776",
+          "start": 38,
+          "username": "YesStrayPuppy"
+        },
+        {
+          "end": 70,
+          "id": "1871112800321609728",
+          "start": 56,
+          "username": "tingchechang8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028299794800669140",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028117221990416760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中奖名单：@wu_si42846外卖\n @bisco91395061 pr\n@YesStrayPuppy 奶茶\n@tingchechang8 奶茶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028117179455926272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVR1ExWcAAhdNy.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2028117221990416760",
+        "created_at": "2026-03-02T02:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028299794800669140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956544219751063552",
+              "start": 5,
+              "username": "wu_si42846"
+            },
+            {
+              "end": 34,
+              "id": "1564990471327215619",
+              "start": 20,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 52,
+              "id": "1568430640428875776",
+              "start": 38,
+              "username": "YesStrayPuppy"
+            },
+            {
+              "end": 70,
+              "id": "1871112800321609728",
+              "start": 56,
+              "username": "tingchechang8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028299794800669140",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028117221990416760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中奖名单：@wu_si42846外卖\n @bisco91395061 pr\n@YesStrayPuppy 奶茶\n@tingchechang8 奶茶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028117179455926272"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2028117221990416760",
+        "created_at": "2026-03-01T14:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028117221990416760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72sjZuSjTv",
+              "end": 100,
+              "expanded_url": "https://x.com/hyunjennagua/status/2028117221990416760/photo/1",
+              "media_key": "3_2028117179455926272",
+              "start": 77,
+              "url": "https://t.co/72sjZuSjTv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028117221990416760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3826,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "700fo福利抽奖！赞转关评抽！\n1:请吃外卖（折20）\n2一盒pr（折15）\n3一杯奶茶（抽2人一人折15）\n40转发开（\n1000fo我还会再开的！ https://t.co/72sjZuSjTv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2028028704157270381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 264,
+          "like_count": 2353,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "全天在线的天才末影人🔪- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生/✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "dbdbsjbsja"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2024329117580349689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 591,
+          "like_count": 21738,
+          "listed_count": 1,
+          "media_count": 348,
+          "tweet_count": 7360
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 21,
+          "like_count": 2572,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|好朋友👾https://t.co/WyEuIlIItL👬|一个平凡的直女，谢谢大家和我玩！😭|可以叫我小夜💭！|✋🏻我不聊骚！❗❌|记录(辱骂)📝高三生活中。。|我不是艾姆我只是喜欢小狗。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hown530150?s=20",
+                "end": 36,
+                "expanded_url": "https://x.com/hown530150?s=20",
+                "start": 13,
+                "url": "https://t.co/WyEuIlIItL"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "天天转贴的同人女",
+        "name": "夜市流浪小狗",
+        "pinned_tweet_id": "2022157892942729459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004823690333356037/nLjdnVKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 436,
+          "like_count": 21942,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 6195
+        },
+        "username": "YesStrayPuppy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T08:37:22.000Z",
+        "description": "浪随风起。风一吹，它也随之潮起潮落……破坏掉眼前所见的一切",
+        "id": "1871112800321609728",
+        "name": "隼月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026660691814514689/56Ab1DLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 248,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "tingchechang8",
+        "verified": false
+      }
+    ]
+  }
+}

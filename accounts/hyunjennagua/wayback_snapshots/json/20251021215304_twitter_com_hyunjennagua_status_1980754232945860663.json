@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1980754232945860663",
+    "created_at": "2025-10-21T21:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T22:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980754232945860663"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980754232945860663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从此我不会相信任何人……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1980754232945860663",
+        "created_at": "2025-10-21T21:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T22:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980754232945860663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980754232945860663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从此我不会相信任何人……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "匿名https://t.co/CIziKBo47L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 25,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 2,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 65,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 90
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

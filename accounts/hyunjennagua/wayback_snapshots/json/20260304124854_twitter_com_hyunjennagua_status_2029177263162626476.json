@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2029080011618279639",
+    "created_at": "2026-03-04T12:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T13:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029177263162626476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1839748478232342529",
+          "start": 0,
+          "username": "J1uR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029177263162626476",
+    "in_reply_to_user_id": "1839748478232342529",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029176900602773516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J1uR1 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2029080011618279639",
+        "created_at": "2026-03-04T12:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029177263162626476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1839748478232342529",
+              "start": 0,
+              "username": "J1uR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029177263162626476",
+        "in_reply_to_user_id": "1839748478232342529",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029176900602773516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J1uR1 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839748478232342529",
+        "conversation_id": "2029080011618279639",
+        "created_at": "2026-03-04T12:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T13:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029176900602773516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029176900602773516",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029080011618279639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 一眼看到自己了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 322,
+          "like_count": 2419,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T19:26:50.000Z",
+        "description": "酒精依赖者 | 负能量传播者 | 爱压抑者 |\n男性 | 不自残不od |  双相前史 | \n思考很多东西 解析很多东西 |\n想要很多朋友 请和我互fo",
+        "id": "1839748478232342529",
+        "name": "酒精中毒依赖的JiuRi",
+        "pinned_tweet_id": "2025798940218867858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028776503652343808/uTY3lx6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 68,
+          "like_count": 1210,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 642
+        },
+        "username": "J1uR1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2042821784765120630",
+    "created_at": "2026-04-11T04:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042822422047428740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1995243049673515008",
+          "start": 0,
+          "username": "sadlyer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042822422047428740",
+    "in_reply_to_user_id": "1995243049673515008",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042821784765120630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadlyer ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042821447492734979",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmPSH1akAMaQ7X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2042821784765120630",
+        "created_at": "2026-04-11T04:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042822422047428740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1995243049673515008",
+              "start": 0,
+              "username": "sadlyer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042822422047428740",
+        "in_reply_to_user_id": "1995243049673515008",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042821784765120630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadlyer ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042821447492734979"
+          ]
+        },
+        "author_id": "1995243049673515008",
+        "conversation_id": "2042821784765120630",
+        "created_at": "2026-04-11T04:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042821784765120630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "男娘"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "伪娘"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "鸡巴"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "母狗男娘"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "ts"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "cd"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "露出"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "龟头"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "萝莉"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "双马尾"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqBU2WM77G",
+              "end": 115,
+              "expanded_url": "https://x.com/sadlyer/status/2042821784765120630/photo/1",
+              "media_key": "3_2042821447492734979",
+              "start": 92,
+              "url": "https://t.co/YqBU2WM77G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042821784765120630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们玩鸡巴的时候小狗会过来看吗？小狗知不知道自己的主人在**我觉得好尴尬啊，在宠物面前做这种事情 #男娘 #伪娘 #鸡巴 #母狗男娘 #ts #cd #露出 #龟头 #萝莉 #双马尾 https://t.co/YqBU2WM77G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 701,
+          "like_count": 4217,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T21:26:38.000Z",
+        "description": "🚪88 只回复支付宝口令 接线下 频道https://t.co/sEqlHPjaBg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sadlyer2",
+                "end": 42,
+                "expanded_url": "https://t.me/sadlyer2",
+                "start": 19,
+                "url": "https://t.co/sEqlHPjaBg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadlyer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadlyer",
+                "start": 0,
+                "url": "https://t.co/062nQ77JNY"
+              }
+            ]
+          }
+        },
+        "id": "1995243049673515008",
+        "location": "坐标河南 全国空降",
+        "name": "sadlyer",
+        "pinned_tweet_id": "2040720963856388294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010876887136923648/-nk_ujMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 28,
+          "like_count": 93,
+          "listed_count": 11,
+          "media_count": 39,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/062nQ77JNY",
+        "username": "sadlyer",
+        "verified": false
+      }
+    ]
+  }
+}

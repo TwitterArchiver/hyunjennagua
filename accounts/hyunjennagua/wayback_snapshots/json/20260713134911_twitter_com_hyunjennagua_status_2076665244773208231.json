@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2076556539956228262",
+    "created_at": "2026-07-13T13:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076665244773208231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1520405638387486720",
+          "start": 0,
+          "username": "soba_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076665244773208231",
+    "in_reply_to_user_id": "1520405638387486720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076660486624755995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soba_2333 主要是想剪高级点的这种am都完全满足不了我了😭✋🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076556539956228262",
+        "created_at": "2026-07-13T13:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076665244773208231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1520405638387486720",
+              "start": 0,
+              "username": "soba_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076665244773208231",
+        "in_reply_to_user_id": "1520405638387486720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076660486624755995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soba_2333 主要是想剪高级点的这种am都完全满足不了我了😭✋🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520405638387486720",
+        "conversation_id": "2076556539956228262",
+        "created_at": "2026-07-13T13:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076660486624755995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076660486624755995",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076556539956228262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 如果剪映就可以实现需求可能就没必要为难自己（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 1049,
+          "like_count": 7479,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 3684
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T14:12:20.000Z",
+        "description": "可以叫我 そば/喜欢可爱的人和美丽的插画/流浪着，孤独着，渴望着\n“人啊，去幸福地生活吧！”",
+        "id": "1520405638387486720",
+        "location": "我们之间",
+        "name": "そば",
+        "pinned_tweet_id": "2076108022418726972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076496190800293888/aak4mcqk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 13,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "soba_2333",
+        "verified": false
+      }
+    ]
+  }
+}

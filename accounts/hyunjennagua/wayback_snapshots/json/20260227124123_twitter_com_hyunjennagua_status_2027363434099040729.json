@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2027361421852315671",
+    "created_at": "2026-02-27T12:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027363434099040729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588362906483101696",
+          "start": 0,
+          "username": "jkdghalf411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027363434099040729",
+    "in_reply_to_user_id": "1588362906483101696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027362258087813310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkdghalf411 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2027361421852315671",
+        "created_at": "2026-02-27T12:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027363434099040729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588362906483101696",
+              "start": 0,
+              "username": "jkdghalf411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027363434099040729",
+        "in_reply_to_user_id": "1588362906483101696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027362258087813310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkdghalf411 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588362906483101696",
+        "conversation_id": "2027361421852315671",
+        "created_at": "2026-02-27T12:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027362258087813310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027362258087813310",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027361421852315671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 希望不要太难受🙏🙏贴贴祝good tirp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 227,
+          "like_count": 2277,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T02:50:08.000Z",
+        "description": "=小A｜已有男友｜抑郁焦虑睡眠障碍bpd cptsd 双A｜脑子有问题，会odzc（在降频率）｜🚪188仅聊天，看心情发图片｜愿神之爱保佑你",
+        "id": "1588362906483101696",
+        "location": "电子眼一直在看着你",
+        "name": "水曜日电波幽灵",
+        "pinned_tweet_id": "2026029742177288614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027210877875994625/kl1sutD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5563,
+          "following_count": 631,
+          "like_count": 10694,
+          "listed_count": 17,
+          "media_count": 2373,
+          "tweet_count": 15279
+        },
+        "username": "jkdghalf411",
+        "verified": false
+      }
+    ]
+  }
+}

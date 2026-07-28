@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2031001707937661178",
+    "created_at": "2026-03-09T15:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T16:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031028172989296886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004802306873982977",
+          "start": 0,
+          "username": "Len10x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031028172989296886",
+    "in_reply_to_user_id": "2004802306873982977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031013353964109893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Len10x0 查查你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2031001707937661178",
+        "created_at": "2026-03-09T15:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031028172989296886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004802306873982977",
+              "start": 0,
+              "username": "Len10x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031028172989296886",
+        "in_reply_to_user_id": "2004802306873982977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031013353964109893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Len10x0 查查你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004802306873982977",
+        "conversation_id": "2031001707937661178",
+        "created_at": "2026-03-09T14:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031013353964109893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031013353964109893",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031001707937661178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 查我（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 469,
+          "like_count": 2714,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1432
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "日本語はすべて翻訳機が返事して、間違いを謝罪します｜11年现役初中生｜od｜日系｜自伤｜负能｜同类互fo 私信都会看的！很期待你们找我聊天…！匿名：https://t.co/jlxnXZMrxy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haomaomao",
+                "end": 97,
+                "expanded_url": "https://ngl.link/haomaomao",
+                "start": 74,
+                "url": "https://t.co/jlxnXZMrxy"
+              }
+            ]
+          }
+        },
+        "id": "2004802306873982977",
+        "location": "可不可以喜欢我",
+        "name": "冷幻觉（同类互fo）",
+        "pinned_tweet_id": "2027629556379881975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020745173807026176/0nQdCQ8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 67,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 594
+        },
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}

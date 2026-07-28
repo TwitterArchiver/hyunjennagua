@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2041780775557767536",
+    "created_at": "2026-04-10T00:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T01:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042405188581892135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887181198486872066",
+          "start": 0,
+          "username": "OvOloveyu128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042405188581892135",
+    "in_reply_to_user_id": "1887181198486872066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042232970585719215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvOloveyu128 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2041780775557767536",
+        "created_at": "2026-04-10T00:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042405188581892135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887181198486872066",
+              "start": 0,
+              "username": "OvOloveyu128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042405188581892135",
+        "in_reply_to_user_id": "1887181198486872066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042232970585719215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvOloveyu128 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887181198486872066",
+        "conversation_id": "2041780775557767536",
+        "created_at": "2026-04-09T13:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042232970585719215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042232970585719215",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041780775557767536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 在你家买可以不用身份证吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 696,
+          "like_count": 4121,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T16:47:23.000Z",
+        "description": "前世@ytytcjkwy\n什么都发 乱七八糟\n好说话 可以找我互转互fo 骚扰信息不想回\n纯聊天🚪66 开放朋友圈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ytytcjkwy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mu%E2%80%86kie…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mu%E2%80%86kie%E2%80%86s%E2%80%86s_",
+                "start": 0,
+                "url": "https://t.co/WV0ZlGMkmz"
+              }
+            ]
+          }
+        },
+        "id": "1887181198486872066",
+        "name": "焦焦味",
+        "pinned_tweet_id": "2033093137380626679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031768383986028544/IQ7E53eS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 17,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/WV0ZlGMkmz",
+        "username": "OvOloveyu128",
+        "verified": false
+      }
+    ]
+  }
+}

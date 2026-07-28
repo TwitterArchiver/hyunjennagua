@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2032034703633535242",
+    "created_at": "2026-03-12T10:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032034703633535242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019355322541043720",
+          "start": 3,
+          "username": "zznaah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032034703633535242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031990158846042223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zznaah: 互fo转帖抽奖∽\n一等奖：52r✖️1\n二等奖：愈美片✖️2（可折现\n三等奖：5.2r✖️5\n参与奖：1.88r✖️20\n3.18开奖，直接关注就好了我会回关哦∽❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2032034703633535242",
+        "created_at": "2026-03-12T10:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032034703633535242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019355322541043720",
+              "start": 3,
+              "username": "zznaah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032034703633535242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031990158846042223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zznaah: 互fo转帖抽奖∽\n一等奖：52r✖️1\n二等奖：愈美片✖️2（可折现\n三等奖：5.2r✖️5\n参与奖：1.88r✖️20\n3.18开奖，直接关注就好了我会回关哦∽❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019355322541043720",
+        "conversation_id": "2031990158846042223",
+        "created_at": "2026-03-12T07:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031990158846042223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031990158846042223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "互fo转帖抽奖∽\n一等奖：52r✖️1\n二等奖：愈美片✖️2（可折现\n三等奖：5.2r✖️5\n参与奖：1.88r✖️20\n3.18开奖，直接关注就好了我会回关哦∽❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 546,
+          "like_count": 2776,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T10:21:23.000Z",
+        "description": "互fo直接关注就好，我会回关的\n当朋友圈发",
+        "id": "2019355322541043720",
+        "location": "上海",
+        "name": "全网最懵逼账号。",
+        "pinned_tweet_id": "2031990158846042223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031787398733115393/cZGMh5vV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 73,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "zznaah",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076512271593779200"
+      ],
+      "media_source_tweet_id": [
+        "2076512276056543614"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2076602081939775570",
+    "created_at": "2026-07-13T09:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076602081939775570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952269546079055873",
+          "start": 3,
+          "username": "XinQAQwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vvAmQHCVlB",
+          "end": 38,
+          "expanded_url": "https://x.com/XinQAQwww/status/2076512276056543614/photo/1",
+          "media_key": "3_2076512271593779200",
+          "start": 15,
+          "url": "https://t.co/vvAmQHCVlB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076602081939775570",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076512276056543614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XinQAQwww: https://t.co/vvAmQHCVlB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076512271593779200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFA6MAWMAA_zEb.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076512271593779200"
+          ],
+          "media_source_tweet_id": [
+            "2076512276056543614"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076602081939775570",
+        "created_at": "2026-07-13T09:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076602081939775570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952269546079055873",
+              "start": 3,
+              "username": "XinQAQwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvAmQHCVlB",
+              "end": 38,
+              "expanded_url": "https://x.com/XinQAQwww/status/2076512276056543614/photo/1",
+              "media_key": "3_2076512271593779200",
+              "start": 15,
+              "url": "https://t.co/vvAmQHCVlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076602081939775570",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076512276056543614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XinQAQwww: https://t.co/vvAmQHCVlB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076512271593779200"
+          ]
+        },
+        "author_id": "1952269546079055873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076512276056543614",
+        "created_at": "2026-07-13T03:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076512276056543614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvAmQHCVlB",
+              "end": 23,
+              "expanded_url": "https://x.com/XinQAQwww/status/2076512276056543614/photo/1",
+              "media_key": "3_2076512271593779200",
+              "start": 0,
+              "url": "https://t.co/vvAmQHCVlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076512276056543614",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2349,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vvAmQHCVlB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1046,
+          "like_count": 7449,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 3673
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T07:25:22.000Z",
+        "description": "霜桦的小屋🏠|喵喵喵喵喵|炸柜💥|半断糖🍥|自残（划掉）|不od|喝酒|孤单喵|喜欢雨天🌧️|坐标北京|想去杭州🌳|互fo🥺|交个朋友喵|\n\n请肆意骚扰我喵，好无聊好无聊🥺\n喵喵喵",
+        "id": "1952269546079055873",
+        "name": "XinQAQ",
+        "pinned_tweet_id": "2065006702450360703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075039068920934400/pyAiMwR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 386,
+          "like_count": 1274,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "XinQAQwww",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066175556652236800",
+        "3_2066175556635561984",
+        "3_2066175556652277760",
+        "3_2066175556643897344"
+      ],
+      "media_source_tweet_id": [
+        "2066197221125574763",
+        "2066197221125574763",
+        "2066197221125574763",
+        "2066197221125574763"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066543790475866493",
+    "created_at": "2026-06-15T15:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066543790475866493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5r9je6wXM",
+          "end": 48,
+          "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+          "media_key": "3_2066175556652236800",
+          "start": 25,
+          "url": "https://t.co/g5r9je6wXM"
+        },
+        {
+          "display_url": "pic.x.com/g5r9je6wXM",
+          "end": 48,
+          "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+          "media_key": "3_2066175556635561984",
+          "start": 25,
+          "url": "https://t.co/g5r9je6wXM"
+        },
+        {
+          "display_url": "pic.x.com/g5r9je6wXM",
+          "end": 48,
+          "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+          "media_key": "3_2066175556652277760",
+          "start": 25,
+          "url": "https://t.co/g5r9je6wXM"
+        },
+        {
+          "display_url": "pic.x.com/g5r9je6wXM",
+          "end": 48,
+          "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+          "media_key": "3_2066175556643897344",
+          "start": 25,
+          "url": "https://t.co/g5r9je6wXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066543790475866493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066197221125574763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ropu: 无论你变成什么样子我都喜欢 https://t.co/g5r9je6wXM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_2066175556652236800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyHuMHaAAAzcSq.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2066175556635561984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyHuMDbkAANhN9.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1704,
+        "media_key": "3_2066175556652277760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyHuMHaoAADDY-.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2066175556643897344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyHuMFawAAkjcb.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066175556652236800",
+            "3_2066175556635561984",
+            "3_2066175556652277760",
+            "3_2066175556643897344"
+          ],
+          "media_source_tweet_id": [
+            "2066197221125574763",
+            "2066197221125574763",
+            "2066197221125574763",
+            "2066197221125574763"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066543790475866493",
+        "created_at": "2026-06-15T15:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066543790475866493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5r9je6wXM",
+              "end": 48,
+              "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+              "media_key": "3_2066175556652236800",
+              "start": 25,
+              "url": "https://t.co/g5r9je6wXM"
+            },
+            {
+              "display_url": "pic.x.com/g5r9je6wXM",
+              "end": 48,
+              "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+              "media_key": "3_2066175556635561984",
+              "start": 25,
+              "url": "https://t.co/g5r9je6wXM"
+            },
+            {
+              "display_url": "pic.x.com/g5r9je6wXM",
+              "end": 48,
+              "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+              "media_key": "3_2066175556652277760",
+              "start": 25,
+              "url": "https://t.co/g5r9je6wXM"
+            },
+            {
+              "display_url": "pic.x.com/g5r9je6wXM",
+              "end": 48,
+              "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+              "media_key": "3_2066175556643897344",
+              "start": 25,
+              "url": "https://t.co/g5r9je6wXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066543790475866493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066197221125574763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ropu: 无论你变成什么样子我都喜欢 https://t.co/g5r9je6wXM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066175556652236800",
+            "3_2066175556635561984",
+            "3_2066175556652277760",
+            "3_2066175556643897344"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066197221125574763",
+        "created_at": "2026-06-14T16:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066197221125574763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5r9je6wXM",
+              "end": 37,
+              "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+              "media_key": "3_2066175556652236800",
+              "start": 14,
+              "url": "https://t.co/g5r9je6wXM"
+            },
+            {
+              "display_url": "pic.x.com/g5r9je6wXM",
+              "end": 37,
+              "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+              "media_key": "3_2066175556635561984",
+              "start": 14,
+              "url": "https://t.co/g5r9je6wXM"
+            },
+            {
+              "display_url": "pic.x.com/g5r9je6wXM",
+              "end": 37,
+              "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+              "media_key": "3_2066175556652277760",
+              "start": 14,
+              "url": "https://t.co/g5r9je6wXM"
+            },
+            {
+              "display_url": "pic.x.com/g5r9je6wXM",
+              "end": 37,
+              "expanded_url": "https://x.com/_ropu/status/2066197221125574763/photo/1",
+              "media_key": "3_2066175556643897344",
+              "start": 14,
+              "url": "https://t.co/g5r9je6wXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066197221125574763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 123061,
+          "like_count": 2405,
+          "quote_count": 27,
+          "reply_count": 115,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "无论你变成什么样子我都喜欢 https://t.co/g5r9je6wXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 905,
+          "like_count": 5553,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3016
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu || 是吗 Bot ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31240,
+          "following_count": 4400,
+          "like_count": 16127,
+          "listed_count": 32,
+          "media_count": 4779,
+          "tweet_count": 35210
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

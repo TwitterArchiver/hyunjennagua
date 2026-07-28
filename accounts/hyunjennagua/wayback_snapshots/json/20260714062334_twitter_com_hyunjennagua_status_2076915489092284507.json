@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2076373305486098437",
+    "created_at": "2026-07-14T06:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076915489092284507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786442629917589505",
+          "start": 0,
+          "username": "LinQi_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076915489092284507",
+    "in_reply_to_user_id": "1786442629917589505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076702347565437286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinQi_QAQ 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076373305486098437",
+        "created_at": "2026-07-14T06:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076915489092284507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786442629917589505",
+              "start": 0,
+              "username": "LinQi_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076915489092284507",
+        "in_reply_to_user_id": "1786442629917589505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076702347565437286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinQi_QAQ 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786442629917589505",
+        "conversation_id": "2076373305486098437",
+        "created_at": "2026-07-13T16:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076702347565437286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076702347565437286",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076373305486098437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 南瓜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 1054,
+          "like_count": 7527,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 3708
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-03T17:08:30.000Z",
+        "description": "我喜欢到处转转/简介看网址呗/私信不回复请联系TG：@GGHKing520/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "GGHKing520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linqi-weld.vercel.app",
+                "end": 23,
+                "expanded_url": "https://linqi-weld.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/bBkxmNUufu"
+              }
+            ]
+          }
+        },
+        "id": "1786442629917589505",
+        "location": "看得见星星的地方",
+        "name": "LinQi",
+        "pinned_tweet_id": "2073804296337178667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062444159643648/_Bj8y2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 206,
+          "like_count": 7880,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/bBkxmNUufu",
+        "username": "LinQi_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

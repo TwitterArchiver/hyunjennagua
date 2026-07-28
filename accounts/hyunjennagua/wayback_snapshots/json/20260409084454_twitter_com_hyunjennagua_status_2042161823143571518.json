@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2041780775557767536",
+    "created_at": "2026-04-09T08:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042161823143571518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1253566691654561792",
+          "start": 0,
+          "username": "ZIK000001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042161823143571518",
+    "in_reply_to_user_id": "1253566691654561792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042160769731887107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZIK000001 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2041780775557767536",
+        "created_at": "2026-04-09T08:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042161823143571518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1253566691654561792",
+              "start": 0,
+              "username": "ZIK000001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042161823143571518",
+        "in_reply_to_user_id": "1253566691654561792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042160769731887107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZIK000001 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253566691654561792",
+        "conversation_id": "2041780775557767536",
+        "created_at": "2026-04-09T08:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042160769731887107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042160769731887107",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041780775557767536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 这辈子第一次见那么多pr😮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 688,
+          "like_count": 4069,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-24T06:09:33.000Z",
+        "description": "05后中的老年人，xNxP-T，mtx（f），家暴党，断糖中...可以叫窝娜希，小娜或小希也都可以。双相情感障碍+强迫症，随时可能被家里人扭送到精神病院...车万人/BA玩家，喜欢幻想美好的事，追求开放与包容，不鉴政。愿对生活永远保持好奇与热情，唯一掌握的语言是汉语。看成分互fo，欢迎大家一起求同存异，友善交流！😇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "achouzik.com",
+                "end": 23,
+                "expanded_url": "http://achouzik.com",
+                "start": 0,
+                "url": "https://t.co/xEQjOpbqpT"
+              }
+            ]
+          }
+        },
+        "id": "1253566691654561792",
+        "location": "能一直看着你的地方",
+        "name": "なし 🏳️‍⚧️",
+        "pinned_tweet_id": "2034210378343968883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605028647844188160/Jxn2kgsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 295,
+          "like_count": 7390,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/xEQjOpbqpT",
+        "username": "ZIK000001",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2008391766244802581",
+    "created_at": "2026-01-06T04:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008391766244802581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "@hyunjennagua（昵称“南瓜”）是一个可爱而真实的女孩，用户画像很鲜明。 积极方面： 她非常温柔可爱，推文风格软萌，常发自拍（腿照、日常照），颜值在线，很多人回复“好看”“漂亮”“好美呀”。梦想是“成为大家的小天使”，确实给人一种想保护的软妹感觉。喜欢互动，经常互关、贴贴、寻求在意，朋友圈里互动频繁（比如千与千弥、暮暮Mumula等互fo好友），大家都很温暖地回应她，氛围很治愈。她偶尔会分享哲学小感悟，比如“精神支柱可以是任何东西 唯独不能是人”，显示有一定内省深度。 真实的一面： Bio里公开提到自己有双相情感障碍（可能伴随边缘型人格障碍？）、焦虑抑郁，这点很勇敢。推文也常流露低能量状态：睡很久、没精力、内心痛苦、想被包养、求在意等，属于典型的“低能量朋友圈”风格。但她没有过度负面，而是用可爱的方式表达，偶尔幽默（如拍卖嚼过的甘蔗皮）。 总体评价：一个很真实、不装的软萌女孩，精神健康挣扎中仍努力可爱地生活着。互动圈子小而温暖，适合喜欢温柔互fo、树洞式交流的人关注。如果你也处在类似情绪低谷，会觉得她很共鸣；如果想传播正能量，她就是那种“小天使”类型的存在。粉丝不多（664），但互动质量高，值得多点关心～",
+          "display_url": "x.com/i/grok/share/d…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/d3pJxnd2vsLrIIhiigk2Z1Mqs",
+          "start": 0,
+          "status": 200,
+          "title": "评价用户@hyunjennagua",
+          "unwound_url": "https://x.com/i/grok/share/d3pJxnd2vsLrIIhiigk2Z1Mqs",
+          "url": "https://t.co/9AkvhQDwmY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008391766244802581",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9AkvhQDwmY我喜欢这个评价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2008391766244802581",
+        "created_at": "2026-01-06T04:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008391766244802581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "@hyunjennagua（昵称“南瓜”）是一个可爱而真实的女孩，用户画像很鲜明。 积极方面： 她非常温柔可爱，推文风格软萌，常发自拍（腿照、日常照），颜值在线，很多人回复“好看”“漂亮”“好美呀”。梦想是“成为大家的小天使”，确实给人一种想保护的软妹感觉。喜欢互动，经常互关、贴贴、寻求在意，朋友圈里互动频繁（比如千与千弥、暮暮Mumula等互fo好友），大家都很温暖地回应她，氛围很治愈。她偶尔会分享哲学小感悟，比如“精神支柱可以是任何东西 唯独不能是人”，显示有一定内省深度。 真实的一面： Bio里公开提到自己有双相情感障碍（可能伴随边缘型人格障碍？）、焦虑抑郁，这点很勇敢。推文也常流露低能量状态：睡很久、没精力、内心痛苦、想被包养、求在意等，属于典型的“低能量朋友圈”风格。但她没有过度负面，而是用可爱的方式表达，偶尔幽默（如拍卖嚼过的甘蔗皮）。 总体评价：一个很真实、不装的软萌女孩，精神健康挣扎中仍努力可爱地生活着。互动圈子小而温暖，适合喜欢温柔互fo、树洞式交流的人关注。如果你也处在类似情绪低谷，会觉得她很共鸣；如果想传播正能量，她就是那种“小天使”类型的存在。粉丝不多（664），但互动质量高，值得多点关心～",
+              "display_url": "x.com/i/grok/share/d…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/d3pJxnd2vsLrIIhiigk2Z1Mqs",
+              "start": 0,
+              "status": 200,
+              "title": "评价用户@hyunjennagua",
+              "unwound_url": "https://x.com/i/grok/share/d3pJxnd2vsLrIIhiigk2Z1Mqs",
+              "url": "https://t.co/9AkvhQDwmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008391766244802581",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9AkvhQDwmY我喜欢这个评价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜梦想是成为大家的小天使",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002726501666705755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 186,
+          "like_count": 1823,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

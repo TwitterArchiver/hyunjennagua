@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2055582767640190979",
+    "created_at": "2026-07-12T01:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T02:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076123060391039270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052760341411708928",
+          "start": 0,
+          "username": "Sui17171Fei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076123060391039270",
+    "in_reply_to_user_id": "2052760341411708928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055582767640190979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui17171Fei 这人总共就写了十篇有关科普的估计还是问ai的或者复制的其他全是日常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2055582767640190979",
+        "created_at": "2026-07-12T01:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076123060391039270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052760341411708928",
+              "start": 0,
+              "username": "Sui17171Fei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076123060391039270",
+        "in_reply_to_user_id": "2052760341411708928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055582767640190979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui17171Fei 这人总共就写了十篇有关科普的估计还是问ai的或者复制的其他全是日常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052760341411708928",
+        "conversation_id": "2055582767640190979",
+        "created_at": "2026-05-16T09:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055582767640190979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shanhu_mi/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/shanhu_mi/status/2055337670600253731",
+              "start": 30,
+              "url": "https://t.co/45NlQ1Y2tP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055582767640190979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3315,
+          "like_count": 24,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055337670600253731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这帮人能科普个啥玩意儿？估计一帮人讨论出来一个感康震撼美味 https://t.co/45NlQ1Y2tP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 1042,
+          "like_count": 6844,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 3578
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-08T14:39:47.000Z",
+        "description": "是千早的姐姐大人千岁/药理学习中/可以称为千岁/心理学重度依赖/魔法少女千岁/LGBT全友好/提供自杀干预思路详解",
+        "id": "2052760341411708928",
+        "name": "妃宫千岁",
+        "pinned_tweet_id": "2053188472073281774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070107930251407360/48XQkKQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 150,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "Sui17171Fei",
+        "verified": false
+      }
+    ]
+  }
+}

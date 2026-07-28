@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996682828700905472"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1996682848225710581",
+    "created_at": "2025-12-04T20:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T21:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996682848225710581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DlnqTfiDDl",
+          "end": 23,
+          "expanded_url": "https://x.com/hyunjennagua/status/1996682848225710581/photo/1",
+          "media_key": "3_1996682828700905472",
+          "start": 0,
+          "url": "https://t.co/DlnqTfiDDl"
+        },
+        {
+          "display_url": "x.com/teufel_tigrov/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/teufel_tigrov/status/1996574327144370470",
+          "start": 24,
+          "url": "https://t.co/rWN9QVPCQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996682848225710581",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996574327144370470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/DlnqTfiDDl https://t.co/rWN9QVPCQa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996682828700905472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WkdC3W8AA6xyn.jpg",
+        "width": 946
+      },
+      {
+        "height": 1910,
+        "media_key": "3_1996574320081141760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VBxAwagAAjNpb.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996682828700905472"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1996682848225710581",
+        "created_at": "2025-12-04T20:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T21:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996682848225710581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlnqTfiDDl",
+              "end": 23,
+              "expanded_url": "https://x.com/hyunjennagua/status/1996682848225710581/photo/1",
+              "media_key": "3_1996682828700905472",
+              "start": 0,
+              "url": "https://t.co/DlnqTfiDDl"
+            },
+            {
+              "display_url": "x.com/teufel_tigrov/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/teufel_tigrov/status/1996574327144370470",
+              "start": 24,
+              "url": "https://t.co/rWN9QVPCQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996682848225710581",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996574327144370470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/DlnqTfiDDl https://t.co/rWN9QVPCQa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996574320081141760"
+          ]
+        },
+        "author_id": "1383940842239381510",
+        "conversation_id": "1996574327144370470",
+        "created_at": "2025-12-04T13:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996574327144370470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "nanancc.github.io/pig-text/?dark…",
+              "end": 23,
+              "expanded_url": "https://nanancc.github.io/pig-text/?darkmode=0",
+              "start": 0,
+              "status": 200,
+              "title": "测测你是不是猪",
+              "unwound_url": "https://nanancc.github.io/pig-text/?darkmode=0",
+              "url": "https://t.co/LFEFWhoI4L"
+            },
+            {
+              "display_url": "pic.x.com/RpGKbFB2Do",
+              "end": 53,
+              "expanded_url": "https://x.com/Teufel_Tigrov/status/1996574327144370470/photo/1",
+              "media_key": "3_1996574320081141760",
+              "start": 30,
+              "url": "https://t.co/RpGKbFB2Do"
+            },
+            {
+              "display_url": "x.com/JCMarkEvo/stat…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/JCMarkEvo/status/1996570846551322867",
+              "start": 54,
+              "url": "https://t.co/YkMgSoKlc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996574327144370470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996570846551322867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/LFEFWhoI4L\n\n完了(x https://t.co/RpGKbFB2Do https://t.co/YkMgSoKlc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 141,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/烟鬼/电脑配件零售商（好友特价日常）/亞空間生物/物质位面存在裂解中/超凡智能大列巴/厌恶键政仔，跳脸会B/tl大清洗中..../🚪=15x LEDX/15x Defib/100x 闪耀世界医药",
+        "id": "1383940842239381510",
+        "location": "亚空间",
+        "name": "狐店長🍖「广州服刑技霸狐」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977890195715547136/qY9fBWeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 869,
+          "like_count": 113414,
+          "listed_count": 20,
+          "media_count": 12567,
+          "tweet_count": 94960
+        },
+        "username": "Teufel_Tigrov",
+        "verified": false
+      }
+    ]
+  }
+}

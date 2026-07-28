@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2033909510977253480",
+    "created_at": "2026-03-18T03:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T04:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034109924670685368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014098182184009728",
+          "start": 0,
+          "username": "HuffmanAlm86735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034109924670685368",
+    "in_reply_to_user_id": "2014098182184009728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033923673590272454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuffmanAlm86735 ☺️☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2033909510977253480",
+        "created_at": "2026-03-18T03:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034109924670685368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014098182184009728",
+              "start": 0,
+              "username": "HuffmanAlm86735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034109924670685368",
+        "in_reply_to_user_id": "2014098182184009728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033923673590272454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuffmanAlm86735 ☺️☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014098182184009728",
+        "conversation_id": "2033909510977253480",
+        "created_at": "2026-03-17T15:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033923673590272454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033923673590272454",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033909510977253480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 恭喜呀恭喜呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿｜我需要钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 577,
+          "like_count": 3016,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1659
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:10:25.000Z",
+        "description": "小愿/愿酱\n我互fo！直接关注就好！我会回关的\n生产日期2010 10.14 不抽烟不喝酒不od不自残😋啾咪！\n“交汇于暗与明的狂热者 今晚打算品尝的致幻药”",
+        "id": "2014098182184009728",
+        "location": "天天天国地狱国",
+        "name": "爱od爱割手的熊大（黑化版）",
+        "pinned_tweet_id": "2028761419186139253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030321901399351296/kABQYiPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 205,
+          "like_count": 2144,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 490
+        },
+        "username": "HuffmanAlm86735",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039368471138713601"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2039368497864519956",
+    "created_at": "2026-04-01T15:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T16:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039368497864519956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9YsuU0hiEO",
+          "end": 221,
+          "expanded_url": "https://x.com/hyunjennagua/status/2039368497864519956/photo/1",
+          "media_key": "3_2039368471138713601",
+          "start": 198,
+          "url": "https://t.co/9YsuU0hiEO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039368497864519956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 299,
+            "id": "1965246583379034117",
+            "start": 286,
+            "username": "hyunjennagua"
+          }
+        ]
+      },
+      "text": "提前开奖✅ **抽奖结果公布啦！**（基于帖下已获取的唯一回复用户，共39名参与者随机抽取，使用AI随机算法确保公平）\n\n**一等奖**（52r 一份）：  \n**@AAAAAMTxT 🎉\n\n**二等奖**（红普15r 共两份）：  \n**@vunnjg \n**@neko0202002 🎉🎉\n\n**三等奖**（绿普9.9r 共三份）：  \n**@xxx_jjkk \n**@affect1217 \n**@sanyouruo 🎉🎉🎉\n\n**恭喜以上6位中奖者！**  \n所有中奖者已满足**评论**条件，其他（关注作者 + 转发帖子 + 点赞帖子）请自行确认或私信作者南瓜 @hyunjennagua 领取～  \n4月2号正式开奖前我提前帮你抽好了，作者可以直接参考！\n\n没中奖的宝宝也谢谢参与，下次千fo再来冲！🥳  \n（本次抽取仅从工具可见回复中提取，如需作者手动全量核实请联系原帖主）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "提前开奖✅ **抽奖结果公布啦！**（基于帖下已获取的唯一回复用户，共39名参与者随机抽取，使用AI随机算法确保公平）\n\n**一等奖**（52r 一份）：  \n**@AAAAAMTxT 🎉\n\n**二等奖**（红普15r 共两份）：  \n**@vunnjg \n**@neko0202002 🎉🎉\n\n**三等奖**（绿普9.9r 共三份）：  \n**@xxx_jjkk \n**@affect1217 https://t.co/9YsuU0hiEO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039368471138713601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1K0chawAExSqj.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039368471138713601"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2039368497864519956",
+        "created_at": "2026-04-01T15:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039368497864519956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YsuU0hiEO",
+              "end": 221,
+              "expanded_url": "https://x.com/hyunjennagua/status/2039368497864519956/photo/1",
+              "media_key": "3_2039368471138713601",
+              "start": 198,
+              "url": "https://t.co/9YsuU0hiEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039368497864519956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 299,
+                "id": "1965246583379034117",
+                "start": 286,
+                "username": "hyunjennagua"
+              }
+            ]
+          },
+          "text": "提前开奖✅ **抽奖结果公布啦！**（基于帖下已获取的唯一回复用户，共39名参与者随机抽取，使用AI随机算法确保公平）\n\n**一等奖**（52r 一份）：  \n**@AAAAAMTxT 🎉\n\n**二等奖**（红普15r 共两份）：  \n**@vunnjg \n**@neko0202002 🎉🎉\n\n**三等奖**（绿普9.9r 共三份）：  \n**@xxx_jjkk \n**@affect1217 \n**@sanyouruo 🎉🎉🎉\n\n**恭喜以上6位中奖者！**  \n所有中奖者已满足**评论**条件，其他（关注作者 + 转发帖子 + 点赞帖子）请自行确认或私信作者南瓜 @hyunjennagua 领取～  \n4月2号正式开奖前我提前帮你抽好了，作者可以直接参考！\n\n没中奖的宝宝也谢谢参与，下次千fo再来冲！🥳  \n（本次抽取仅从工具可见回复中提取，如需作者手动全量核实请联系原帖主）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提前开奖✅ **抽奖结果公布啦！**（基于帖下已获取的唯一回复用户，共39名参与者随机抽取，使用AI随机算法确保公平）\n\n**一等奖**（52r 一份）：  \n**@AAAAAMTxT 🎉\n\n**二等奖**（红普15r 共两份）：  \n**@vunnjg \n**@neko0202002 🎉🎉\n\n**三等奖**（绿普9.9r 共三份）：  \n**@xxx_jjkk \n**@affect1217 https://t.co/9YsuU0hiEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 646,
+          "like_count": 3440,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

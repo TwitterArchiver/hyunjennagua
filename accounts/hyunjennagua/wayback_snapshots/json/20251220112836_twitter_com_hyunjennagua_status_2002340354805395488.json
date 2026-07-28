@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2002241606468931635",
+    "created_at": "2025-12-20T11:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002340354805395488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729363663277187073",
+          "start": 0,
+          "username": "gxhkkk144215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002340354805395488",
+    "in_reply_to_user_id": "1729363663277187073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002338286199820446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxhkkk144215 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2002241606468931635",
+        "created_at": "2025-12-20T11:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002340354805395488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729363663277187073",
+              "start": 0,
+              "username": "gxhkkk144215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002340354805395488",
+        "in_reply_to_user_id": "1729363663277187073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002338286199820446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxhkkk144215 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729363663277187073",
+        "conversation_id": "2002241606468931635",
+        "created_at": "2025-12-20T11:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002338286199820446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002338286199820446",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002241606468931635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 风也是这样，像风一样自由吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 176,
+          "like_count": 1436,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T04:56:52.000Z",
+        "description": "时间为何只向固定方向流动",
+        "id": "1729363663277187073",
+        "name": "阿尔加利亚",
+        "pinned_tweet_id": "1738219696963612686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000549810106183680/vgzp6Mn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 101,
+          "like_count": 5874,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 308
+        },
+        "username": "gxhkkk144215",
+        "verified": false
+      }
+    ]
+  }
+}

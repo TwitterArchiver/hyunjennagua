@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2041567904144224769",
+    "created_at": "2026-04-08T01:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041683576060580094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1979915051071938560",
+          "start": 0,
+          "username": "Prouwtt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041683576060580094",
+    "in_reply_to_user_id": "1979915051071938560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041567904144224769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prouwtt 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041567888235184128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUbLXsaQAA9aIn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041567888222646276",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUbLXpa8AQzXrC.jpg",
+        "width": 1862
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041567888214257666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUbLXna8AIF-vt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2041567904144224769",
+        "created_at": "2026-04-08T01:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041683576060580094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1979915051071938560",
+              "start": 0,
+              "username": "Prouwtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041683576060580094",
+        "in_reply_to_user_id": "1979915051071938560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041567904144224769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prouwtt 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041567888235184128",
+            "3_2041567888222646276",
+            "3_2041567888214257666"
+          ]
+        },
+        "author_id": "1979915051071938560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041567904144224769",
+        "created_at": "2026-04-07T17:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041567904144224769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFQ0dV1HWg",
+              "end": 29,
+              "expanded_url": "https://x.com/Prouwtt/status/2041567904144224769/photo/1",
+              "media_key": "3_2041567888235184128",
+              "start": 6,
+              "url": "https://t.co/YFQ0dV1HWg"
+            },
+            {
+              "display_url": "pic.x.com/YFQ0dV1HWg",
+              "end": 29,
+              "expanded_url": "https://x.com/Prouwtt/status/2041567904144224769/photo/1",
+              "media_key": "3_2041567888222646276",
+              "start": 6,
+              "url": "https://t.co/YFQ0dV1HWg"
+            },
+            {
+              "display_url": "pic.x.com/YFQ0dV1HWg",
+              "end": 29,
+              "expanded_url": "https://x.com/Prouwtt/status/2041567904144224769/photo/1",
+              "media_key": "3_2041567888214257666",
+              "start": 6,
+              "url": "https://t.co/YFQ0dV1HWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041567904144224769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有计划的割 https://t.co/YFQ0dV1HWg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 669,
+          "like_count": 3967,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-19T14:19:42.000Z",
+        "description": "无性别电子幽灵\n性冷淡苦恼中",
+        "id": "1979915051071938560",
+        "name": "Prouw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979915757858287616/Ag0ZSmsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 93,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 468
+        },
+        "username": "Prouwtt",
+        "verified": false
+      }
+    ]
+  }
+}

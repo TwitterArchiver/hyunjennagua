@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2039272138780066109",
+    "created_at": "2026-04-01T09:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T10:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039272138780066109"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 100,
+          "start": 95,
+          "tag": "上海线下"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "线下"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "纯绿"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "半绿"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "门槛"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "陪聊"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "一日女友"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2035674398989197312",
+          "start": 3,
+          "username": "WeissS65815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039272138780066109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036714065960005810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WeissS65815: 重发一下置顶🔝！！！\n之前的被马斯克拿下了😭😭😭\n欢迎大家找我过🚪和线下~~🥹我会重新在推上分享生活🥲🥲🙏🏻\n私信价格表要不然会被抬走喵🙏😭😭😥\n#门槛妹 #上海线下 #线下 #纯绿 #半绿 #门槛 #陪聊 #爸爸活 #一日女友 https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2036714062856511488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPcpjGa4AABqmt.jpg",
+        "width": 828
+      },
+      {
+        "height": 868,
+        "media_key": "3_2036714053599444992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPcpAnXQAAuRZr.jpg",
+        "width": 828
+      },
+      {
+        "height": 1073,
+        "media_key": "3_2036714062537535488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPcph6XsAA7Z4U.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2039272138780066109",
+        "created_at": "2026-04-01T09:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039272138780066109"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "上海线下"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "线下"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "纯绿"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "半绿"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "门槛"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "陪聊"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "一日女友"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2035674398989197312",
+              "start": 3,
+              "username": "WeissS65815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039272138780066109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036714065960005810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WeissS65815: 重发一下置顶🔝！！！\n之前的被马斯克拿下了😭😭😭\n欢迎大家找我过🚪和线下~~🥹我会重新在推上分享生活🥲🥲🙏🏻\n私信价格表要不然会被抬走喵🙏😭😭😥\n#门槛妹 #上海线下 #线下 #纯绿 #半绿 #门槛 #陪聊 #爸爸活 #一日女友 https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036714062856511488",
+            "3_2036714053599444992",
+            "3_2036714062537535488"
+          ]
+        },
+        "author_id": "2035674398989197312",
+        "conversation_id": "2036714065960005810",
+        "created_at": "2026-03-25T07:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036714065960005810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "上海线下"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "线下"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "纯绿"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "半绿"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "门槛"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "陪聊"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "一日女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3TuxOWISr",
+              "end": 138,
+              "expanded_url": "https://x.com/WeissS65815/status/2036714065960005810/photo/1",
+              "media_key": "3_2036714062856511488",
+              "start": 115,
+              "url": "https://t.co/Z3TuxOWISr"
+            },
+            {
+              "display_url": "pic.x.com/Z3TuxOWISr",
+              "end": 138,
+              "expanded_url": "https://x.com/WeissS65815/status/2036714065960005810/photo/1",
+              "media_key": "3_2036714053599444992",
+              "start": 115,
+              "url": "https://t.co/Z3TuxOWISr"
+            },
+            {
+              "display_url": "pic.x.com/Z3TuxOWISr",
+              "end": 138,
+              "expanded_url": "https://x.com/WeissS65815/status/2036714065960005810/photo/1",
+              "media_key": "3_2036714062537535488",
+              "start": 115,
+              "url": "https://t.co/Z3TuxOWISr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036714065960005810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4463,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "重发一下置顶🔝！！！\n之前的被马斯克拿下了😭😭😭\n欢迎大家找我过🚪和线下~~🥹我会重新在推上分享生活🥲🥲🙏🏻\n私信价格表要不然会被抬走喵🙏😭😭😥\n#门槛妹 #上海线下 #线下 #纯绿 #半绿 #门槛 #陪聊 #爸爸活 #一日女友 https://t.co/Z3TuxOWISr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 644,
+          "like_count": 3426,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1890
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T11:06:29.000Z",
+        "description": "",
+        "id": "2035674398989197312",
+        "location": "上海",
+        "name": "西酉",
+        "pinned_tweet_id": "2036714065960005810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036705223507623936/42_iNJmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "username": "WeissS65815",
+        "verified": false
+      }
+    ]
+  }
+}

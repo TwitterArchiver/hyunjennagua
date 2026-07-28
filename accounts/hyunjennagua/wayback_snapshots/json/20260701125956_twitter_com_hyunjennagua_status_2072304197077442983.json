@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072304187527102464",
+        "3_2072304187506036736"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2072304197077442983",
+    "created_at": "2026-07-01T12:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072304197077442983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ARLnCmyLFg",
+          "end": 36,
+          "expanded_url": "https://x.com/hyunjennagua/status/2072304197077442983/photo/1",
+          "media_key": "3_2072304187527102464",
+          "start": 13,
+          "url": "https://t.co/ARLnCmyLFg"
+        },
+        {
+          "display_url": "pic.x.com/ARLnCmyLFg",
+          "end": 36,
+          "expanded_url": "https://x.com/hyunjennagua/status/2072304197077442983/photo/1",
+          "media_key": "3_2072304187506036736",
+          "start": 13,
+          "url": "https://t.co/ARLnCmyLFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072304197077442983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "xyy你全家都被车撞死了 https://t.co/ARLnCmyLFg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072304187527102464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJNrdQbgAABF0M.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072304187506036736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJNrdLaEAAIvr0.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072304187527102464",
+            "3_2072304187506036736"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2072304197077442983",
+        "created_at": "2026-07-01T12:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072304197077442983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARLnCmyLFg",
+              "end": 36,
+              "expanded_url": "https://x.com/hyunjennagua/status/2072304197077442983/photo/1",
+              "media_key": "3_2072304187527102464",
+              "start": 13,
+              "url": "https://t.co/ARLnCmyLFg"
+            },
+            {
+              "display_url": "pic.x.com/ARLnCmyLFg",
+              "end": 36,
+              "expanded_url": "https://x.com/hyunjennagua/status/2072304197077442983/photo/1",
+              "media_key": "3_2072304187506036736",
+              "start": 13,
+              "url": "https://t.co/ARLnCmyLFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072304197077442983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xyy你全家都被车撞死了 https://t.co/ARLnCmyLFg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 985,
+          "like_count": 6032,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

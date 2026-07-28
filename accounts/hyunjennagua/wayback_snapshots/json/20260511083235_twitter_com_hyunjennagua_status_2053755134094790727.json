@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2053755134094790727",
+    "created_at": "2026-05-11T08:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053755134094790727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2053475823538372608",
+          "start": 3,
+          "username": "YaZangxueNo_2"
+        },
+        {
+          "end": 38,
+          "id": "2044073101961412609",
+          "start": 23,
+          "username": "crow_kill_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053755134094790727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053481554807329081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YaZangxueNo_2: 初号机 @crow_kill_snow 不幸陨落，二号机互fo寻回中大家可以帮忙转帖呀，还有部分单号还没发走，谢谢大家啦！"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [crow_kill_snow].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "crow_kill_snow",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "crow_kill_snow"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2053755134094790727",
+        "created_at": "2026-05-11T08:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053755134094790727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2053475823538372608",
+              "start": 3,
+              "username": "YaZangxueNo_2"
+            },
+            {
+              "end": 38,
+              "id": "2044073101961412609",
+              "start": 23,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053755134094790727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053481554807329081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YaZangxueNo_2: 初号机 @crow_kill_snow 不幸陨落，二号机互fo寻回中大家可以帮忙转帖呀，还有部分单号还没发走，谢谢大家啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053475823538372608",
+        "conversation_id": "2053481554807329081",
+        "created_at": "2026-05-10T14:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053481554807329081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2044073101961412609",
+              "start": 4,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053481554807329081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1782,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "初号机 @crow_kill_snow 不幸陨落，二号机互fo寻回中大家可以帮忙转帖呀，还有部分单号还没发走，谢谢大家啦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇：蓝v互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 867,
+          "like_count": 5090,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 2798
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T14:03:03.000Z",
+        "description": "鸦葬雪初代机陨落，互fo寻回中，看见的宝宝可以帮忙转帖呀",
+        "id": "2053475823538372608",
+        "location": "下北沢",
+        "name": "鸦葬雪",
+        "pinned_tweet_id": "2053508048241774663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053480204023287808/5Oxki_GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "YaZangxueNo_2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2079615944658391337",
+    "created_at": "2026-07-21T17:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079615944658391337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/allenleo89064/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/allenleo89064/status/2079332737312297042",
+          "start": 3,
+          "url": "https://t.co/8gQtOZJg15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079615944658391337",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079332737312297042",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？ https://t.co/8gQtOZJg15"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18923,
+        "height": 960,
+        "media_key": "13_2076502465579724800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076502465579724800/img/IeLlxOyu6BDPqv1Z.jpg",
+        "public_metrics": {
+          "view_count": 6522948
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076502465579724800/vid/avc1/320x690/IAuE9s6WomEV2e9t.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076502465579724800/vid/avc1/444x960/Fq8xBHg9FoenNT93.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076502465579724800/pl/xp_2SP1Ck6tN3Iid.m3u8?v=cfc"
+          }
+        ],
+        "width": 444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2079615944658391337",
+        "created_at": "2026-07-21T17:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079615944658391337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/allenleo89064/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/allenleo89064/status/2079332737312297042",
+              "start": 3,
+              "url": "https://t.co/8gQtOZJg15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079615944658391337",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079332737312297042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？ https://t.co/8gQtOZJg15"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076502465579724800"
+          ],
+          "media_source_tweet_id": [
+            "2076502563495776721"
+          ]
+        },
+        "author_id": "2042201865727705088",
+        "conversation_id": "2079332737312297042",
+        "created_at": "2026-07-20T22:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079332737312297042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D00vxxA81T",
+              "end": 30,
+              "expanded_url": "https://x.com/BscLeo/status/2076502563495776721/video/1",
+              "media_key": "13_2076502465579724800",
+              "start": 7,
+              "url": "https://t.co/D00vxxA81T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079332737312297042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1282,
+          "impression_count": 824458,
+          "like_count": 3247,
+          "quote_count": 19,
+          "reply_count": 360,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "这有点牛逼！ https://t.co/D00vxxA81T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 1100,
+          "like_count": 8964,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 4045
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T11:25:06.000Z",
+        "description": "中共不等於中國\n中共不等於中國人\n投稿郵箱：\nallenleo89064@gmail.com",
+        "id": "2042201865727705088",
+        "name": "Allen Leo",
+        "pinned_tweet_id": "2042206526689976761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042202345107320832/u4IHXrRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 94,
+          "like_count": 2433,
+          "listed_count": 4,
+          "media_count": 362,
+          "tweet_count": 3529
+        },
+        "url": "",
+        "username": "AllenLeo89064",
+        "verified": false
+      }
+    ]
+  }
+}

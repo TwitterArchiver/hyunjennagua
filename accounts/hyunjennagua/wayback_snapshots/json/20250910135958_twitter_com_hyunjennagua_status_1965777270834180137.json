@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1965616043348689348",
+    "created_at": "2025-09-10T13:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T14:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965777270834180137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1530985375220391936",
+          "start": 0,
+          "username": "qbpdsslvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965777270834180137",
+    "in_reply_to_user_id": "1530985375220391936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965747414654152916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qbpdsslvy 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1965616043348689348",
+        "created_at": "2025-09-10T13:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T14:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965777270834180137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1530985375220391936",
+              "start": 0,
+              "username": "qbpdsslvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965777270834180137",
+        "in_reply_to_user_id": "1530985375220391936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965747414654152916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qbpdsslvy 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530985375220391936",
+        "conversation_id": "1965616043348689348",
+        "created_at": "2025-09-10T12:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T13:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965747414654152916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965747414654152916",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965616043348689348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 初次42t-84t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "躁狂加焦虑",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T18:52:20.000Z",
+        "description": "🏳️‍⚧️/🍥2023.1.16",
+        "id": "1530985375220391936",
+        "location": "日本 東京",
+        "name": "7o",
+        "pinned_tweet_id": "1643806177325912065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643352971613274116/InSQWV-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 186,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 205
+        },
+        "username": "qbpdsslvy",
+        "verified": false
+      }
+    ]
+  }
+}

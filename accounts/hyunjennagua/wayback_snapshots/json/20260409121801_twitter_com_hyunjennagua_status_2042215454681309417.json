@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2042162570367254842",
+    "created_at": "2026-04-09T12:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042215454681309417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1986420391833907200",
+          "start": 0,
+          "username": "hnjn431596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042215454681309417",
+    "in_reply_to_user_id": "1986420391833907200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042215339619176785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnjn431596 我怕没人记得我了😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2042215339619176785].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2042215339619176785",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2042215339619176785"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2042162570367254842",
+        "created_at": "2026-04-09T12:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042215454681309417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1986420391833907200",
+              "start": 0,
+              "username": "hnjn431596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042215454681309417",
+        "in_reply_to_user_id": "1986420391833907200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042215339619176785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnjn431596 我怕没人记得我了😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 694,
+          "like_count": 4091,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 2200
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-06T13:08:45.000Z",
+        "description": "→这是酸性｜已成年｜BD｜OVERDOSE｜MOVIE｜BISEXUAL｜语言是→中韩英｜\n→男生查成分互fo｜女生都fo｜不可接受小粉红｜\n→这里提问(ｼ´･ω･)ﾉｼhttps://t.co/njkFAuFCEs\n喜欢大家爱我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cassie2me",
+                "end": 108,
+                "expanded_url": "https://ngl.link/cassie2me",
+                "start": 85,
+                "url": "https://t.co/njkFAuFCEs"
+              }
+            ]
+          }
+        },
+        "id": "1986420391833907200",
+        "location": "雨季",
+        "name": "*꒰ঌ മ ˔ മ ໒꒱*",
+        "pinned_tweet_id": "1992215269390119177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041179252637474817/KVzoqq9M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 132,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 648
+        },
+        "username": "hnjn431596",
+        "verified": false
+      }
+    ]
+  }
+}

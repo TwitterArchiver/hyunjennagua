@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965741498747731968"
+      ],
+      "media_source_tweet_id": [
+        "1965741526732197946"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1965993233244156134",
+    "created_at": "2025-09-11T04:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T05:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965993233244156134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1680508885394927616",
+          "start": 3,
+          "username": "04177_realname"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7MpcSQi14N",
+          "end": 43,
+          "expanded_url": "https://x.com/04177_realname/status/1965741526732197946/photo/1",
+          "media_key": "3_1965741498747731968",
+          "start": 20,
+          "url": "https://t.co/7MpcSQi14N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965993233244156134",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965741526732197946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @04177_realname: https://t.co/7MpcSQi14N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_1965741498747731968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0e3emkaQAA12E0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965741498747731968"
+          ],
+          "media_source_tweet_id": [
+            "1965741526732197946"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1965993233244156134",
+        "created_at": "2025-09-11T04:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965993233244156134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1680508885394927616",
+              "start": 3,
+              "username": "04177_realname"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MpcSQi14N",
+              "end": 43,
+              "expanded_url": "https://x.com/04177_realname/status/1965741526732197946/photo/1",
+              "media_key": "3_1965741498747731968",
+              "start": 20,
+              "url": "https://t.co/7MpcSQi14N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965993233244156134",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965741526732197946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @04177_realname: https://t.co/7MpcSQi14N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965741498747731968"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1965741526732197946",
+        "created_at": "2025-09-10T11:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T12:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965741526732197946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MpcSQi14N",
+              "end": 23,
+              "expanded_url": "https://x.com/04177_realname/status/1965741526732197946/photo/1",
+              "media_key": "3_1965741498747731968",
+              "start": 0,
+              "url": "https://t.co/7MpcSQi14N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965741526732197946",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1820,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7MpcSQi14N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "躁狂加焦虑",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "你的人生导师，提供问题解答服务，详情见置顶/逃生舱：@04177_truth（来互fo）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "04177_truth"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1961655141700157841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10988,
+          "following_count": 6072,
+          "like_count": 65459,
+          "listed_count": 34,
+          "media_count": 2713,
+          "tweet_count": 19691
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

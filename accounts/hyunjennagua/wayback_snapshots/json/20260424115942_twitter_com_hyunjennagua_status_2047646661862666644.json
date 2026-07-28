@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047415451840344064"
+      ],
+      "media_source_tweet_id": [
+        "2047415457511063958"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2047646661862666644",
+    "created_at": "2026-04-24T11:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047646661862666644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2046004591431409664",
+          "start": 3,
+          "username": "Skelzerippz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KamSjNtCBd",
+          "end": 46,
+          "expanded_url": "https://x.com/Skelzerippz/status/2047415457511063958/photo/1",
+          "media_key": "3_2047415451840344064",
+          "start": 23,
+          "url": "https://t.co/KamSjNtCBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047646661862666644",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047415457511063958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Skelzerippz: Scars https://t.co/KamSjNtCBd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047646661862666644].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047646661862666644",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047646661862666644"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047415451840344064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnhgXqW8AA-YMy.jpg",
+        "width": 1952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047415451840344064"
+          ]
+        },
+        "author_id": "2046004591431409664",
+        "conversation_id": "2047415457511063958",
+        "created_at": "2026-04-23T20:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047415457511063958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KamSjNtCBd",
+              "end": 29,
+              "expanded_url": "https://x.com/Skelzerippz/status/2047415457511063958/photo/1",
+              "media_key": "3_2047415451840344064",
+              "start": 6,
+              "url": "https://t.co/KamSjNtCBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047415457511063958",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 3136,
+          "like_count": 832,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "Scars https://t.co/KamSjNtCBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 805,
+          "like_count": 4864,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 2686
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T23:15:34.000Z",
+        "description": "main and backup got suspended rip",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ilovesdazai.straw.page",
+                "end": 23,
+                "expanded_url": "http://ilovesdazai.straw.page",
+                "start": 0,
+                "url": "https://t.co/NilYhP8Ajv"
+              }
+            ]
+          }
+        },
+        "id": "2046004591431409664",
+        "location": "20yrs old ",
+        "name": "chuuya of shtwt 🐷🩸",
+        "pinned_tweet_id": "2046425163562893776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046005620806172672/iICxqGJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 8,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/NilYhP8Ajv",
+        "username": "Skelzerippz",
+        "verified": false
+      }
+    ]
+  }
+}

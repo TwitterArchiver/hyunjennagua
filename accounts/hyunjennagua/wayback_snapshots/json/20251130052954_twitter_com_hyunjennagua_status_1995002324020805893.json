@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995002297617731584",
+        "3_1995002297642803201",
+        "3_1995002297630306304"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995002324020805893",
+    "created_at": "2025-11-30T05:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T06:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995002324020805893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BPZJ4ssELg",
+          "end": 23,
+          "expanded_url": "https://x.com/hyunjennagua/status/1995002324020805893/photo/1",
+          "media_key": "3_1995002297617731584",
+          "start": 0,
+          "url": "https://t.co/BPZJ4ssELg"
+        },
+        {
+          "display_url": "pic.x.com/BPZJ4ssELg",
+          "end": 23,
+          "expanded_url": "https://x.com/hyunjennagua/status/1995002324020805893/photo/1",
+          "media_key": "3_1995002297642803201",
+          "start": 0,
+          "url": "https://t.co/BPZJ4ssELg"
+        },
+        {
+          "display_url": "pic.x.com/BPZJ4ssELg",
+          "end": 23,
+          "expanded_url": "https://x.com/hyunjennagua/status/1995002324020805893/photo/1",
+          "media_key": "3_1995002297630306304",
+          "start": 0,
+          "url": "https://t.co/BPZJ4ssELg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995002324020805893",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/BPZJ4ssELg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 334,
+        "media_key": "3_1995002297617731584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-sBQuX0AAcn-i.jpg",
+        "width": 1024
+      },
+      {
+        "height": 256,
+        "media_key": "3_1995002297642803201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-sBQ0WYAEtjpb.jpg",
+        "width": 1024
+      },
+      {
+        "height": 756,
+        "media_key": "3_1995002297630306304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-sBQxXsAA1Ivv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995002297617731584",
+            "3_1995002297642803201",
+            "3_1995002297630306304"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995002324020805893",
+        "created_at": "2025-11-30T05:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995002324020805893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPZJ4ssELg",
+              "end": 23,
+              "expanded_url": "https://x.com/hyunjennagua/status/1995002324020805893/photo/1",
+              "media_key": "3_1995002297617731584",
+              "start": 0,
+              "url": "https://t.co/BPZJ4ssELg"
+            },
+            {
+              "display_url": "pic.x.com/BPZJ4ssELg",
+              "end": 23,
+              "expanded_url": "https://x.com/hyunjennagua/status/1995002324020805893/photo/1",
+              "media_key": "3_1995002297642803201",
+              "start": 0,
+              "url": "https://t.co/BPZJ4ssELg"
+            },
+            {
+              "display_url": "pic.x.com/BPZJ4ssELg",
+              "end": 23,
+              "expanded_url": "https://x.com/hyunjennagua/status/1995002324020805893/photo/1",
+              "media_key": "3_1995002297630306304",
+              "start": 0,
+              "url": "https://t.co/BPZJ4ssELg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995002324020805893",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BPZJ4ssELg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 132,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 354
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2079092963918111139",
+    "created_at": "2026-07-20T13:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079199216896008445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1757962929637675008",
+          "start": 0,
+          "username": "Manno_BU"
+        },
+        {
+          "end": 20,
+          "id": "361248768",
+          "start": 10,
+          "username": "R1kOx033w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079199216896008445",
+    "in_reply_to_user_id": "1757962929637675008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079198896207929424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Manno_BU @R1kOx033w 女孩子可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2079092963918111139",
+        "created_at": "2026-07-20T13:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079199216896008445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1757962929637675008",
+              "start": 0,
+              "username": "Manno_BU"
+            },
+            {
+              "end": 20,
+              "id": "361248768",
+              "start": 10,
+              "username": "R1kOx033w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079199216896008445",
+        "in_reply_to_user_id": "1757962929637675008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079198896207929424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manno_BU @R1kOx033w 女孩子可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757962929637675008",
+        "conversation_id": "2079092963918111139",
+        "created_at": "2026-07-20T13:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079198896207929424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            },
+            {
+              "end": 24,
+              "id": "361248768",
+              "start": 14,
+              "username": "R1kOx033w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079198896207929424",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079198360045846878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua @R1kOx033w 我也想 可以吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 1095,
+          "like_count": 8455,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 3993
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T03:00:14.000Z",
+        "description": "fpv飞手 摄影师",
+        "id": "1757962929637675008",
+        "location": "广州",
+        "name": "BU_Manno",
+        "pinned_tweet_id": "2065007185239966160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065007836573339648/AADzwJsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 1965,
+          "like_count": 32713,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2778
+        },
+        "url": "",
+        "username": "Manno_BU",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-24T13:58:30.000Z",
+        "description": "转生为鲤#双相II型#混乱善良#镇定剂构成的虚假幻想生物#",
+        "id": "361248768",
+        "location": "伽蓝洞",
+        "name": "鲤",
+        "pinned_tweet_id": "2075389383709208885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063720447561347072/ht3bAq-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 92,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "R1kOx033w",
+        "verified": false
+      }
+    ]
+  }
+}

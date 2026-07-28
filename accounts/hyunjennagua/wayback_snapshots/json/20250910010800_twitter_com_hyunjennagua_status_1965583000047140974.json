@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1965583000047140974",
+    "created_at": "2025-09-10T01:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T02:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965583000047140974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jenniejsr1/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/jenniejsr1/status/1965581690174406746",
+          "start": 6,
+          "url": "https://t.co/cUtGHz6oDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965583000047140974",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965581690174406746",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也快了喵 https://t.co/cUtGHz6oDr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1965583000047140974",
+        "created_at": "2025-09-10T01:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T02:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965583000047140974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jenniejsr1/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/jenniejsr1/status/1965581690174406746",
+              "start": 6,
+              "url": "https://t.co/cUtGHz6oDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965583000047140974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965581690174406746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也快了喵 https://t.co/cUtGHz6oDr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889888437614026756",
+        "conversation_id": "1965581690174406746",
+        "created_at": "2025-09-10T01:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T02:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965581690174406746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965581690174406746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下真要烂一辈子了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "躁狂加焦虑",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T04:04:59.000Z",
+        "description": "hi",
+        "id": "1889888437614026756",
+        "name": "d d",
+        "pinned_tweet_id": "1963902419881828781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947999046573887489/061OsO9v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 28,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "Jenniejsr1",
+        "verified": false
+      }
+    ]
+  }
+}

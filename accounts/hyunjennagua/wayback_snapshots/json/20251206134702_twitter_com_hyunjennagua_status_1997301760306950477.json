@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1997301760306950477",
+    "created_at": "2025-12-06T13:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T14:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997301760306950477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1525487854763364354",
+          "start": 3,
+          "username": "xinzhongdeaishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997301760306950477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996806024473596046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinzhongdeaishi: 无法理解所有把墙外的帖子截图发到墙内社媒上的人 咋了你是想彰显你会挂梯子很牛逼吗？截图别人的东西彰显自己的网感？其实你土爆了知道吗？莫名其妙死了打开小红书和抖音总能刷到脑瘫截别人发在墙外的东西骗墙内流量还不给人家打码 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1997301760306950477",
+        "created_at": "2025-12-06T13:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997301760306950477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1525487854763364354",
+              "start": 3,
+              "username": "xinzhongdeaishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997301760306950477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996806024473596046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xinzhongdeaishi: 无法理解所有把墙外的帖子截图发到墙内社媒上的人 咋了你是想彰显你会挂梯子很牛逼吗？截图别人的东西彰显自己的网感？其实你土爆了知道吗？莫名其妙死了打开小红书和抖音总能刷到脑瘫截别人发在墙外的东西骗墙内流量还不给人家打码 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525487854763364354",
+        "conversation_id": "1996806024473596046",
+        "created_at": "2025-12-05T04:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T05:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996806024473596046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996806024473596046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 92399,
+          "like_count": 809,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "无法理解所有把墙外的帖子截图发到墙内社媒上的人 咋了你是想彰显你会挂梯子很牛逼吗？截图别人的东西彰显自己的网感？其实你土爆了知道吗？莫名其妙死了打开小红书和抖音总能刷到脑瘫截别人发在墙外的东西骗墙内流量还不给人家打码 傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 150,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:50:17.000Z",
+        "description": "德语区留子 | 只发碎碎念和照片 | 可以叫我小希",
+        "id": "1525487854763364354",
+        "location": "🚪188纯绿",
+        "name": "sisi77_",
+        "pinned_tweet_id": "1986811703636742277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916502927822172160/96CNH58c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 93,
+          "like_count": 3619,
+          "listed_count": 7,
+          "media_count": 147,
+          "tweet_count": 2585
+        },
+        "username": "xinzhongdeaishi",
+        "verified": false
+      }
+    ]
+  }
+}

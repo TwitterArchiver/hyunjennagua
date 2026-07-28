@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1993682812084367843",
+    "created_at": "2025-11-27T01:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T02:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993857326085009465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1985041752655577088",
+          "start": 0,
+          "username": "ai0ai444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993857326085009465",
+    "in_reply_to_user_id": "1985041752655577088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993824747159998812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai0ai444 爱你❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1993682812084367843",
+        "created_at": "2025-11-27T01:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T02:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993857326085009465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1985041752655577088",
+              "start": 0,
+              "username": "ai0ai444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993857326085009465",
+        "in_reply_to_user_id": "1985041752655577088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993824747159998812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai0ai444 爱你❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985041752655577088",
+        "conversation_id": "1993682812084367843",
+        "created_at": "2025-11-26T23:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T00:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993824747159998812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993824747159998812",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993682812084367843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 我回🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 122,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 229
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T17:50:27.000Z",
+        "description": "07｜抑郁焦虑｜泛｜友女友跨反男反这个世界｜看成分互fo（也可以私信d我）｜性别不详｜高活跃高强度在线｜喜欢和女孩子聊天🥰🥰",
+        "id": "1985041752655577088",
+        "location": "普瑞巴林",
+        "name": "每天都得哄自己活着👾",
+        "pinned_tweet_id": "1993692113410851023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987033837038411780/vt9DddaU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 103,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 306
+        },
+        "username": "ai0ai444",
+        "verified": false
+      }
+    ]
+  }
+}

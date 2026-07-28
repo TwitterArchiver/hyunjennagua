@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077334370122395649",
+        "3_2077334370118172672",
+        "3_2077334370109829120"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077334378099998967",
+    "created_at": "2026-07-15T10:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077334378099998967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1561806114274287616",
+          "start": 12,
+          "username": "crossyangshe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RlDVLuBuOh",
+          "end": 49,
+          "expanded_url": "https://x.com/hyunjennagua/status/2077334378099998967/photo/1",
+          "media_key": "3_2077334370122395649",
+          "start": 26,
+          "url": "https://t.co/RlDVLuBuOh"
+        },
+        {
+          "display_url": "pic.x.com/RlDVLuBuOh",
+          "end": 49,
+          "expanded_url": "https://x.com/hyunjennagua/status/2077334378099998967/photo/1",
+          "media_key": "3_2077334370118172672",
+          "start": 26,
+          "url": "https://t.co/RlDVLuBuOh"
+        },
+        {
+          "display_url": "pic.x.com/RlDVLuBuOh",
+          "end": 49,
+          "expanded_url": "https://x.com/hyunjennagua/status/2077334378099998967/photo/1",
+          "media_key": "3_2077334370109829120",
+          "start": 26,
+          "url": "https://t.co/RlDVLuBuOh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077334378099998967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "az号被封了暂时还回不来@crossyangshe https://t.co/RlDVLuBuOh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077334370122395649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQsmnra8AEnCiz.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077334370118172672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQsmnqagAAFcyq.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077334370109829120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQsmnobMAAcYJY.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077334370122395649",
+            "3_2077334370118172672",
+            "3_2077334370109829120"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077334378099998967",
+        "created_at": "2026-07-15T10:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077334378099998967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1561806114274287616",
+              "start": 12,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RlDVLuBuOh",
+              "end": 49,
+              "expanded_url": "https://x.com/hyunjennagua/status/2077334378099998967/photo/1",
+              "media_key": "3_2077334370122395649",
+              "start": 26,
+              "url": "https://t.co/RlDVLuBuOh"
+            },
+            {
+              "display_url": "pic.x.com/RlDVLuBuOh",
+              "end": 49,
+              "expanded_url": "https://x.com/hyunjennagua/status/2077334378099998967/photo/1",
+              "media_key": "3_2077334370118172672",
+              "start": 26,
+              "url": "https://t.co/RlDVLuBuOh"
+            },
+            {
+              "display_url": "pic.x.com/RlDVLuBuOh",
+              "end": 49,
+              "expanded_url": "https://x.com/hyunjennagua/status/2077334378099998967/photo/1",
+              "media_key": "3_2077334370109829120",
+              "start": 26,
+              "url": "https://t.co/RlDVLuBuOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077334378099998967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "az号被封了暂时还回不来@crossyangshe https://t.co/RlDVLuBuOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1072,
+          "like_count": 7561,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 3784
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 438,
+          "like_count": 3212,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 889
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1982348481856520616",
+    "created_at": "2025-10-26T07:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T08:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982348481856520616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639664012907429890",
+          "start": 3,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982348481856520616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981993892619661495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Je1nFaur_l: 你们圈子里全都4完了 什么吉他张一滴泪还有鸽伦比亚索菲亚的 恶心死了 能不能快点4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1982348481856520616",
+        "created_at": "2025-10-26T07:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982348481856520616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639664012907429890",
+              "start": 3,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982348481856520616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981993892619661495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Je1nFaur_l: 你们圈子里全都4完了 什么吉他张一滴泪还有鸽伦比亚索菲亚的 恶心死了 能不能快点4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639664012907429890",
+        "conversation_id": "1981993892619661495",
+        "created_at": "2025-10-25T07:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981993892619661495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoka55kawaii/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/yoka55kawaii/status/1981893910923538514",
+              "start": 42,
+              "url": "https://t.co/bMFRxUIGvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981993892619661495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12944,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981893910923538514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们圈子里全都4完了 什么吉他张一滴泪还有鸽伦比亚索菲亚的 恶心死了 能不能快点4 https://t.co/bMFRxUIGvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 64,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 94
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 宅女一枚呀\n不键政不看黄不陪聊不谈恋爱不约炮什么都不做 世界第一纯良喵 粉红不要关注\nshitposting & venting randomly\n #フォロバ0　 #フォロバ絶対しない\n🚪0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "フォロバ0"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "tag": "フォロバ絶対しない"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roph.net/?p=193",
+                "end": 23,
+                "expanded_url": "https://roph.net/?p=193",
+                "start": 0,
+                "url": "https://t.co/VZQwwdrdfm"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "Kether",
+        "name": "澪澪大王",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980476132190248960/WvtOG1FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 3628,
+          "like_count": 133550,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 10036
+        },
+        "url": "https://t.co/VZQwwdrdfm",
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

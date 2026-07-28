@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2071607152645751029",
+    "created_at": "2026-06-30T10:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071897708638675402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057522150681272320",
+          "start": 0,
+          "username": "Yuzuk1QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071897708638675402",
+    "in_reply_to_user_id": "2057522150681272320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071893264324854237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuzuk1QwQ 牛啊！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1281,
+        "media_key": "3_2071893260432216064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDX8WiWkAAXyHC.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2071607152645751029",
+        "created_at": "2026-06-30T10:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071897708638675402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057522150681272320",
+              "start": 0,
+              "username": "Yuzuk1QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071897708638675402",
+        "in_reply_to_user_id": "2057522150681272320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071893264324854237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuzuk1QwQ 牛啊！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071893260432216064"
+          ]
+        },
+        "author_id": "2057522150681272320",
+        "conversation_id": "2071607152645751029",
+        "created_at": "2026-06-30T09:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071893264324854237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lw8Wz6u7DP",
+              "end": 43,
+              "expanded_url": "https://x.com/Yuzuk1QwQ/status/2071893264324854237/photo/1",
+              "media_key": "3_2071893260432216064",
+              "start": 20,
+              "url": "https://t.co/Lw8Wz6u7DP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071893264324854237",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071607152645751029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 还是贵了😋 https://t.co/Lw8Wz6u7DP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 979,
+          "like_count": 5933,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 3193
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T18:01:38.000Z",
+        "description": "08已成年，先看置顶！！！不接线下不接定制不接11,不出原味，只回关注的私信，私信请把要干什么写清楚，看不懂不会回，没回就是在睡觉ᗜωᗜ                                               \n上一世@Yuzuk1UwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 119,
+                "username": "Yuzuk1UwU"
+              }
+            ]
+          }
+        },
+        "id": "2057522150681272320",
+        "location": "北京",
+        "name": "游星兔",
+        "pinned_tweet_id": "2067660623249633491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057522429048807424/5f3GQY5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 43,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "Yuzuk1QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

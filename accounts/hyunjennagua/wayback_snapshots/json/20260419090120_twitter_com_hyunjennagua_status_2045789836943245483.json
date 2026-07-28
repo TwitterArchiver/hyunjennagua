@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2045508269071036862",
+    "created_at": "2026-04-19T09:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045789836943245483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656224072051863554",
+          "start": 0,
+          "username": "24105F4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045789836943245483",
+    "in_reply_to_user_id": "1656224072051863554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045508269071036862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@24105F4 看起来好好吃🤤甜甜的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045508254697230336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMa64pbkAAuiw0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2045508269071036862",
+        "created_at": "2026-04-19T09:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045789836943245483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656224072051863554",
+              "start": 0,
+              "username": "24105F4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045789836943245483",
+        "in_reply_to_user_id": "1656224072051863554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045508269071036862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@24105F4 看起来好好吃🤤甜甜的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045508254697230336"
+          ]
+        },
+        "author_id": "1656224072051863554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045508269071036862",
+        "created_at": "2026-04-18T14:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045508269071036862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cj31BhNMZU",
+              "end": 33,
+              "expanded_url": "https://x.com/24105F4/status/2045508269071036862/photo/1",
+              "media_key": "3_2045508254697230336",
+              "start": 10,
+              "url": "https://t.co/cj31BhNMZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045508269071036862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "パフェ‼️‼️‼️ https://t.co/cj31BhNMZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 778,
+          "like_count": 4667,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-10T09:08:44.000Z",
+        "description": "友達を探しています♪\n※シラフの時はこのアカウントを開きません/日本人/出会い厨は求めて無いです！\n趣味:💊🎮🚬🏍️📷",
+        "id": "1656224072051863554",
+        "location": "❤︎ブロン❤︎メジコン❤︎ウット❤︎ハイプロン❤︎",
+        "name": "みーる",
+        "pinned_tweet_id": "2040782768494514452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040474779321516032/e4oPyPnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 102,
+          "like_count": 2333,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 119
+        },
+        "username": "24105F4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2027667422807818678",
+    "created_at": "2026-02-28T08:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027667422807818678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/flechazo777_/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/flechazo777_/status/2027630189686231135",
+          "start": 6,
+          "url": "https://t.co/rkdeR2aIeq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027667422807818678",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027630189686231135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑的不行 https://t.co/rkdeR2aIeq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027630184619458561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOW6PoaQAEiCZe.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2027667422807818678",
+        "created_at": "2026-02-28T08:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027667422807818678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/flechazo777_/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/flechazo777_/status/2027630189686231135",
+              "start": 6,
+              "url": "https://t.co/rkdeR2aIeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027667422807818678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027630189686231135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑的不行 https://t.co/rkdeR2aIeq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027630184619458561"
+          ]
+        },
+        "author_id": "1650435393370882048",
+        "conversation_id": "2027630189686231135",
+        "created_at": "2026-02-28T06:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027630189686231135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jS1t1j9E80",
+              "end": 27,
+              "expanded_url": "https://x.com/flechazo777_/status/2027630189686231135/photo/1",
+              "media_key": "3_2027630184619458561",
+              "start": 4,
+              "url": "https://t.co/jS1t1j9E80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027630189686231135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3226,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢！ https://t.co/jS1t1j9E80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 229,
+          "like_count": 2287,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T09:44:08.000Z",
+        "description": "某个入的小号喵",
+        "id": "1650435393370882048",
+        "name": "Yuri",
+        "pinned_tweet_id": "2023123853694963933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894717221303140352/kHERlBDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17412,
+          "following_count": 34,
+          "like_count": 27,
+          "listed_count": 40,
+          "media_count": 55,
+          "tweet_count": 1032
+        },
+        "username": "flechazo777_",
+        "verified": false
+      }
+    ]
+  }
+}

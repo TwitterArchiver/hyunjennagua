@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067926195476500480"
+      ],
+      "media_source_tweet_id": [
+        "2067926431548793159"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2068262833201299546",
+    "created_at": "2026-06-20T09:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068262833201299546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944225210284314624",
+          "start": 3,
+          "username": "NMD_China"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gIeBkLBYxX",
+          "end": 43,
+          "expanded_url": "https://x.com/NMD_China/status/2067926431548793159/video/1",
+          "media_key": "13_2067926195476500480",
+          "start": 20,
+          "url": "https://t.co/gIeBkLBYxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068262833201299546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 704
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067926431548793159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @NMD_China: 何意味？ https://t.co/gIeBkLBYxX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61794,
+        "height": 1280,
+        "media_key": "13_2067926195476500480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067926195476500480/img/vHRH8MjNWiINaN_6.jpg",
+        "public_metrics": {
+          "view_count": 641417
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067926195476500480/vid/avc1/320x568/wQVN4J9PtXInCJ4p.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067926195476500480/vid/avc1/480x852/aAz-9LsXaQxahnET.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067926195476500480/vid/avc1/720x1280/-cVVmsvgDQyOLwpT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067926195476500480/pl/xNytXutzR9IVkLpb.m3u8?tag=14&v=d2e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067926195476500480"
+          ],
+          "media_source_tweet_id": [
+            "2067926431548793159"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2068262833201299546",
+        "created_at": "2026-06-20T09:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068262833201299546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944225210284314624",
+              "start": 3,
+              "username": "NMD_China"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIeBkLBYxX",
+              "end": 43,
+              "expanded_url": "https://x.com/NMD_China/status/2067926431548793159/video/1",
+              "media_key": "13_2067926195476500480",
+              "start": 20,
+              "url": "https://t.co/gIeBkLBYxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068262833201299546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 704
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067926431548793159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @NMD_China: 何意味？ https://t.co/gIeBkLBYxX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067926195476500480"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "conversation_id": "2067926431548793159",
+        "created_at": "2026-06-19T11:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067926431548793159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIeBkLBYxX",
+              "end": 28,
+              "expanded_url": "https://x.com/NMD_China/status/2067926431548793159/video/1",
+              "media_key": "13_2067926195476500480",
+              "start": 5,
+              "url": "https://t.co/gIeBkLBYxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067926431548793159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5679,
+          "impression_count": 1215099,
+          "like_count": 14154,
+          "quote_count": 161,
+          "reply_count": 11,
+          "retweet_count": 704
+        },
+        "reply_settings": "following",
+        "text": "何意味？ https://t.co/gIeBkLBYxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642｜推群链接查成分通过https://t.co/9lJK4OEeRm｜自伤｜｜od｜碎碎念｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 70,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 47,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 922,
+          "like_count": 5652,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 3076
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "你说的对所以我们睡大觉吧\n**死男同出没注意**\n大概率会屏蔽锁推新增关注者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067523971298545664/LsfGiNSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 954,
+          "like_count": 180778,
+          "listed_count": 23,
+          "media_count": 1241,
+          "tweet_count": 4478
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

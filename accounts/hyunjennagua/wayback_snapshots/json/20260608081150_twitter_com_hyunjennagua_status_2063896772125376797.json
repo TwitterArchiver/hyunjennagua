@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2063896772125376797",
+    "created_at": "2026-06-08T08:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063896772125376797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/poca2381/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/poca2381/status/2063450925805805966",
+          "start": 4,
+          "url": "https://t.co/eylQwGhmWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063896772125376797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063450925805805966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "试一下 https://t.co/eylQwGhmWE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2063896772125376797",
+        "created_at": "2026-06-08T08:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063896772125376797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poca2381/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/poca2381/status/2063450925805805966",
+              "start": 4,
+              "url": "https://t.co/eylQwGhmWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063896772125376797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063450925805805966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "试一下 https://t.co/eylQwGhmWE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2063450925805805966",
+        "created_at": "2026-06-07T02:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063450925805805966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063450925805805966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我们别联系\nN 你很忙\nO 很无情\nP 想和你在一起\nQ 用命去爱你\nR 你是我女神\nS 你是我男神\nT 你是混蛋\nU 你很高冷\nV 你很善良\nW 你很老实\nX 你很单纯\nY 我恨你\nZ 我想艹你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6428,
+          "like_count": 19,
+          "quote_count": 17,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我们别联系\nN 你很忙\nO 很无情\nP 想和你在一起\nQ 用命去爱你\nR 你是我女神\nS 你是我男神\nT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 881,
+          "like_count": 5373,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2941
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21550,
+          "following_count": 9023,
+          "like_count": 151917,
+          "listed_count": 52,
+          "media_count": 4634,
+          "tweet_count": 50687
+        },
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

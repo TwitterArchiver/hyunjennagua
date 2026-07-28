@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044052089584713728"
+      ],
+      "media_source_tweet_id": [
+        "2044052158237028406"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2044284941765419426",
+    "created_at": "2026-04-15T05:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044284941765419426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tkqRr3d89y",
+          "end": 58,
+          "expanded_url": "https://x.com/SalviaSWC/status/2044052158237028406/photo/1",
+          "media_key": "3_2044052089584713728",
+          "start": 35,
+          "url": "https://t.co/tkqRr3d89y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044284941765419426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044052158237028406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 突发！鸡哥自曝今日接受禁毒大队“询问” https://t.co/tkqRr3d89y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2044052089584713728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3ui64XgAAc-H0.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044052089584713728"
+          ],
+          "media_source_tweet_id": [
+            "2044052158237028406"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2044284941765419426",
+        "created_at": "2026-04-15T05:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044284941765419426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkqRr3d89y",
+              "end": 58,
+              "expanded_url": "https://x.com/SalviaSWC/status/2044052158237028406/photo/1",
+              "media_key": "3_2044052089584713728",
+              "start": 35,
+              "url": "https://t.co/tkqRr3d89y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044284941765419426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044052158237028406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 突发！鸡哥自曝今日接受禁毒大队“询问” https://t.co/tkqRr3d89y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044052089584713728"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2044052158237028406",
+        "created_at": "2026-04-14T13:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044052158237028406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkqRr3d89y",
+              "end": 43,
+              "expanded_url": "https://x.com/SalviaSWC/status/2044052158237028406/photo/1",
+              "media_key": "3_2044052089584713728",
+              "start": 20,
+              "url": "https://t.co/tkqRr3d89y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044052158237028406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10152,
+          "like_count": 127,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "突发！鸡哥自曝今日接受禁毒大队“询问” https://t.co/tkqRr3d89y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 734,
+          "like_count": 4478,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 2448
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3765,
+          "following_count": 972,
+          "like_count": 22156,
+          "listed_count": 8,
+          "media_count": 430,
+          "tweet_count": 6869
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

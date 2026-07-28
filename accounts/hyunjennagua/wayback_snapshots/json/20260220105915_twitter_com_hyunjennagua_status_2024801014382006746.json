@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2007108883760992256"
+      ],
+      "media_source_tweet_id": [
+        "2007108916820476157"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2024801014382006746",
+    "created_at": "2026-02-20T10:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024801014382006746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "862326702898200576",
+          "start": 3,
+          "username": "minnano_dougaww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lS6Zeqlrl2",
+          "end": 69,
+          "expanded_url": "https://x.com/Crazymoments01/status/2007108916820476157/video/1",
+          "media_key": "7_2007108883760992256",
+          "start": 46,
+          "url": "https://t.co/lS6Zeqlrl2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024801014382006746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 472
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024469830418780226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minnano_dougaww: とても困難な救出作戦・・・こんな風になるのか\n\n https://t.co/lS6Zeqlrl2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10198,
+        "height": 1280,
+        "media_key": "7_2007108883760992256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2007108883760992256/pu/img/Jc4PT_VeTgWJTK-d.jpg",
+        "public_metrics": {
+          "view_count": 22250784
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007108883760992256/pu/vid/avc1/320x568/8rivqcp1riukeIqf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007108883760992256/pu/vid/avc1/480x852/ECsCWKSz9uJez5td.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007108883760992256/pu/vid/avc1/720x1280/ejSvt6KJhr3zBE4b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2007108883760992256/pu/pl/rFLbN8u_H23NTtqd.m3u8?v=406"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007108883760992256"
+          ],
+          "media_source_tweet_id": [
+            "2007108916820476157"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2024801014382006746",
+        "created_at": "2026-02-20T10:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024801014382006746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "862326702898200576",
+              "start": 3,
+              "username": "minnano_dougaww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lS6Zeqlrl2",
+              "end": 69,
+              "expanded_url": "https://x.com/Crazymoments01/status/2007108916820476157/video/1",
+              "media_key": "7_2007108883760992256",
+              "start": 46,
+              "url": "https://t.co/lS6Zeqlrl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024801014382006746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 472
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024469830418780226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minnano_dougaww: とても困難な救出作戦・・・こんな風になるのか\n\n https://t.co/lS6Zeqlrl2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007108883760992256"
+          ],
+          "media_source_tweet_id": [
+            "2007108916820476157"
+          ]
+        },
+        "author_id": "862326702898200576",
+        "conversation_id": "2024469830418780226",
+        "created_at": "2026-02-19T13:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024469830418780226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lS6Zeqlrl2",
+              "end": 48,
+              "expanded_url": "https://x.com/Crazymoments01/status/2007108916820476157/video/1",
+              "media_key": "7_2007108883760992256",
+              "start": 25,
+              "url": "https://t.co/lS6Zeqlrl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024469830418780226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1419,
+          "impression_count": 3681904,
+          "like_count": 4878,
+          "quote_count": 179,
+          "reply_count": 705,
+          "retweet_count": 472
+        },
+        "reply_settings": "everyone",
+        "text": "とても困難な救出作戦・・・こんな風になるのか\n\n https://t.co/lS6Zeqlrl2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 214,
+          "like_count": 2187,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 995
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-10T15:21:22.000Z",
+        "description": "ここでは載せられない大人のやつ→ @Shanta165889",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "Shanta165889"
+              }
+            ]
+          }
+        },
+        "id": "862326702898200576",
+        "name": "衝撃bot",
+        "pinned_tweet_id": "1972227738733068646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010588976768528386/olro9CEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364329,
+          "following_count": 3793,
+          "like_count": 3324,
+          "listed_count": 944,
+          "media_count": 7437,
+          "tweet_count": 16658
+        },
+        "username": "minnano_dougaww",
+        "verified": true
+      }
+    ]
+  }
+}

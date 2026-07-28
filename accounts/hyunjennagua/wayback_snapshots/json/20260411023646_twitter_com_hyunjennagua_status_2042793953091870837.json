@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2042793953091870837",
+    "created_at": "2026-04-11T02:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T03:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042793953091870837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pfdqtvkpfg2846…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/pfdqtvkpfg28461/status/2042783307637887378",
+          "start": 24,
+          "url": "https://t.co/6LhZmZi3SL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042793953091870837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042783307637887378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "广州禁毒这工作真不错，又可以刷推特，又可以赚钱 https://t.co/6LhZmZi3SL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2042793953091870837",
+        "created_at": "2026-04-11T02:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042793953091870837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pfdqtvkpfg2846…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/pfdqtvkpfg28461/status/2042783307637887378",
+              "start": 24,
+              "url": "https://t.co/6LhZmZi3SL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042793953091870837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042783307637887378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "广州禁毒这工作真不错，又可以刷推特，又可以赚钱 https://t.co/6LhZmZi3SL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2042783307637887378",
+        "created_at": "2026-04-11T01:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042783307637887378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/rinii165892/status/2042534912407015715",
+              "start": 24,
+              "url": "https://t.co/ATwOVvVx2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042783307637887378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042534912407015715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "广州禁毒这工作真不错，又可以刷推特，又可以赚钱 https://t.co/ATwOVvVx2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 701,
+          "like_count": 4188,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "双相/mtx/重抑/精分/偶尔od/不鉴证/不割手/噶啦给墓/hjh我操你妈！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/murasame_ayachi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/murasame_ayachi",
+                "start": 0,
+                "url": "https://t.co/q7MH3PADuT"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "丛雨丛雨丛？🍬",
+        "pinned_tweet_id": "2042697167903822070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 580,
+          "like_count": 1805,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/q7MH3PADuT",
+        "username": "pFDQtVKpfG28461",
+        "verified": false
+      }
+    ]
+  }
+}

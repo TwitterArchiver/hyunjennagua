@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1981417834657026547",
+    "created_at": "2025-10-24T05:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T06:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981594393313227231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1489622706349817856",
+          "start": 0,
+          "username": "MasterLatos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981594393313227231",
+    "in_reply_to_user_id": "1489622706349817856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981417834657026547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasterLatos 圈内贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1981417829657432072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39pBKBbUAg9bQB.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1981417834657026547",
+        "created_at": "2025-10-24T05:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981594393313227231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1489622706349817856",
+              "start": 0,
+              "username": "MasterLatos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981594393313227231",
+        "in_reply_to_user_id": "1489622706349817856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981417834657026547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasterLatos 圈内贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981417829657432072"
+          ]
+        },
+        "author_id": "1489622706349817856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1981417834657026547",
+        "created_at": "2025-10-23T17:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981417834657026547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1981137986973814785/3G6z0JHc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1981137986973814785/3G6z0JHc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/vpmRhZrVrC"
+            },
+            {
+              "display_url": "pic.x.com/v0BTSZ4sTU",
+              "end": 64,
+              "expanded_url": "https://x.com/MasterLatos/status/1981417834657026547/photo/1",
+              "media_key": "3_1981417829657432072",
+              "start": 41,
+              "url": "https://t.co/v0BTSZ4sTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981417834657026547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/vpmRhZrVrC https://t.co/v0BTSZ4sTU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 70,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 90
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T15:32:01.000Z",
+        "description": "06年 ｜ 飞友 ｜ 全栈开发者 ｜英伦摇滚🎸资深爱好者｜ 友跨 ｜互fo | oder ｜HRT START  2025.8.25",
+        "id": "1489622706349817856",
+        "name": "Latos",
+        "pinned_tweet_id": "1977038512945062246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959647760808071168/9c5hC4Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1580,
+          "like_count": 1080,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 933
+        },
+        "username": "MasterLatos",
+        "verified": false
+      }
+    ]
+  }
+}

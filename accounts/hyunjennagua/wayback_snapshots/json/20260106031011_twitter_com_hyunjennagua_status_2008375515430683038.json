@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2007942417312354304"
+      ],
+      "media_source_tweet_id": [
+        "2007942448312729869"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2008375515430683038",
+    "created_at": "2026-01-06T03:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008375515430683038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1959074476106424321",
+          "start": 3,
+          "username": "WalkinLax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C61fARqTph",
+          "end": 38,
+          "expanded_url": "https://x.com/WalkinLax/status/2007942448312729869/video/1",
+          "media_key": "7_2007942417312354304",
+          "start": 15,
+          "url": "https://t.co/C61fARqTph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008375515430683038",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007942448312729869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WalkinLax: https://t.co/C61fARqTph"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2008375515430683038].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2008375515430683038",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2008375515430683038"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10750,
+        "height": 848,
+        "media_key": "7_2007942417312354304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2007942417312354304/pu/img/x-DU9ZJ4cWQdhNo7.jpg",
+        "public_metrics": {
+          "view_count": 1064
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007942417312354304/pu/vid/avc1/320x458/xkj348AqKVEnwumW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007942417312354304/pu/vid/avc1/480x686/QmjHeue3zf0HfSpg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007942417312354304/pu/vid/avc1/592x848/OeKE6_AOgtR7gKc8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2007942417312354304/pu/pl/Sx77HM8-cLu1cuom.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007942417312354304"
+          ]
+        },
+        "author_id": "1959074476106424321",
+        "conversation_id": "2007942448312729869",
+        "created_at": "2026-01-04T22:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T23:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007942448312729869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C61fARqTph",
+              "end": 23,
+              "expanded_url": "https://x.com/WalkinLax/status/2007942448312729869/video/1",
+              "media_key": "7_2007942417312354304",
+              "start": 0,
+              "url": "https://t.co/C61fARqTph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007942448312729869",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 2376,
+          "like_count": 247,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C61fARqTph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002726501666705755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 186,
+          "like_count": 1812,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-23T02:05:42.000Z",
+        "description": "👞👞👞👞👞",
+        "id": "1959074476106424321",
+        "name": "liphangxi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959971999628804097/VWHb1LsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 458,
+          "like_count": 343,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 2188
+        },
+        "username": "WalkinLax",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2035924251283226628",
+    "created_at": "2026-03-23T03:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T04:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035924251283226628"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "男娘"
+        },
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "男娘s"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "萝莉"
+        },
+        {
+          "end": 110,
+          "start": 106,
+          "tag": "双马尾"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "cd"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "雌坠"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "伪娘"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "sm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995243049673515008",
+          "start": 3,
+          "username": "sadlyer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035924251283226628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035848151660445781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sadlyer: 有没有M找我线下呀？我最近很想扇别人巴掌，我是认真的，我好无聊，我现在在惠州海边度假，我可以去广州深圳佛山附近，我是萝莉S，感觉这种类型很少，总有人以为我是M #男娘 #男娘s #萝莉 #双马尾 #cd #雌坠 #伪娘 #sm https://t.co…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035924251283226628].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035924251283226628",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035924251283226628"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2035847251818598402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEDISgWaUAIpraJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035847251818598402"
+          ]
+        },
+        "author_id": "1995243049673515008",
+        "conversation_id": "2035848151660445781",
+        "created_at": "2026-03-22T22:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T23:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035848151660445781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "男娘"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "男娘s"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "萝莉"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "双马尾"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "cd"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "雌坠"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "伪娘"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "sm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxrAGQNXrC",
+              "end": 137,
+              "expanded_url": "https://x.com/sadlyer/status/2035848151660445781/photo/1",
+              "media_key": "3_2035847251818598402",
+              "start": 114,
+              "url": "https://t.co/AxrAGQNXrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035848151660445781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有M找我线下呀？我最近很想扇别人巴掌，我是认真的，我好无聊，我现在在惠州海边度假，我可以去广州深圳佛山附近，我是萝莉S，感觉这种类型很少，总有人以为我是M #男娘 #男娘s #萝莉 #双马尾 #cd #雌坠 #伪娘 #sm https://t.co/AxrAGQNXrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 604,
+          "like_count": 3153,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1772
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T21:26:38.000Z",
+        "description": "🚪88 详情请看置顶 只回复口令 欢迎同好和我互推 男娘无门槛 小号@sader2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "sader2778"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadlyer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadlyer",
+                "start": 0,
+                "url": "https://t.co/062nQ77JNY"
+              }
+            ]
+          }
+        },
+        "id": "1995243049673515008",
+        "location": "坐标广州 全国空降",
+        "name": "sadlyer",
+        "pinned_tweet_id": "2019114569269158043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010876887136923648/-nk_ujMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 23,
+          "like_count": 69,
+          "listed_count": 10,
+          "media_count": 26,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/062nQ77JNY",
+        "username": "sadlyer",
+        "verified": false
+      }
+    ]
+  }
+}

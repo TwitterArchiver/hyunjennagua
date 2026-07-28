@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965994783534350336"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1965994795811131889",
+    "created_at": "2025-09-11T04:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T05:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965994795811131889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pabf0roG88",
+          "end": 42,
+          "expanded_url": "https://x.com/hyunjennagua/status/1965994795811131889/photo/1",
+          "media_key": "3_1965994783534350336",
+          "start": 19,
+          "url": "https://t.co/pabf0roG88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965994795811131889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我认为有四种…但具体是什么我也不知道 https://t.co/pabf0roG88"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965994783534350336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0id1t7WAAAMznJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965994783534350336"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1965994795811131889",
+        "created_at": "2025-09-11T04:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965994795811131889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pabf0roG88",
+              "end": 42,
+              "expanded_url": "https://x.com/hyunjennagua/status/1965994795811131889/photo/1",
+              "media_key": "3_1965994783534350336",
+              "start": 19,
+              "url": "https://t.co/pabf0roG88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965994795811131889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为有四种…但具体是什么我也不知道 https://t.co/pabf0roG88"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "躁狂加焦虑",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

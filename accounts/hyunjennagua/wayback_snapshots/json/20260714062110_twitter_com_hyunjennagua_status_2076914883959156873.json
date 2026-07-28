@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2076297848535261552",
+    "created_at": "2026-07-14T06:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076914883959156873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771897479367405568",
+          "start": 0,
+          "username": "XHR_Slayde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076914883959156873",
+    "in_reply_to_user_id": "1771897479367405568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076823342305153220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XHR_Slayde 必须的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076297848535261552",
+        "created_at": "2026-07-14T06:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076914883959156873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771897479367405568",
+              "start": 0,
+              "username": "XHR_Slayde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076914883959156873",
+        "in_reply_to_user_id": "1771897479367405568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076823342305153220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XHR_Slayde 必须的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771897479367405568",
+        "conversation_id": "2076297848535261552",
+        "created_at": "2026-07-14T00:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076823342305153220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076823342305153220",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076297848535261552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 这是好看的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 1054,
+          "like_count": 7517,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 3701
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T13:51:05.000Z",
+        "description": "你好喵，这里是星鹤凛！我支持简体中文，繁体中文，英语（English）的交流。\n是业余抽象派玩家，常驻乐子人，社恐但是很喜欢和所有人交朋友。立场飘忽不定，极度包容但极度有原则。\n极度热爱《少女前线》，事AN94厨子，SOPMOD2爱好者，G41爱好者。\n（自己的qq小群：365608837）",
+        "id": "1771897479367405568",
+        "location": "S09—Elmo",
+        "name": "星鹤凛_slayde",
+        "pinned_tweet_id": "2076898297713758329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050953189193613312/4qgVIVY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 105,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "XHR_Slayde",
+        "verified": false
+      }
+    ]
+  }
+}

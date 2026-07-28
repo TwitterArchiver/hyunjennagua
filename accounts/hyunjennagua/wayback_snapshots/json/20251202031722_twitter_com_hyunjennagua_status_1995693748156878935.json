@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1995693748156878935",
+    "created_at": "2025-12-02T03:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T04:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995693748156878935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1487988581368885249",
+          "start": 3,
+          "username": "mx_cc3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995693748156878935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979616536664146067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mx_cc3: 最近的变化可能是不怕别人的离开了 以前每次断联我都会经历一个不算短的戒断期 现在好像已经没什么波动了 我觉得无论相处多久人都是会离开的感谢你陪我走过一段快乐的时光...越来越能接受自己一个人 不再像从前无论是谁 身边总要有人陪我 更享受一个人的时间 还有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1995693748156878935",
+        "created_at": "2025-12-02T03:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T04:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995693748156878935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1487988581368885249",
+              "start": 3,
+              "username": "mx_cc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995693748156878935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979616536664146067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mx_cc3: 最近的变化可能是不怕别人的离开了 以前每次断联我都会经历一个不算短的戒断期 现在好像已经没什么波动了 我觉得无论相处多久人都是会离开的感谢你陪我走过一段快乐的时光...越来越能接受自己一个人 不再像从前无论是谁 身边总要有人陪我 更享受一个人的时间 还有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487988581368885249",
+        "conversation_id": "1979616536664146067",
+        "created_at": "2025-10-18T18:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T19:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979616536664146067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979616536664146067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1678,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近的变化可能是不怕别人的离开了 以前每次断联我都会经历一个不算短的戒断期 现在好像已经没什么波动了 我觉得无论相处多久人都是会离开的感谢你陪我走过一段快乐的时光...越来越能接受自己一个人 不再像从前无论是谁 身边总要有人陪我 更享受一个人的时间 还有就是表达欲没有那么强烈了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 136,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T03:18:31.000Z",
+        "description": "不约不加v没有🚪https://t.co/WQ1VX2QVsi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mx_cc370248",
+                "end": 31,
+                "expanded_url": "https://ngl.link/mx_cc370248",
+                "start": 8,
+                "url": "https://t.co/WQ1VX2QVsi"
+              }
+            ]
+          }
+        },
+        "id": "1487988581368885249",
+        "name": "杀手电饭煲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969444690664833032/bNETPmUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 160,
+          "like_count": 4490,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 1664
+        },
+        "username": "mx_cc3",
+        "verified": false
+      }
+    ]
+  }
+}

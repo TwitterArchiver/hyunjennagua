@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994936294762242048"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1994936313246793781",
+    "created_at": "2025-11-30T01:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T02:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994936313246793781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jAtYacXu82",
+          "end": 39,
+          "expanded_url": "https://x.com/hyunjennagua/status/1994936313246793781/photo/1",
+          "media_key": "3_1994936294762242048",
+          "start": 16,
+          "url": "https://t.co/jAtYacXu82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994936313246793781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点小开心 有点小激动😳😳😳😳 https://t.co/jAtYacXu82"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994936294762242048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69v_Y7WYAASRPs.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994936294762242048"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1994936313246793781",
+        "created_at": "2025-11-30T01:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994936313246793781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAtYacXu82",
+              "end": 39,
+              "expanded_url": "https://x.com/hyunjennagua/status/1994936313246793781/photo/1",
+              "media_key": "3_1994936294762242048",
+              "start": 16,
+              "url": "https://t.co/jAtYacXu82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994936313246793781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点小开心 有点小激动😳😳😳😳 https://t.co/jAtYacXu82"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 130,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 340
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

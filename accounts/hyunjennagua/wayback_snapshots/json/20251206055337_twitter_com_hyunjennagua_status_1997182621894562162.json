@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997182492176990208"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1997182621894562162",
+    "created_at": "2025-12-06T05:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997182621894562162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/whLu6OF4Iu",
+          "end": 29,
+          "expanded_url": "https://x.com/hyunjennagua/status/1997182621894562162/video/1",
+          "media_key": "13_1997182492176990208",
+          "start": 6,
+          "url": "https://t.co/whLu6OF4Iu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997182621894562162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前….. https://t.co/whLu6OF4Iu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997182621894562162].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997182621894562162",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997182621894562162"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5833,
+        "height": 1280,
+        "media_key": "13_1997182492176990208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997182492176990208/img/yFX4O9IiuyyFDRmo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997182492176990208/vid/avc1/320x568/Vgfr_TGWlhDO5qjN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997182492176990208/vid/avc1/480x852/zXas0gvvP1mz4Q_d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997182492176990208/vid/avc1/720x1280/XP_5la_6gXauXqeU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997182492176990208/pl/aHyOGmbRKqWKrADc.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 148,
+          "like_count": 780,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

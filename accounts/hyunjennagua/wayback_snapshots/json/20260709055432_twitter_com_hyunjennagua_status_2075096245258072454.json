@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2075070204900786487",
+    "created_at": "2026-07-09T05:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075096245258072454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026875533288759296",
+          "start": 0,
+          "username": "Easydrive428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075096245258072454",
+    "in_reply_to_user_id": "2026875533288759296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075084057977778227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easydrive428 谢谢！！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2075070204900786487",
+        "created_at": "2026-07-09T05:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075096245258072454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026875533288759296",
+              "start": 0,
+              "username": "Easydrive428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075096245258072454",
+        "in_reply_to_user_id": "2026875533288759296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075084057977778227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easydrive428 谢谢！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026875533288759296",
+        "conversation_id": "2075070204900786487",
+        "created_at": "2026-07-09T05:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075084057977778227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075084057977778227",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075070204900786487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 虽然是陌生人，但是还是要祝你生日快乐！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 1010,
+          "like_count": 6483,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 3390
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-26T04:24:18.000Z",
+        "description": "🇨🇳 天津の車好き中学生です！🚗\n\n日本語は勉強中（翻訳機使用）ですが、カー文化が大好きです。\n無言フォロー失礼します！FF外からもお気軽にどうぞ✨\n​みんなが純粋な気持ちを持ち続けられますように!!\n東方界隈/車界隈\n私は優しい性格で、誰とでもすぐ打ち解けられます。何かあればいつでも頼ってくださいね。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Easydrive428",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Easydrive428",
+                "start": 0,
+                "url": "https://t.co/SyYDA5rWu2"
+              }
+            ]
+          }
+        },
+        "id": "2026875533288759296",
+        "location": "天津市",
+        "name": "☆Mr.スマイル",
+        "pinned_tweet_id": "2058922814682407325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073796397200232449/R1e6UdGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 108,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/SyYDA5rWu2",
+        "username": "Easydrive428",
+        "verified": false
+      }
+    ]
+  }
+}

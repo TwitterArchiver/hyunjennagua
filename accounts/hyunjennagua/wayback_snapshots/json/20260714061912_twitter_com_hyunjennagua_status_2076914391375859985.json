@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076267399272374272"
+      ],
+      "media_source_tweet_id": [
+        "2076267629799743962"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2076914391375859985",
+    "created_at": "2026-07-14T06:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076914391375859985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1977989469027672064",
+          "start": 3,
+          "username": "ZakkyV5pr80"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ab2XqJr5c4",
+          "end": 100,
+          "expanded_url": "https://x.com/ZakkyV5pr80/status/2076267629799743962/photo/1",
+          "media_key": "3_2076267399272374272",
+          "start": 77,
+          "url": "https://t.co/ab2XqJr5c4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076914391375859985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076267629799743962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZakkyV5pr80: 扎克5.0重生了\n我将拒绝售卖普瑞巴林给特斯拉车主\n埃隆马斯克我操你妈\n普瑞原粉主页下单 信誉这一块你扎克就他妈没毛病 https://t.co/ab2XqJr5c4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2076267399272374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBiMvhaoAAU81B.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076267399272374272"
+          ],
+          "media_source_tweet_id": [
+            "2076267629799743962"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076914391375859985",
+        "created_at": "2026-07-14T06:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076914391375859985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1977989469027672064",
+              "start": 3,
+              "username": "ZakkyV5pr80"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ab2XqJr5c4",
+              "end": 100,
+              "expanded_url": "https://x.com/ZakkyV5pr80/status/2076267629799743962/photo/1",
+              "media_key": "3_2076267399272374272",
+              "start": 77,
+              "url": "https://t.co/ab2XqJr5c4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076914391375859985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076267629799743962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZakkyV5pr80: 扎克5.0重生了\n我将拒绝售卖普瑞巴林给特斯拉车主\n埃隆马斯克我操你妈\n普瑞原粉主页下单 信誉这一块你扎克就他妈没毛病 https://t.co/ab2XqJr5c4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076267399272374272"
+          ]
+        },
+        "author_id": "1977989469027672064",
+        "conversation_id": "2076267629799743962",
+        "created_at": "2026-07-12T11:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076267629799743962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ab2XqJr5c4",
+              "end": 83,
+              "expanded_url": "https://x.com/ZakkyV5pr80/status/2076267629799743962/photo/1",
+              "media_key": "3_2076267399272374272",
+              "start": 60,
+              "url": "https://t.co/ab2XqJr5c4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076267629799743962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 748,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "扎克5.0重生了\n我将拒绝售卖普瑞巴林给特斯拉车主\n埃隆马斯克我操你妈\n普瑞原粉主页下单 信誉这一块你扎克就他妈没毛病 https://t.co/ab2XqJr5c4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 1053,
+          "like_count": 7509,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 3694
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T06:47:20.000Z",
+        "description": "扎克卖货号5.0 账号天天被封 建议老板们进tg群\n普瑞原粉10/g 菲尼布特15/g 供应中 随时可以下单\n下单请联系tg https://t.co/W0q2ZlgI3y\n通知群 https://t.co/4ys1mwkdoY\n下单的时候别几把废话 直接说要什么 要几克 发哪里 然后发口令红包 10g起发20g包邮\n日常号@ZakkyPregabalin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 179,
+                "start": 163,
+                "username": "ZakkyPregabalin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 86,
+                "expanded_url": "http://t.me/Zakky979",
+                "start": 63,
+                "url": "https://t.co/W0q2ZlgI3y"
+              },
+              {
+                "display_url": "t.me/ZakkyPR80",
+                "end": 114,
+                "expanded_url": "http://t.me/ZakkyPR80",
+                "start": 91,
+                "url": "https://t.co/4ys1mwkdoY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/7FOofAz69T"
+              }
+            ]
+          }
+        },
+        "id": "1977989469027672064",
+        "location": "永夜安港",
+        "name": "Zakky5.0 普瑞原粉 马斯克唉你妈个比的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076261461584969728/9Ogd6YRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/7FOofAz69T",
+        "username": "ZakkyV5pr80",
+        "verified": false
+      }
+    ]
+  }
+}

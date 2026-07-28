@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2074886442451669420",
+    "created_at": "2026-07-09T06:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075104788749099019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1694626666684039169",
+          "start": 0,
+          "username": "littlearight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075104788749099019",
+    "in_reply_to_user_id": "1694626666684039169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075013164568346838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlearight 谢谢三原怜！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2074886442451669420",
+        "created_at": "2026-07-09T06:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075104788749099019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1694626666684039169",
+              "start": 0,
+              "username": "littlearight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075104788749099019",
+        "in_reply_to_user_id": "1694626666684039169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075013164568346838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlearight 谢谢三原怜！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694626666684039169",
+        "conversation_id": "2074886442451669420",
+        "created_at": "2026-07-09T00:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075013164568346838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075013164568346838",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074886442451669420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 祝你生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 1011,
+          "like_count": 6550,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 3459
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-24T08:24:34.000Z",
+        "description": "我叫三原怜 是 #男娘 接 #线下 175cm/65kg 萍水相逢 有缘无份 爱吃饭团 爱抽荷花 我心匪石 不可转也 我心匪席 不可卷也 纯绿非绿 有钱就干 咬紧牙关 扶住墙面 疼点总比上班强 账号爆炸 救救我们 前世@Kuranaga0 推u寻回中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "男娘"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "线下"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 109,
+                "username": "Kuranaga0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lianlianzinya",
+                "end": 23,
+                "expanded_url": "https://t.me/lianlianzinya",
+                "start": 0,
+                "url": "https://t.co/KWIWpBreZq"
+              }
+            ]
+          }
+        },
+        "id": "1694626666684039169",
+        "location": "🚪52",
+        "name": "怜怜子（ver.2",
+        "pinned_tweet_id": "2066457433518882866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059017776346632192/1djCF9Zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 100,
+          "like_count": 249,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/KWIWpBreZq",
+        "username": "littlearight",
+        "verified": false
+      }
+    ]
+  }
+}

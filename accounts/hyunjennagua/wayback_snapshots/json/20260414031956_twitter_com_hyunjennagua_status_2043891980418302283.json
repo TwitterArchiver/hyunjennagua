@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2043890655592886418",
+    "created_at": "2026-04-14T03:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043891980418302283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1072837502732566529",
+          "start": 0,
+          "username": "LingTingHH40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043891980418302283",
+    "in_reply_to_user_id": "1072837502732566529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043891738411168110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingTingHH40 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2043890655592886418",
+        "created_at": "2026-04-14T03:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043891980418302283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1072837502732566529",
+              "start": 0,
+              "username": "LingTingHH40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043891980418302283",
+        "in_reply_to_user_id": "1072837502732566529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043891738411168110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingTingHH40 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072837502732566529",
+        "conversation_id": "2043890655592886418",
+        "created_at": "2026-04-14T03:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043891738411168110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043891738411168110",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043890655592886418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 爱护自己宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 724,
+          "like_count": 4462,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 2429
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-12T12:56:07.000Z",
+        "description": "二次元 | DYOR | 偶尔发疯 | 人生百态 | 看看喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingtinghh40",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lingtinghh40",
+                "start": 0,
+                "url": "https://t.co/jYD9gxRg1A"
+              }
+            ]
+          }
+        },
+        "id": "1072837502732566529",
+        "name": "りん",
+        "pinned_tweet_id": "2043693516153573743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037741304873201664/niyrY4gT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6374,
+          "following_count": 3612,
+          "like_count": 832,
+          "listed_count": 5,
+          "media_count": 298,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/jYD9gxRg1A",
+        "username": "LingTingHH40",
+        "verified": true
+      }
+    ]
+  }
+}

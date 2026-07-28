@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2079980089954185634",
+    "created_at": "2026-07-23T04:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080149961765982529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951333975173017601",
+          "start": 0,
+          "username": "With_Melody_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080149961765982529",
+    "in_reply_to_user_id": "1951333975173017601",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080016621255688388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@With_Melody_ovo 🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2079980089954185634",
+        "created_at": "2026-07-23T04:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080149961765982529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951333975173017601",
+              "start": 0,
+              "username": "With_Melody_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080149961765982529",
+        "in_reply_to_user_id": "1951333975173017601",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080016621255688388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@With_Melody_ovo 🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951333975173017601",
+        "conversation_id": "2079980089954185634",
+        "created_at": "2026-07-22T19:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080016621255688388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080016621255688388",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079980089954185634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 糖糖！很好看哇！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 1110,
+          "like_count": 9020,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 4075
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T17:27:36.000Z",
+        "description": "希望世界各地的你们永远喜欢我｜梦想是成为偶像🪄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuan0406",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuan0406",
+                "start": 0,
+                "url": "https://t.co/gCgExHZAOU"
+              }
+            ]
+          }
+        },
+        "id": "1951333975173017601",
+        "location": "🍀",
+        "name": "比我萌的没我坏",
+        "pinned_tweet_id": "1985733919183110335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954180338626056192/-2r3QFGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 284,
+          "like_count": 3381,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/gCgExHZAOU",
+        "username": "With_Melody_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

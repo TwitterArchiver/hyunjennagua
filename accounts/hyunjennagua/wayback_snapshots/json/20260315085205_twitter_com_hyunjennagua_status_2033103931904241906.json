@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2033103931904241906",
+    "created_at": "2026-03-15T08:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T09:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033103931904241906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757979305379041280",
+          "start": 3,
+          "username": "dddlg28"
+        },
+        {
+          "end": 35,
+          "id": "1778696847563104256",
+          "start": 25,
+          "username": "gold_bihu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033103931904241906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032875772025909459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dddlg28: 上一世，我的大号 多拉贡@gold_bihu\n 意外陨落，一切像被强制清空。\n但真正的我并没有随之消失，而是在废墟里重启、更新、重写自己。\n这一世，我以本体归来，把上一世遗失的权柄与声音，一件不落地夺回。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [gold_bihu].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "gold_bihu",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "gold_bihu"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2033103931904241906",
+        "created_at": "2026-03-15T08:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033103931904241906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757979305379041280",
+              "start": 3,
+              "username": "dddlg28"
+            },
+            {
+              "end": 35,
+              "id": "1778696847563104256",
+              "start": 25,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033103931904241906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032875772025909459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dddlg28: 上一世，我的大号 多拉贡@gold_bihu\n 意外陨落，一切像被强制清空。\n但真正的我并没有随之消失，而是在废墟里重启、更新、重写自己。\n这一世，我以本体归来，把上一世遗失的权柄与声音，一件不落地夺回。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757979305379041280",
+        "conversation_id": "2032875772025909459",
+        "created_at": "2026-03-14T17:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032875772025909459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1778696847563104256",
+              "start": 12,
+              "username": "gold_bihu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Akinoyo_desu/s…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/Akinoyo_desu/status/1992482113288057078",
+              "start": 103,
+              "url": "https://t.co/fFaux9RhuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032875772025909459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2502,
+          "like_count": 37,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992482113288057078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上一世，我的大号 多拉贡@gold_bihu\n 意外陨落，一切像被强制清空。\n但真正的我并没有随之消失，而是在废墟里重启、更新、重写自己。\n这一世，我以本体归来，把上一世遗失的权柄与声音，一件不落地夺回。 https://t.co/fFaux9RhuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 555,
+          "like_count": 2840,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1543
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T04:05:14.000Z",
+        "description": "🦖 ｜od🐛｜同类互fo｜喜欢一切有意思的东西｜请不要和我吵架｜💊od:https://t.co/wr5AXtXm9B｜✈️我推的机场https://t.co/JGTZUvvZcp｜🐣宝宝:@babystar1204",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "babystar1204"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ddddlg29",
+                "end": 59,
+                "expanded_url": "https://t.me/ddddlg29",
+                "start": 36,
+                "url": "https://t.co/wr5AXtXm9B"
+              },
+              {
+                "display_url": "g-1.smjcdh.top/#/register?cod…",
+                "end": 90,
+                "expanded_url": "https://g-1.smjcdh.top/#/register?code=fhNKERaM",
+                "start": 67,
+                "url": "https://t.co/JGTZUvvZcp"
+              }
+            ]
+          }
+        },
+        "id": "1757979305379041280",
+        "name": "多拉贡二世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 80,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "dddlg28",
+        "verified": false
+      }
+    ]
+  }
+}

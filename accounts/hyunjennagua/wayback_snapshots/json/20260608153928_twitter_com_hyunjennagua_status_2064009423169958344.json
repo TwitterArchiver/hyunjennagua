@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2064009423169958344",
+    "created_at": "2026-06-08T15:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064009423169958344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1643910629525434371",
+          "start": 3,
+          "username": "buddh2st_monk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064009423169958344",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 669
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063808525458194766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buddh2st_monk: 자살하고싶다\n똑똑하지도않고 작살나게 매력적이지도 않고 묵묵히 할일 할 수 있는 사회적응자도 아니여서 정말 돈 벌 길이 막막해서 이젠 가고싶다 돈 벌 생각하면 눈물이 앞을 가림 쓸모없어져버려 돈 없는 세상에서 태어났더…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2064009423169958344",
+        "created_at": "2026-06-08T15:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064009423169958344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1643910629525434371",
+              "start": 3,
+              "username": "buddh2st_monk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064009423169958344",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 669
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063808525458194766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buddh2st_monk: 자살하고싶다\n똑똑하지도않고 작살나게 매력적이지도 않고 묵묵히 할일 할 수 있는 사회적응자도 아니여서 정말 돈 벌 길이 막막해서 이젠 가고싶다 돈 벌 생각하면 눈물이 앞을 가림 쓸모없어져버려 돈 없는 세상에서 태어났더…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643910629525434371",
+        "conversation_id": "2063808525458194766",
+        "created_at": "2026-06-08T02:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063808525458194766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063808525458194766",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 119616,
+          "like_count": 2959,
+          "quote_count": 98,
+          "reply_count": 31,
+          "retweet_count": 669
+        },
+        "reply_settings": "everyone",
+        "text": "자살하고싶다\n똑똑하지도않고 작살나게 매력적이지도 않고 묵묵히 할일 할 수 있는 사회적응자도 아니여서 정말 돈 벌 길이 막막해서 이젠 가고싶다 돈 벌 생각하면 눈물이 앞을 가림 쓸모없어져버려 돈 없는 세상에서 태어났더라면 참 좋았을텐데 내가 죽으면 그건 순전히 돈 때문일거다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 882,
+          "like_count": 5416,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2954
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T09:37:04.000Z",
+        "description": "느껴(상태: 위빠사나)",
+        "id": "1643910629525434371",
+        "name": "난공불락",
+        "pinned_tweet_id": "1645341797617664002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976906940614950920/aYlAuSpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 186,
+          "like_count": 254634,
+          "listed_count": 6,
+          "media_count": 3128,
+          "tweet_count": 95367
+        },
+        "username": "buddh2st_monk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2076598844809421031",
+    "created_at": "2026-07-15T03:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077233999584559415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1816947935307018240",
+          "start": 0,
+          "username": "lannoban8964glb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077233999584559415",
+    "in_reply_to_user_id": "1816947935307018240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077215298705555651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lannoban8964glb 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076598844809421031",
+        "created_at": "2026-07-15T03:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077233999584559415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1816947935307018240",
+              "start": 0,
+              "username": "lannoban8964glb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077233999584559415",
+        "in_reply_to_user_id": "1816947935307018240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077215298705555651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lannoban8964glb 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816947935307018240",
+        "conversation_id": "2076598844809421031",
+        "created_at": "2026-07-15T02:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077215298705555651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077215298705555651",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076598844809421031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 这个真好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1066,
+          "like_count": 7547,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 3767
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-26T21:25:28.000Z",
+        "description": "Freiheit ist immer die Freiheit des Andersdenkenden\n｜最强包蜜｜民主社会/社会民主/第二国际/左翼社会自由｜偏左｜反威权｜对粉蛆时会变支黑｜友跨🏳️‍⚧️｜小号是@lalag6498｜或许是男娘₍^˶-𖥦-˵^₎｜极右绿畜皇汉滚远点｜耄左在哪发财呢\n此号暂弃用中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 107,
+                "username": "lalag6498"
+              }
+            ]
+          }
+        },
+        "id": "1816947935307018240",
+        "location": "北京中南海习近平皮炎子里",
+        "name": "澜の路岚澜👾🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076313924786688000/nK4MR1Mb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 2639,
+          "like_count": 15894,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 2692
+        },
+        "url": "",
+        "username": "lannoban8964glb",
+        "verified": false
+      }
+    ]
+  }
+}

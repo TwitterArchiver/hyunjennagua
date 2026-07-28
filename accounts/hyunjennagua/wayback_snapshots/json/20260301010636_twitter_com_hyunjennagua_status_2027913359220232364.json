@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2027913359220232364",
+    "created_at": "2026-03-01T01:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T02:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027913359220232364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amecandy_x/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/amecandy_x/status/2027888749443780634",
+          "start": 35,
+          "url": "https://t.co/oKX8RVPuxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027913359220232364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027888749443780634",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恶呃。宝宝你别上学了。一起把学休了以后陪我割手od好不好啊   。。 https://t.co/oKX8RVPuxD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2027913359220232364",
+        "created_at": "2026-03-01T01:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027913359220232364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2027888749443780634",
+              "start": 35,
+              "url": "https://t.co/oKX8RVPuxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027913359220232364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027888749443780634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恶呃。宝宝你别上学了。一起把学休了以后陪我割手od好不好啊   。。 https://t.co/oKX8RVPuxD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2027888749443780634",
+        "created_at": "2026-02-28T23:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T00:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027888749443780634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wu_si42846/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/wu_si42846/status/2027837160041418869",
+              "start": 35,
+              "url": "https://t.co/nuZPdXPbAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027888749443780634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027837160041418869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恶呃。宝宝你别上学了。一起把学休了以后陪我割手od好不好啊   。。 https://t.co/nuZPdXPbAX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 234,
+          "like_count": 2303,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「In solitude where we are least alone」/ 跨女 / radical communist / ally / ai4fun🤖 / 競馬🏇🏻 / vocaloid🎶 / 也许是铁道迷🚅 / @whitecloud_ybw ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2021946997042008389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5745,
+          "following_count": 1971,
+          "like_count": 25240,
+          "listed_count": 16,
+          "media_count": 1246,
+          "tweet_count": 8988
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

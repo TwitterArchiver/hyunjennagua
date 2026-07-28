@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2078856671573766625",
+    "created_at": "2026-07-19T15:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078868479655190919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "732138440",
+          "start": 0,
+          "username": "Steven120102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078868479655190919",
+    "in_reply_to_user_id": "732138440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078867940133191730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Steven120102 🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2078856671573766625",
+        "created_at": "2026-07-19T15:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078868479655190919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "732138440",
+              "start": 0,
+              "username": "Steven120102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078868479655190919",
+        "in_reply_to_user_id": "732138440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078867940133191730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Steven120102 🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "732138440",
+        "conversation_id": "2078856671573766625",
+        "created_at": "2026-07-19T15:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078867940133191730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078867940133191730",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078856671573766625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 好一个玉米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1091,
+          "like_count": 8420,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 3959
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-02T04:31:46.000Z",
+        "description": "📍内蒙古呼伦贝尔市\n🇨🇳✈️🇺🇸\n🏆双相情感障碍拥有者 重度抑郁 中度焦虑 \n本人有的时候不太正常",
+        "id": "732138440",
+        "location": "海拉尔",
+        "name": "Jasmine marie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057853542317363200/TNwSo1nG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 479,
+          "like_count": 1743,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "Steven120102",
+        "verified": false
+      }
+    ]
+  }
+}

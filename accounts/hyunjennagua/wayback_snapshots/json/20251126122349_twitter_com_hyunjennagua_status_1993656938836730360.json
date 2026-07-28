@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1993595889164992990",
+    "created_at": "2025-11-26T12:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993656938836730360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991838998650929152",
+          "start": 0,
+          "username": "yuan070517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993656938836730360",
+    "in_reply_to_user_id": "1991838998650929152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993650833838518670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan070517 嘿嘿嘿真没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1993595889164992990",
+        "created_at": "2025-11-26T12:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993656938836730360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991838998650929152",
+              "start": 0,
+              "username": "yuan070517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993656938836730360",
+        "in_reply_to_user_id": "1991838998650929152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993650833838518670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan070517 嘿嘿嘿真没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991838998650929152",
+        "conversation_id": "1993595889164992990",
+        "created_at": "2025-11-26T11:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993650833838518670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993650833838518670",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993649582274986035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 不许说没事。好的呢好的呢hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 112,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 194
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T12:00:08.000Z",
+        "description": "一个普普通通的缺爱小男孩。",
+        "id": "1991838998650929152",
+        "name": "xiaoyuanbbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992811441783508992/a02aySkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 196
+        },
+        "username": "yuan070517",
+        "verified": false
+      }
+    ]
+  }
+}

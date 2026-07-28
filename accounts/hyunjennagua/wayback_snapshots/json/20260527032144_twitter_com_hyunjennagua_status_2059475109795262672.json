@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058902416695967744"
+      ],
+      "media_source_tweet_id": [
+        "2058902425382326345"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2059475109795262672",
+    "created_at": "2026-05-27T03:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059475109795262672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057425772198215680",
+          "start": 3,
+          "username": "boqiaoahm4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pgRojg3lzT",
+          "end": 59,
+          "expanded_url": "https://x.com/boqiaoahm4/status/2058902425382326345/photo/1",
+          "media_key": "3_2058902416695967744",
+          "start": 36,
+          "url": "https://t.co/pgRojg3lzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059475109795262672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058902425382326345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boqiaoahm4: 求帮转🥺大号被msk制裁了 推u寻回中 https://t.co/pgRojg3lzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2058902416695967744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKw1uZbQAA0OBb.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058902416695967744"
+          ],
+          "media_source_tweet_id": [
+            "2058902425382326345"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2059475109795262672",
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059475109795262672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057425772198215680",
+              "start": 3,
+              "username": "boqiaoahm4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgRojg3lzT",
+              "end": 59,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2058902425382326345/photo/1",
+              "media_key": "3_2058902416695967744",
+              "start": 36,
+              "url": "https://t.co/pgRojg3lzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059475109795262672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058902425382326345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boqiaoahm4: 求帮转🥺大号被msk制裁了 推u寻回中 https://t.co/pgRojg3lzT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058902416695967744"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2058902425382326345",
+        "created_at": "2026-05-25T13:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058902425382326345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgRojg3lzT",
+              "end": 43,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2058902425382326345/photo/1",
+              "media_key": "3_2058902416695967744",
+              "start": 20,
+              "url": "https://t.co/pgRojg3lzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058902425382326345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3890,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "求帮转🥺大号被msk制裁了 推u寻回中 https://t.co/pgRojg3lzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 879,
+          "like_count": 5221,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 2863
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 61,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 112
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

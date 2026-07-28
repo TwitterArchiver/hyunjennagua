@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043139185239076864"
+      ],
+      "media_source_tweet_id": [
+        "2043139192348422326"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2043530976824115497",
+    "created_at": "2026-04-13T03:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043530976824115497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825905418159235072",
+          "start": 3,
+          "username": "disappear30"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jieGlbOIp3",
+          "end": 40,
+          "expanded_url": "https://x.com/disappear30/status/2043139192348422326/photo/1",
+          "media_key": "3_2043139185239076864",
+          "start": 17,
+          "url": "https://t.co/jieGlbOIp3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043530976824115497",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1757
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043139192348422326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @disappear30: https://t.co/jieGlbOIp3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2043139185239076864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFqwQ5LbMAAamkk.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043139185239076864"
+          ],
+          "media_source_tweet_id": [
+            "2043139192348422326"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2043530976824115497",
+        "created_at": "2026-04-13T03:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043530976824115497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825905418159235072",
+              "start": 3,
+              "username": "disappear30"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jieGlbOIp3",
+              "end": 40,
+              "expanded_url": "https://x.com/disappear30/status/2043139192348422326/photo/1",
+              "media_key": "3_2043139185239076864",
+              "start": 17,
+              "url": "https://t.co/jieGlbOIp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043530976824115497",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1757
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043139192348422326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @disappear30: https://t.co/jieGlbOIp3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043139185239076864"
+          ]
+        },
+        "author_id": "1825905418159235072",
+        "conversation_id": "2043139192348422326",
+        "created_at": "2026-04-12T01:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043139192348422326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jieGlbOIp3",
+              "end": 23,
+              "expanded_url": "https://x.com/disappear30/status/2043139192348422326/photo/1",
+              "media_key": "3_2043139185239076864",
+              "start": 0,
+              "url": "https://t.co/jieGlbOIp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043139192348422326",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 157790,
+          "like_count": 6641,
+          "quote_count": 93,
+          "reply_count": 30,
+          "retweet_count": 1757
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jieGlbOIp3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 718,
+          "like_count": 4416,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 2380
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-20T14:39:20.000Z",
+        "description": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐨 𝐝𝐢𝐬𝐚𝐩𝐩𝐞𝐚𝐫 𝐰𝐨𝐫𝐥𝐝 🌎",
+        "id": "1825905418159235072",
+        "name": "Disappear",
+        "pinned_tweet_id": "2043527235597205598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939903708550090752/oaf1IhmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54110,
+          "following_count": 5058,
+          "like_count": 108563,
+          "listed_count": 53,
+          "media_count": 5869,
+          "tweet_count": 75885
+        },
+        "username": "disappear30",
+        "verified": true
+      }
+    ]
+  }
+}

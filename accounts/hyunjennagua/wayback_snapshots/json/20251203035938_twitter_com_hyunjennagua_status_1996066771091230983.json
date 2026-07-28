@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995821036193959937"
+      ],
+      "media_source_tweet_id": [
+        "1995821039779987891"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996066771091230983",
+    "created_at": "2025-12-03T03:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996066771091230983"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "shtwt"
+        },
+        {
+          "end": 39,
+          "start": 31,
+          "tag": "goretwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1316507059337203713",
+          "start": 3,
+          "username": "fuckinyeva"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/09N8VExrd2",
+          "end": 63,
+          "expanded_url": "https://x.com/fuckinyeva/status/1995821039779987891/photo/1",
+          "media_key": "3_1995821036193959937",
+          "start": 40,
+          "url": "https://t.co/09N8VExrd2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996066771091230983",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995821039779987891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuckinyeva: bubbles\n#shtwt #goretwt https://t.co/09N8VExrd2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1996066771091230983].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1996066771091230983",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1996066771091230983"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1995821036193959937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KUqHmX0AE-rZ-.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995821036193959937"
+          ]
+        },
+        "author_id": "1316507059337203713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995821039779987891",
+        "created_at": "2025-12-02T11:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995821039779987891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "shtwt"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "goretwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/09N8VExrd2",
+              "end": 47,
+              "expanded_url": "https://x.com/fuckinyeva/status/1995821039779987891/photo/1",
+              "media_key": "3_1995821036193959937",
+              "start": 24,
+              "url": "https://t.co/09N8VExrd2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995821039779987891",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 4184,
+          "like_count": 690,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "bubbles\n#shtwt #goretwt https://t.co/09N8VExrd2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 139,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-14T22:32:14.000Z",
+        "description": "#shtwt tw i post insensitive stuff - READ STRAWPAGE BEFORE U DM ME FOR THE LOVE OF GOD - most of posts arent mine! - ifb sometimes - @fuckinyulo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "fuckinyulo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckinyeva.straw.page",
+                "end": 23,
+                "expanded_url": "https://fuckinyeva.straw.page",
+                "start": 0,
+                "url": "https://t.co/5a0vgvnsfX"
+              }
+            ]
+          }
+        },
+        "id": "1316507059337203713",
+        "location": "pronounced “yoo-l” — he/they",
+        "name": "yul",
+        "pinned_tweet_id": "1995533810159534294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993887739306016768/dciHT3Zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 270,
+          "like_count": 5656,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/5a0vgvnsfX",
+        "username": "fuckinyeva",
+        "verified": false
+      }
+    ]
+  }
+}

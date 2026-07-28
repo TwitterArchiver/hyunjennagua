@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060046082575564800"
+      ],
+      "media_source_tweet_id": [
+        "2060046094076424684"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2060273389248430468",
+    "created_at": "2026-05-29T08:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060273389248430468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bxEnwrKYzI",
+          "end": 49,
+          "expanded_url": "https://x.com/winterfruit_1/status/2060046094076424684/photo/1",
+          "media_key": "3_2060046082575564800",
+          "start": 26,
+          "url": "https://t.co/bxEnwrKYzI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060273389248430468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060046094076424684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 豌豆射手色图 https://t.co/bxEnwrKYzI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060273389248430468].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060273389248430468",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060273389248430468"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 431,
+        "media_key": "3_2060046082575564800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbA_1zaAAAEays.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060046082575564800"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "2060046094076424684",
+        "created_at": "2026-05-28T17:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060046094076424684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxEnwrKYzI",
+              "end": 30,
+              "expanded_url": "https://x.com/winterfruit_1/status/2060046094076424684/photo/1",
+              "media_key": "3_2060046082575564800",
+              "start": 7,
+              "url": "https://t.co/bxEnwrKYzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060046094076424684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2101,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "豌豆射手色图 https://t.co/bxEnwrKYzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 884,
+          "like_count": 5229,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 2873
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 1473,
+          "like_count": 42201,
+          "listed_count": 6,
+          "media_count": 1835,
+          "tweet_count": 12525
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

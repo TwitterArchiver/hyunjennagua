@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2031232679329620093",
+    "created_at": "2026-03-11T07:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031639816157143060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913948349000028160",
+          "start": 0,
+          "username": "hantaidawang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031639816157143060",
+    "in_reply_to_user_id": "1913948349000028160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031232679329620093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hantaidawang 礼貌申请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2031232679329620093",
+        "created_at": "2026-03-11T07:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031639816157143060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913948349000028160",
+              "start": 0,
+              "username": "hantaidawang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031639816157143060",
+        "in_reply_to_user_id": "1913948349000028160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031232679329620093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hantaidawang 礼貌申请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913948349000028160",
+        "conversation_id": "2031232679329620093",
+        "created_at": "2026-03-10T04:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T05:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031232679329620093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031232679329620093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 94297,
+          "like_count": 756,
+          "quote_count": 7,
+          "reply_count": 625,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "不管男的女的，有抑郁症的找我领一杯瑞幸，就当你自己今天中奖了。我会严查主页。🚪姐滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 537,
+          "like_count": 2754,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1470
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T13:30:43.000Z",
+        "description": "又发不了私信了，搬砖去了",
+        "id": "1913948349000028160",
+        "name": "皮特儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921183477824974854/O-24HAxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 26,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 312
+        },
+        "username": "hantaidawang",
+        "verified": false
+      }
+    ]
+  }
+}

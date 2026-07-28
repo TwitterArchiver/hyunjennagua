@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1995008054631281135",
+    "created_at": "2025-11-30T06:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995023428756410531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1813772293568704512",
+          "start": 0,
+          "username": "linlinlin12358"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995023428756410531",
+    "in_reply_to_user_id": "1813772293568704512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995010256955740377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlinlin12358 不知道qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1995008054631281135",
+        "created_at": "2025-11-30T06:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995023428756410531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1813772293568704512",
+              "start": 0,
+              "username": "linlinlin12358"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995023428756410531",
+        "in_reply_to_user_id": "1813772293568704512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995010256955740377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlinlin12358 不知道qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813772293568704512",
+        "conversation_id": "1995008054631281135",
+        "created_at": "2025-11-30T06:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995010256955740377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995010256955740377",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995008054631281135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 132,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 357
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T03:06:39.000Z",
+        "description": "喵",
+        "id": "1813772293568704512",
+        "location": "Hong Kong",
+        "name": "林林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813772470568251394/nAU9utW2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 101,
+          "like_count": 2484,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1312
+        },
+        "username": "linlinlin12358",
+        "verified": false
+      }
+    ]
+  }
+}

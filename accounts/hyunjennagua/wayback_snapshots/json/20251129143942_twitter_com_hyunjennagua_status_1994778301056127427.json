@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1994723186202873910",
+    "created_at": "2025-11-29T14:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994778301056127427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977975962961932288",
+          "start": 0,
+          "username": "hahagehahaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994778301056127427",
+    "in_reply_to_user_id": "1977975962961932288",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994778213634199960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahagehahaha 555555"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1994723186202873910",
+        "created_at": "2025-11-29T14:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994778301056127427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977975962961932288",
+              "start": 0,
+              "username": "hahagehahaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994778301056127427",
+        "in_reply_to_user_id": "1977975962961932288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994778213634199960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahagehahaha 555555"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977975962961932288",
+        "conversation_id": "1994723186202873910",
+        "created_at": "2025-11-29T14:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994778213634199960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994778213634199960",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994723186202873910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 128,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 329
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T05:53:23.000Z",
+        "description": "红红火火恍恍惚惚",
+        "id": "1977975962961932288",
+        "location": "十万八千里",
+        "name": "哦哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979882984720252928/AC_zcl3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 176,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 646
+        },
+        "username": "hahagehahaha",
+        "verified": false
+      }
+    ]
+  }
+}

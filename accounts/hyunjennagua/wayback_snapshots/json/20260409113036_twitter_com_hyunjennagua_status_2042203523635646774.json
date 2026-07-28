@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2042082706062811232",
+    "created_at": "2026-04-09T11:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042203523635646774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1855479166222934016",
+          "start": 0,
+          "username": "aaaas5369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042203523635646774",
+    "in_reply_to_user_id": "1855479166222934016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042203144495501662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaas5369 太阴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2042082706062811232",
+        "created_at": "2026-04-09T11:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042203523635646774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1855479166222934016",
+              "start": 0,
+              "username": "aaaas5369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042203523635646774",
+        "in_reply_to_user_id": "1855479166222934016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042203144495501662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaas5369 太阴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855479166222934016",
+        "conversation_id": "2042082706062811232",
+        "created_at": "2026-04-09T11:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042203144495501662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042203144495501662",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042082706062811232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 我草咋这么阴比有些条子还逆天了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 692,
+          "like_count": 4088,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-10T05:15:15.000Z",
+        "description": "cn阿藤/恋爱脑/T    whb路西法梦女崩铁知更鸟梦女，会发梦图自行避雷呀！均为约稿，会约点🔞人家不拒任何，同坑快快来找人家玩！全靠翻译聊天人家外语不好߹ ߹应该也会发发oc（？）",
+        "id": "1855479166222934016",
+        "location": "失乐园",
+        "name": "Traumatin",
+        "pinned_tweet_id": "2034245750377590947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033022423734562818/bhjNgLP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 61,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 56
+        },
+        "username": "aaaas5369",
+        "verified": false
+      }
+    ]
+  }
+}

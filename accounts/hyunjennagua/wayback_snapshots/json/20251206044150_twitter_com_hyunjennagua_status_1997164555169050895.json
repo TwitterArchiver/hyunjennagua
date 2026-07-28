@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997164191145512960"
+      ],
+      "media_source_tweet_id": [
+        "1997164285647347918"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1997164555169050895",
+    "created_at": "2025-12-06T04:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T05:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997164555169050895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1851187218251202563",
+          "start": 3,
+          "username": "mikeas846141091"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YWhwuvG10l",
+          "end": 50,
+          "expanded_url": "https://x.com/mikeas846141091/status/1997164285647347918/photo/1",
+          "media_key": "3_1997164191145512960",
+          "start": 27,
+          "url": "https://t.co/YWhwuvG10l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997164555169050895",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997164285647347918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikeas846141091: 我一直在嗑 https://t.co/YWhwuvG10l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1997164191145512960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7daQBtb0AAdlfz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997164191145512960"
+          ],
+          "media_source_tweet_id": [
+            "1997164285647347918"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1997164555169050895",
+        "created_at": "2025-12-06T04:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T05:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997164555169050895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1851187218251202563",
+              "start": 3,
+              "username": "mikeas846141091"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWhwuvG10l",
+              "end": 50,
+              "expanded_url": "https://x.com/mikeas846141091/status/1997164285647347918/photo/1",
+              "media_key": "3_1997164191145512960",
+              "start": 27,
+              "url": "https://t.co/YWhwuvG10l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997164555169050895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997164285647347918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikeas846141091: 我一直在嗑 https://t.co/YWhwuvG10l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997164191145512960"
+          ]
+        },
+        "author_id": "1851187218251202563",
+        "conversation_id": "1997164285647347918",
+        "created_at": "2025-12-06T04:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T05:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997164285647347918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWhwuvG10l",
+              "end": 29,
+              "expanded_url": "https://x.com/mikeas846141091/status/1997164285647347918/photo/1",
+              "media_key": "3_1997164191145512960",
+              "start": 6,
+              "url": "https://t.co/YWhwuvG10l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997164285647347918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在嗑 https://t.co/YWhwuvG10l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 148,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T09:00:13.000Z",
+        "description": "",
+        "id": "1851187218251202563",
+        "name": "Keat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980897391650729984/w2fxM7yi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "mikeas846141091",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2033909510977253480",
+    "created_at": "2026-03-18T03:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T04:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034109851123540406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1254689990753128448",
+          "start": 0,
+          "username": "JinYuanWu000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034109851123540406",
+    "in_reply_to_user_id": "1254689990753128448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033921301082214654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JinYuanWu000 💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2033909510977253480",
+        "created_at": "2026-03-18T03:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034109851123540406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1254689990753128448",
+              "start": 0,
+              "username": "JinYuanWu000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034109851123540406",
+        "in_reply_to_user_id": "1254689990753128448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033921301082214654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinYuanWu000 💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254689990753128448",
+        "conversation_id": "2033909510977253480",
+        "created_at": "2026-03-17T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033921301082214654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033921301082214654",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033909510977253480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 恭喜喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿｜我需要钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 577,
+          "like_count": 3013,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1656
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-27T08:33:08.000Z",
+        "description": "江浙/纯人机/清水 /干啥啥不会/游戏低手/模型低手/cos低手/看特摄/沙比二次元/死肥宅/冷群大师\n闲聊游戏群  750982087   提问https://t.co/wLxfhb2TkW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinyuanwu0002",
+                "end": 96,
+                "expanded_url": "https://ngl.link/jinyuanwu0002",
+                "start": 73,
+                "url": "https://t.co/wLxfhb2TkW"
+              }
+            ]
+          }
+        },
+        "id": "1254689990753128448",
+        "name": "JingYuanWu",
+        "pinned_tweet_id": "2033743075999392254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033103347914551296/JCKeOxcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 465,
+          "like_count": 27371,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 2458
+        },
+        "username": "JinYuanWu000",
+        "verified": false
+      }
+    ]
+  }
+}

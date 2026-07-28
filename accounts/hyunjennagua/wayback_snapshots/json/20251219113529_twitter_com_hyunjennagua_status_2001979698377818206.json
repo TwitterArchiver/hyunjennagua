@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2001946164711903720",
+    "created_at": "2025-12-19T11:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T12:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001979698377818206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "797756020202160132",
+          "start": 0,
+          "username": "hiroki0705s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001979698377818206",
+    "in_reply_to_user_id": "797756020202160132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001946164711903720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiroki0705s 好！好！看！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001946142591094784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hXaPCbEAAfo-M.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2001946164711903720",
+        "created_at": "2025-12-19T11:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001979698377818206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "797756020202160132",
+              "start": 0,
+              "username": "hiroki0705s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001979698377818206",
+        "in_reply_to_user_id": "797756020202160132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001946164711903720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiroki0705s 好！好！看！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001946142591094784"
+          ]
+        },
+        "author_id": "797756020202160132",
+        "conversation_id": "2001946164711903720",
+        "created_at": "2025-12-19T09:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001946164711903720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKagbrtAV0",
+              "end": 47,
+              "expanded_url": "https://x.com/hiroki0705s/status/2001946164711903720/photo/1",
+              "media_key": "3_2001946142591094784",
+              "start": 24,
+              "url": "https://t.co/LKagbrtAV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001946164711903720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想做一下女人（？\n下次化个妆再来…（真有吗 https://t.co/LKagbrtAV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 175,
+          "like_count": 1407,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-13T11:00:31.000Z",
+        "description": "地雷系男子👁有在玩cos兴趣调酒。互fo交友大欢迎！中国語、日本語🉑entj",
+        "id": "797756020202160132",
+        "location": "上海",
+        "name": "ヒロキ💜🍸",
+        "pinned_tweet_id": "1989859851963679026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990278918889426944/zrCkC17V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 864,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 343
+        },
+        "username": "hiroki0705s",
+        "verified": false
+      }
+    ]
+  }
+}

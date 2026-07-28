@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1921842073894027264"
+      ],
+      "media_source_tweet_id": [
+        "1921842201291563240"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1965294297881903353",
+    "created_at": "2025-09-09T06:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T07:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965294297881903353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1587693577588846592",
+          "start": 3,
+          "username": "qishnlng20"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/39Jk5oRuDZ",
+          "end": 50,
+          "expanded_url": "https://x.com/qishnlng20/status/1921842201291563240/video/1",
+          "media_key": "13_1921842073894027264",
+          "start": 27,
+          "url": "https://t.co/39Jk5oRuDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965294297881903353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921842201291563240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qishnlng20: ODER的梦，该醒了 https://t.co/39Jk5oRuDZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30533,
+        "height": 1080,
+        "media_key": "13_1921842073894027264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921842073894027264/img/0IXQM9ktpP8Eq5TM.jpg",
+        "public_metrics": {
+          "view_count": 1027
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921842073894027264/vid/avc1/480x270/FXS8j33MFvPB6EHp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921842073894027264/vid/avc1/640x360/MZovVE96Of8WWyNB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921842073894027264/vid/avc1/1280x720/3vZDnsjfQEhsXXW7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921842073894027264/pl/7fy6fQQmPFM371P3.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921842073894027264"
+          ],
+          "media_source_tweet_id": [
+            "1921842201291563240"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1965294297881903353",
+        "created_at": "2025-09-09T06:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T07:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965294297881903353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1587693577588846592",
+              "start": 3,
+              "username": "qishnlng20"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/39Jk5oRuDZ",
+              "end": 50,
+              "expanded_url": "https://x.com/qishnlng20/status/1921842201291563240/video/1",
+              "media_key": "13_1921842073894027264",
+              "start": 27,
+              "url": "https://t.co/39Jk5oRuDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965294297881903353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921842201291563240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qishnlng20: ODER的梦，该醒了 https://t.co/39Jk5oRuDZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921842073894027264"
+          ]
+        },
+        "author_id": "1587693577588846592",
+        "conversation_id": "1921842201291563240",
+        "created_at": "2025-05-12T08:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921842201291563240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39Jk5oRuDZ",
+              "end": 34,
+              "expanded_url": "https://x.com/qishnlng20/status/1921842201291563240/video/1",
+              "media_key": "13_1921842073894027264",
+              "start": 11,
+              "url": "https://t.co/39Jk5oRuDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921842201291563240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3578,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "ODER的梦，该醒了 https://t.co/39Jk5oRuDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "躁狂加焦虑",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 30,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:30:28.000Z",
+        "description": "漸変色的枝桠 生出水母花",
+        "id": "1587693577588846592",
+        "location": "16h 29m 24s、−26° 25′ 55″",
+        "name": "👁️‍🗨️Lapin9",
+        "pinned_tweet_id": "1926811352158408706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961789749687201792/aUiCUEi3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 74,
+          "like_count": 201,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 401
+        },
+        "username": "qishnlng20",
+        "verified": false
+      }
+    ]
+  }
+}

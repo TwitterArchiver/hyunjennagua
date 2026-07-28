@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998257487833714688",
+        "3_1998257487854678016"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1998257498407702706",
+    "created_at": "2025-12-09T05:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T06:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998257498407702706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vp48BzZ09P",
+          "end": 30,
+          "expanded_url": "https://x.com/hyunjennagua/status/1998257498407702706/photo/1",
+          "media_key": "3_1998257487833714688",
+          "start": 7,
+          "url": "https://t.co/Vp48BzZ09P"
+        },
+        {
+          "display_url": "pic.x.com/Vp48BzZ09P",
+          "end": 30,
+          "expanded_url": "https://x.com/hyunjennagua/status/1998257498407702706/photo/1",
+          "media_key": "3_1998257487854678016",
+          "start": 7,
+          "url": "https://t.co/Vp48BzZ09P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998257498407702706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我把结痂斯了 https://t.co/Vp48BzZ09P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1998257487833714688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7s8mRQX0AAPIWA.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1998257487854678016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7s8mRVXsAARPM7.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998257487833714688",
+            "3_1998257487854678016"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1998257498407702706",
+        "created_at": "2025-12-09T05:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998257498407702706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vp48BzZ09P",
+              "end": 30,
+              "expanded_url": "https://x.com/hyunjennagua/status/1998257498407702706/photo/1",
+              "media_key": "3_1998257487833714688",
+              "start": 7,
+              "url": "https://t.co/Vp48BzZ09P"
+            },
+            {
+              "display_url": "pic.x.com/Vp48BzZ09P",
+              "end": 30,
+              "expanded_url": "https://x.com/hyunjennagua/status/1998257498407702706/photo/1",
+              "media_key": "3_1998257487854678016",
+              "start": 7,
+              "url": "https://t.co/Vp48BzZ09P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998257498407702706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把结痂斯了 https://t.co/Vp48BzZ09P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 158,
+          "like_count": 899,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

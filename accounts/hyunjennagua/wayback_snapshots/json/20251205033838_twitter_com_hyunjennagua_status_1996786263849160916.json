@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996786245591068672"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1996786263849160916",
+    "created_at": "2025-12-05T03:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996786263849160916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FrrAzirw8W",
+          "end": 28,
+          "expanded_url": "https://x.com/hyunjennagua/status/1996786263849160916/photo/1",
+          "media_key": "3_1996786245591068672",
+          "start": 5,
+          "url": "https://t.co/FrrAzirw8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996786263849160916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢！！ https://t.co/FrrAzirw8W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1996786245591068672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YCgszXcAA7-55.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996786245591068672"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1996786263849160916",
+        "created_at": "2025-12-05T03:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996786263849160916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrrAzirw8W",
+              "end": 28,
+              "expanded_url": "https://x.com/hyunjennagua/status/1996786263849160916/photo/1",
+              "media_key": "3_1996786245591068672",
+              "start": 5,
+              "url": "https://t.co/FrrAzirw8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996786263849160916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢！！ https://t.co/FrrAzirw8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 143,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

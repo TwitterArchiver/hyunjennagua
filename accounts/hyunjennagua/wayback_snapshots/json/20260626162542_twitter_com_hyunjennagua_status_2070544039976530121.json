@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2070540938578133284",
+    "created_at": "2026-06-26T16:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070544039976530121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765050169387843584",
+          "start": 0,
+          "username": "gu_cuo27325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070544039976530121",
+    "in_reply_to_user_id": "1765050169387843584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070540938578133284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_cuo27325 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070540920001605633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwJ_x2bMAEdQgs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070540919997341696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwJ_x1aIAA9i7F.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2070540938578133284",
+        "created_at": "2026-06-26T16:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070544039976530121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765050169387843584",
+              "start": 0,
+              "username": "gu_cuo27325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070544039976530121",
+        "in_reply_to_user_id": "1765050169387843584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070540938578133284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_cuo27325 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070540920001605633",
+            "3_2070540919997341696"
+          ]
+        },
+        "author_id": "1765050169387843584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070540938578133284",
+        "created_at": "2026-06-26T16:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070540938578133284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpiypGNf2A",
+              "end": 23,
+              "expanded_url": "https://x.com/gu_cuo27325/status/2070540938578133284/photo/1",
+              "media_key": "3_2070540920001605633",
+              "start": 0,
+              "url": "https://t.co/qpiypGNf2A"
+            },
+            {
+              "display_url": "pic.x.com/qpiypGNf2A",
+              "end": 23,
+              "expanded_url": "https://x.com/gu_cuo27325/status/2070540938578133284/photo/1",
+              "media_key": "3_2070540919997341696",
+              "start": 0,
+              "url": "https://t.co/qpiypGNf2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070540938578133284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qpiypGNf2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642｜推群链接查成分通过https://t.co/9lJK4OEeRm｜自伤｜｜od｜碎碎念｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 70,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 47,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 967,
+          "like_count": 5811,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 3136
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T16:22:17.000Z",
+        "description": "人能懷著全然的恨意生活多久",
+        "id": "1765050169387843584",
+        "name": "剉骨刀",
+        "pinned_tweet_id": "2017496000215253427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058147743789617152/sd2UoBeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 106,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "gu_cuo27325",
+        "verified": false
+      }
+    ]
+  }
+}

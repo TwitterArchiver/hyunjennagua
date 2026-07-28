@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1991721427737960886",
+    "created_at": "2025-11-22T05:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T06:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992109357623042237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946589717031800832",
+          "start": 0,
+          "username": "FoamLessor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992109357623042237",
+    "in_reply_to_user_id": "1946589717031800832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992108217200242945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoamLessor 来啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1991721427737960886",
+        "created_at": "2025-11-22T05:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992109357623042237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946589717031800832",
+              "start": 0,
+              "username": "FoamLessor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992109357623042237",
+        "in_reply_to_user_id": "1946589717031800832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992108217200242945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoamLessor 来啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946589717031800832",
+        "conversation_id": "1991721427737960886",
+        "created_at": "2025-11-22T05:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992108217200242945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992108217200242945",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991721427737960886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 我我我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 93,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 127
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:15:55.000Z",
+        "description": "如何定义我。精神病？药物滥用者？I don't know.一个失败的人，逃避一切现实。我在哪？药效里，幻觉中\n^^叫我青晚就好，想和你互fo",
+        "id": "1946589717031800832",
+        "location": "右美沙芬的世界",
+        "name": "致幻反应",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978435318585135104/qyJSzlFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 57,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 109
+        },
+        "username": "FoamLessor",
+        "verified": false
+      }
+    ]
+  }
+}

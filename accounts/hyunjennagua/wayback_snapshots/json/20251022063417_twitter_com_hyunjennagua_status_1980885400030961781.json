@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1980581039023222798",
+    "created_at": "2025-10-22T06:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T07:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980885400030961781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799734833217957888",
+          "start": 0,
+          "username": "MintAciDed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980885400030961781",
+    "in_reply_to_user_id": "1799734833217957888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980581039023222798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MintAciDed 好会画！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1980581028512088064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xv861XQAA-FUE.jpg",
+        "width": 1441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1980581039023222798",
+        "created_at": "2025-10-22T06:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980885400030961781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799734833217957888",
+              "start": 0,
+              "username": "MintAciDed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980885400030961781",
+        "in_reply_to_user_id": "1799734833217957888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980581039023222798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MintAciDed 好会画！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980581028512088064"
+          ]
+        },
+        "author_id": "1799734833217957888",
+        "conversation_id": "1980581039023222798",
+        "created_at": "2025-10-21T10:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980581039023222798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAliq9p915",
+              "end": 53,
+              "expanded_url": "https://x.com/MintAciDed/status/1980581039023222798/photo/1",
+              "media_key": "3_1980581028512088064",
+              "start": 30,
+              "url": "https://t.co/OAliq9p915"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980581039023222798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "well........大概加了个不适宜提示。想看就看吧。 https://t.co/OAliq9p915"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 67,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 94
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T09:26:50.000Z",
+        "description": "你好，我是极昼/祭祷词/Fenrir Sol。19+ 互fo欢迎！\n\nOC artist/Do not repost or redraw my works!!!!!\n类型学：entp 4w5 458 sx/sp \nAsexual/Demisexual/Aegosexual\n我患有分裂情感性障碍。",
+        "id": "1799734833217957888",
+        "location": "betwixt and between",
+        "name": "Fenrir Sol_（求互fo）",
+        "pinned_tweet_id": "1980180436040237098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980179324452896768/rpcfUJ0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 38,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "username": "MintAciDed",
+        "verified": false
+      }
+    ]
+  }
+}

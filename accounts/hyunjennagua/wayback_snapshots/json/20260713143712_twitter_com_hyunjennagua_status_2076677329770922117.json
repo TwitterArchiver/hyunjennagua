@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2076629926321770502",
+    "created_at": "2026-07-13T14:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076677329770922117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897607776706215936",
+          "start": 0,
+          "username": "love010149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076677329770922117",
+    "in_reply_to_user_id": "1897607776706215936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076629926321770502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love010149 好勇敢啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2470,
+        "height": 1280,
+        "media_key": "13_2076628439185207296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076628439185207296/img/f25vivztli0kY8fk.jpg",
+        "public_metrics": {
+          "view_count": 226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076628439185207296/vid/avc1/320x568/qjz-PQqLBmDSVB3a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076628439185207296/vid/avc1/480x852/LqEw1LfQVnNvCIjR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076628439185207296/vid/avc1/720x1280/r8BfGwJshUVJF2O0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076628439185207296/pl/Yuqh4yO59ln6wUKc.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 24355,
+        "height": 1280,
+        "media_key": "13_2076629793102336000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076629793102336000/img/xkMnBnZlVhcJmmFc.jpg",
+        "public_metrics": {
+          "view_count": 125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076629793102336000/vid/avc1/320x568/D1hRXzZnBXzhvgrR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076629793102336000/vid/avc1/480x852/pSDusxPK64p4KYGn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076629793102336000/vid/avc1/720x1280/JuD78PH0SqMOSDhr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076629793102336000/pl/b_rPLyvrRUWUoUGV.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2076628439134855168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGqkB0bYAAulYu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2076628439172579328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGqkB9bAAAQrFk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076629926321770502",
+        "created_at": "2026-07-13T14:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076677329770922117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897607776706215936",
+              "start": 0,
+              "username": "love010149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076677329770922117",
+        "in_reply_to_user_id": "1897607776706215936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076629926321770502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love010149 好勇敢啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076628439185207296",
+            "13_2076629793102336000",
+            "3_2076628439134855168",
+            "3_2076628439172579328"
+          ]
+        },
+        "author_id": "1897607776706215936",
+        "conversation_id": "2076629926321770502",
+        "created_at": "2026-07-13T11:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076629926321770502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "mtf"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "药娘"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "自切"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fys3D4VLgI",
+              "end": 120,
+              "expanded_url": "https://x.com/love010149/status/2076629926321770502/video/1",
+              "media_key": "13_2076628439185207296",
+              "start": 97,
+              "url": "https://t.co/Fys3D4VLgI"
+            },
+            {
+              "display_url": "pic.x.com/Fys3D4VLgI",
+              "end": 120,
+              "expanded_url": "https://x.com/love010149/status/2076629926321770502/video/1",
+              "media_key": "13_2076629793102336000",
+              "start": 97,
+              "url": "https://t.co/Fys3D4VLgI"
+            },
+            {
+              "display_url": "pic.x.com/Fys3D4VLgI",
+              "end": 120,
+              "expanded_url": "https://x.com/love010149/status/2076629926321770502/video/1",
+              "media_key": "3_2076628439134855168",
+              "start": 97,
+              "url": "https://t.co/Fys3D4VLgI"
+            },
+            {
+              "display_url": "pic.x.com/Fys3D4VLgI",
+              "end": 120,
+              "expanded_url": "https://x.com/love010149/status/2076629926321770502/video/1",
+              "media_key": "3_2076628439172579328",
+              "start": 97,
+              "url": "https://t.co/Fys3D4VLgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076629926321770502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 586,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好消息:成功了，坏消息:还剩一个蛋 #mtf #药娘 #自切  等麻药效等30分钟，切才花2分钟，才切掉一个…医院厕所太窄了，，坑里面还有大便印…那个蛋就在裤子里面藏着…，希望千万不要被发现了 https://t.co/Fys3D4VLgI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1051,
+          "like_count": 7486,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 3689
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-06T11:18:54.000Z",
+        "description": "mtf🏳️‍⚧️🍥互f0",
+        "id": "1897607776706215936",
+        "name": "-00-无无🌙🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915416514478080/_TaRixGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 625,
+          "like_count": 195,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "love010149",
+        "verified": false
+      }
+    ]
+  }
+}

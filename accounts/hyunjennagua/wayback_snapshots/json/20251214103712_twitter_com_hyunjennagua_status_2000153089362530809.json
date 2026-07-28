@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000153072283090946"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2000153089362530809",
+    "created_at": "2025-12-14T10:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T11:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000153089362530809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T2D66JrHv5",
+          "end": 34,
+          "expanded_url": "https://x.com/hyunjennagua/status/2000153089362530809/photo/1",
+          "media_key": "3_2000153072283090946",
+          "start": 11,
+          "url": "https://t.co/T2D66JrHv5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000153089362530809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "52加好友88可聊天 https://t.co/T2D66JrHv5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2000153072283090946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8H4nznXAAI76-y.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000153072283090946"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2000153089362530809",
+        "created_at": "2025-12-14T10:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T11:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000153089362530809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T2D66JrHv5",
+              "end": 34,
+              "expanded_url": "https://x.com/hyunjennagua/status/2000153089362530809/photo/1",
+              "media_key": "3_2000153072283090946",
+              "start": 11,
+              "url": "https://t.co/T2D66JrHv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000153089362530809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "52加好友88可聊天 https://t.co/T2D66JrHv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 164,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

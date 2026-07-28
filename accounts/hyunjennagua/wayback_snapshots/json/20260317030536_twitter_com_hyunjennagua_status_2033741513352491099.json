@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2033741513352491099",
+    "created_at": "2026-03-17T03:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033741513352491099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chy79872448730…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/chy798724487304/status/2033538781681529249",
+          "start": 4,
+          "url": "https://t.co/P22Fao0vse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033741513352491099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033538781681529249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好恶心 https://t.co/P22Fao0vse"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033538776694505472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiUvkXbwAAwcp6.jpg",
+        "width": 932
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033538779135492096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiUvtdaQAAdpfP.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2033741513352491099",
+        "created_at": "2026-03-17T03:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033741513352491099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chy79872448730…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/chy798724487304/status/2033538781681529249",
+              "start": 4,
+              "url": "https://t.co/P22Fao0vse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033741513352491099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033538781681529249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好恶心 https://t.co/P22Fao0vse"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033538776694505472",
+            "3_2033538779135492096"
+          ]
+        },
+        "author_id": "1784103367889080320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033538781681529249",
+        "created_at": "2026-03-16T13:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033538781681529249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxLec4G8K4",
+              "end": 44,
+              "expanded_url": "https://x.com/chy798724487304/status/2033538781681529249/photo/1",
+              "media_key": "3_2033538776694505472",
+              "start": 21,
+              "url": "https://t.co/oxLec4G8K4"
+            },
+            {
+              "display_url": "pic.x.com/oxLec4G8K4",
+              "end": 44,
+              "expanded_url": "https://x.com/chy798724487304/status/2033538781681529249/photo/1",
+              "media_key": "3_2033538779135492096",
+              "start": 21,
+              "url": "https://t.co/oxLec4G8K4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033538781681529249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 219179,
+          "like_count": 764,
+          "quote_count": 7,
+          "reply_count": 153,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "666第一次见这么称呼自己对象的 好恶心 https://t.co/oxLec4G8K4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿｜我需要钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 562,
+          "like_count": 2937,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1623
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T06:12:52.000Z",
+        "description": "🚪｜bratttt😋｜一些碎碎念&涩涩｜不线下｜有话直说｜手控控控🤤！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mimiovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mimiovo",
+                "start": 0,
+                "url": "https://t.co/Dt3EZGmLBw"
+              }
+            ]
+          }
+        },
+        "id": "1784103367889080320",
+        "name": "一只萌郁咪",
+        "pinned_tweet_id": "1825768332366328129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017982810188103680/CeeziVl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17810,
+          "following_count": 430,
+          "like_count": 60197,
+          "listed_count": 61,
+          "media_count": 199,
+          "tweet_count": 4817
+        },
+        "url": "https://t.co/Dt3EZGmLBw",
+        "username": "chy798724487304",
+        "verified": false
+      }
+    ]
+  }
+}

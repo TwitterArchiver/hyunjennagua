@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1992976587642339362",
+    "created_at": "2025-11-24T15:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992976824394232295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1489622706349817856",
+          "start": 0,
+          "username": "MasterLatos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992976824394232295",
+    "in_reply_to_user_id": "1489622706349817856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992976587642339362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasterLatos 你怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1992976587642339362",
+        "created_at": "2025-11-24T15:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992976824394232295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1489622706349817856",
+              "start": 0,
+              "username": "MasterLatos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992976824394232295",
+        "in_reply_to_user_id": "1489622706349817856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992976587642339362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasterLatos 你怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489622706349817856",
+        "conversation_id": "1992976587642339362",
+        "created_at": "2025-11-24T15:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992976587642339362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992976587642339362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我什么都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 96,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 145
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T15:32:01.000Z",
+        "description": "飞友 ｜ 全栈开发者 ｜英伦摇滚🎸资深爱好者｜互fo | 🏳️‍⚧️ ｜@know_hhh51945",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "know_hhh51945"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MATRIXCRAFT.online",
+                "end": 23,
+                "expanded_url": "http://MATRIXCRAFT.online",
+                "start": 0,
+                "url": "https://t.co/Hs2tV3pj2j"
+              }
+            ]
+          }
+        },
+        "id": "1489622706349817856",
+        "name": "Latos",
+        "pinned_tweet_id": "1984732963670745140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959647760808071168/9c5hC4Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 1587,
+          "like_count": 1510,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/Hs2tV3pj2j",
+        "username": "MasterLatos",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1981291008949432806",
+    "created_at": "2025-10-23T09:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T10:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981291008949432806"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981291008949432806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想要很多粉丝我想要我一发帖很多赞。虽然我发的都很没意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1981291008949432806",
+        "created_at": "2025-10-23T09:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T10:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981291008949432806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981291008949432806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要很多粉丝我想要我一发帖很多赞。虽然我发的都很没意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 70,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 89
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

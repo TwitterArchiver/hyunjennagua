@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2074654747144147256",
+    "created_at": "2026-07-08T09:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074784388920095076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1896509395225493504",
+          "start": 0,
+          "username": "mein1205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074784388920095076",
+    "in_reply_to_user_id": "1896509395225493504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074654747144147256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mein1205 你全家暴毙了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 991,
+        "media_key": "3_2074654738780672000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqnfjCaUAA24Kk.jpg",
+        "width": 688
+      },
+      {
+        "height": 1213,
+        "media_key": "3_2074654738784964608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqnfjDb0AAEpJ8.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2074654747144147256",
+        "created_at": "2026-07-08T09:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074784388920095076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1896509395225493504",
+              "start": 0,
+              "username": "mein1205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074784388920095076",
+        "in_reply_to_user_id": "1896509395225493504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074654747144147256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mein1205 你全家暴毙了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074654738780672000",
+            "3_2074654738784964608"
+          ]
+        },
+        "author_id": "1896509395225493504",
+        "conversation_id": "2074654747144147256",
+        "created_at": "2026-07-08T00:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074654747144147256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1x6MNZPdi",
+              "end": 46,
+              "expanded_url": "https://x.com/mein1205/status/2074654747144147256/photo/1",
+              "media_key": "3_2074654738780672000",
+              "start": 23,
+              "url": "https://t.co/G1x6MNZPdi"
+            },
+            {
+              "display_url": "pic.x.com/G1x6MNZPdi",
+              "end": 46,
+              "expanded_url": "https://x.com/mein1205/status/2074654747144147256/photo/1",
+              "media_key": "3_2074654738784964608",
+              "start": 23,
+              "url": "https://t.co/G1x6MNZPdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074654747144147256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1281,
+          "impression_count": 810540,
+          "like_count": 2619,
+          "quote_count": 5,
+          "reply_count": 278,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "前排的票为什么贵知道了吧\n你们都看见了什么🙈 https://t.co/G1x6MNZPdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 998,
+          "like_count": 6424,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 3351
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-03T10:34:19.000Z",
+        "description": "也许你很了不起， 但我未必看得起。",
+        "id": "1896509395225493504",
+        "location": "成都",
+        "name": "姚祯",
+        "pinned_tweet_id": "2037777666502455547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043129052236824576/bdZbdJp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15377,
+          "following_count": 0,
+          "like_count": 210,
+          "listed_count": 24,
+          "media_count": 244,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "mein1205",
+        "verified": false
+      }
+    ]
+  }
+}

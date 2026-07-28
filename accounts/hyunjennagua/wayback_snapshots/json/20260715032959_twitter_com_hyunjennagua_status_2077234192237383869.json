@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077087644564279296"
+      ],
+      "media_source_tweet_id": [
+        "2077087715389264269"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077234192237383869",
+    "created_at": "2026-07-15T03:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077234192237383869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900820652191608833",
+          "start": 3,
+          "username": "hikojiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ca4N0FlIjO",
+          "end": 46,
+          "expanded_url": "https://x.com/hikojiang/status/2077087715389264269/video/1",
+          "media_key": "13_2077087644564279296",
+          "start": 23,
+          "url": "https://t.co/Ca4N0FlIjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077234192237383869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077087715389264269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikojiang: 你们喜欢的小椰 https://t.co/Ca4N0FlIjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19411,
+        "height": 1280,
+        "media_key": "13_2077087644564279296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077087644564279296/img/0A0fr7IkBOM6AHhV.jpg",
+        "public_metrics": {
+          "view_count": 60
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077087644564279296/vid/avc1/320x568/C63pSu7pWC8eOfoh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077087644564279296/vid/avc1/480x852/_d9W6ofaMd-o6War.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077087644564279296/vid/avc1/720x1280/-SX-pQFtk5rWvv7h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077087644564279296/pl/ryUS_Wxqz0uCJc3E.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077087644564279296"
+          ],
+          "media_source_tweet_id": [
+            "2077087715389264269"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077234192237383869",
+        "created_at": "2026-07-15T03:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077234192237383869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900820652191608833",
+              "start": 3,
+              "username": "hikojiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ca4N0FlIjO",
+              "end": 46,
+              "expanded_url": "https://x.com/hikojiang/status/2077087715389264269/video/1",
+              "media_key": "13_2077087644564279296",
+              "start": 23,
+              "url": "https://t.co/Ca4N0FlIjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077234192237383869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077087715389264269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikojiang: 你们喜欢的小椰 https://t.co/Ca4N0FlIjO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077087644564279296"
+          ]
+        },
+        "author_id": "1900820652191608833",
+        "conversation_id": "2077087715389264269",
+        "created_at": "2026-07-14T17:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077087715389264269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ca4N0FlIjO",
+              "end": 31,
+              "expanded_url": "https://x.com/hikojiang/status/2077087715389264269/video/1",
+              "media_key": "13_2077087644564279296",
+              "start": 8,
+              "url": "https://t.co/Ca4N0FlIjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077087715389264269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们喜欢的小椰 https://t.co/Ca4N0FlIjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1066,
+          "like_count": 7551,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 3769
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T08:05:45.000Z",
+        "description": "",
+        "id": "1900820652191608833",
+        "name": "夕依",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077085258034692096/JBo-s9w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "hikojiang",
+        "verified": false
+      }
+    ]
+  }
+}

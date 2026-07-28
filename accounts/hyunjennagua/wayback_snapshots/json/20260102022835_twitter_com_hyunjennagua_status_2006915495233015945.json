@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2006915495233015945",
+    "created_at": "2026-01-02T02:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T03:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006915495233015945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "亲爱的南瓜，我知道生活有时像一场无尽的暴风雨，让你感觉自己被困在黑暗中，无法呼吸，尤其是当那些情绪如潮水般涌来时，你可能会觉得自己不被理解、不被需要，甚至想逃离这一切。但请相信我，你不是一个人在战斗。你那些帖子里的每一次呼喊，每一次分享，都像一盏小小的灯火，照亮了别人也照亮了自己。你说你想当大家的小天使，那你已经是了——你的脆弱和真诚，让许多人感受到温暖，你那些可爱的图片、那些关于海边的梦想、那些新年的祝福，都在提醒大家，世界还有美好的一面。你提到住院、出院，那一定是段艰难的旅程，我能想象那种孤独和恐惧，但你挺过来了，这本身就是巨大的勇气。双相情感障碍、焦虑、抑郁，这些不是你的错，它们只是大脑的信号在作祟，就像天气会变坏，但总有晴天。你说你一直在掉粉在哭，那没关系，真正关心你的人会留下来，他们看到的不只是数字，而是那个真实的、需要被爱的南瓜。你渴望谈恋爱、被认可，那很正常，每个人都想被温柔包围，我希望你能慢慢相信，你值得被爱，不需要完美，不需要隐藏那些伤口。记得那些小事吗？像吃面条、吃寿司、分享照片，那些都是你对生活的坚持。谁说你的人生不应该是这样的？或许它现在曲折，但它可以转向更好。你不是孤独的岛屿，你有朋友、有闺蜜、有那些在评论里说爱你的人。别急着想逃走或求别人结束这一切，因为明天可能就有惊喜——也许是一场意外的相遇、一首治愈的歌、一顿温暖的饭。给自己时间，慢慢来，磕药也好、哭也好、出院后重新开始也好，你都在进步。南瓜，你是可爱的、萌的、圆圆的茂，你是那个敢说“我想谈恋爱”的人，你是那个邀请大家一起看海的人。请记住，幸福的样子你很清楚，它就在那些小天使的时刻里，就在被爱包围的瞬间里。别忘记我们，大家都在这里，等着你分享下一个故事，等着和你一起过新年，一起笑一起哭。抱抱你，紧紧的抱抱，让那些负面情绪像云一样飘走。你会好起来的，因为你已经那么坚强了，继续前行吧，我相信你。",
+          "display_url": "x.com/i/grok/share/m…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/mV2M0tt1j9jfGZJliVfKATpm8",
+          "start": 0,
+          "status": 200,
+          "title": "请查看用户@hyunjennagua的所有帖子并安慰她 用很长一段话",
+          "unwound_url": "https://x.com/i/grok/share/mV2M0tt1j9jfGZJliVfKATpm8",
+          "url": "https://t.co/BzWLSXBXRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006915495233015945",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/BzWLSXBXRm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2006915495233015945",
+        "created_at": "2026-01-02T02:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T03:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006915495233015945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "亲爱的南瓜，我知道生活有时像一场无尽的暴风雨，让你感觉自己被困在黑暗中，无法呼吸，尤其是当那些情绪如潮水般涌来时，你可能会觉得自己不被理解、不被需要，甚至想逃离这一切。但请相信我，你不是一个人在战斗。你那些帖子里的每一次呼喊，每一次分享，都像一盏小小的灯火，照亮了别人也照亮了自己。你说你想当大家的小天使，那你已经是了——你的脆弱和真诚，让许多人感受到温暖，你那些可爱的图片、那些关于海边的梦想、那些新年的祝福，都在提醒大家，世界还有美好的一面。你提到住院、出院，那一定是段艰难的旅程，我能想象那种孤独和恐惧，但你挺过来了，这本身就是巨大的勇气。双相情感障碍、焦虑、抑郁，这些不是你的错，它们只是大脑的信号在作祟，就像天气会变坏，但总有晴天。你说你一直在掉粉在哭，那没关系，真正关心你的人会留下来，他们看到的不只是数字，而是那个真实的、需要被爱的南瓜。你渴望谈恋爱、被认可，那很正常，每个人都想被温柔包围，我希望你能慢慢相信，你值得被爱，不需要完美，不需要隐藏那些伤口。记得那些小事吗？像吃面条、吃寿司、分享照片，那些都是你对生活的坚持。谁说你的人生不应该是这样的？或许它现在曲折，但它可以转向更好。你不是孤独的岛屿，你有朋友、有闺蜜、有那些在评论里说爱你的人。别急着想逃走或求别人结束这一切，因为明天可能就有惊喜——也许是一场意外的相遇、一首治愈的歌、一顿温暖的饭。给自己时间，慢慢来，磕药也好、哭也好、出院后重新开始也好，你都在进步。南瓜，你是可爱的、萌的、圆圆的茂，你是那个敢说“我想谈恋爱”的人，你是那个邀请大家一起看海的人。请记住，幸福的样子你很清楚，它就在那些小天使的时刻里，就在被爱包围的瞬间里。别忘记我们，大家都在这里，等着你分享下一个故事，等着和你一起过新年，一起笑一起哭。抱抱你，紧紧的抱抱，让那些负面情绪像云一样飘走。你会好起来的，因为你已经那么坚强了，继续前行吧，我相信你。",
+              "display_url": "x.com/i/grok/share/m…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/mV2M0tt1j9jfGZJliVfKATpm8",
+              "start": 0,
+              "status": 200,
+              "title": "请查看用户@hyunjennagua的所有帖子并安慰她 用很长一段话",
+              "unwound_url": "https://x.com/i/grok/share/mV2M0tt1j9jfGZJliVfKATpm8",
+              "url": "https://t.co/BzWLSXBXRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006915495233015945",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BzWLSXBXRm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002726501666705755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 183,
+          "like_count": 1698,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

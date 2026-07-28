@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2064150494147420656",
+    "created_at": "2026-06-09T01:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064150494147420656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031345771254255616",
+          "start": 3,
+          "username": "homesick_swm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064150494147420656",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14784
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063314127205097784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @homesick_swm: 다들 노력하고 정말 열심히하는데\n나만 병신같이 처울고 처먹고 처자고 핸드폰만 처보고"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2064150494147420656",
+        "created_at": "2026-06-09T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064150494147420656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031345771254255616",
+              "start": 3,
+              "username": "homesick_swm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064150494147420656",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14784
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063314127205097784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @homesick_swm: 다들 노력하고 정말 열심히하는데\n나만 병신같이 처울고 처먹고 처자고 핸드폰만 처보고"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031345771254255616",
+        "conversation_id": "2063314127205097784",
+        "created_at": "2026-06-06T17:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063314127205097784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063314127205097784",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2818,
+          "impression_count": 1745116,
+          "like_count": 58083,
+          "quote_count": 1588,
+          "reply_count": 260,
+          "retweet_count": 14784
+        },
+        "reply_settings": "everyone",
+        "text": "다들 노력하고 정말 열심히하는데\n나만 병신같이 처울고 처먹고 처자고 핸드폰만 처보고"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 890,
+          "like_count": 5435,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T12:25:56.000Z",
+        "description": "도!망!가!자!도!피!하!자!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/homesick_swm",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/homesick_swm",
+                "start": 0,
+                "url": "https://t.co/FwZpHo4hJg"
+              }
+            ]
+          }
+        },
+        "id": "2031345771254255616",
+        "location": "썅노무시끼 / 시험기간이라 접속, 연락 느립니다 T.T",
+        "name": "썅끼",
+        "pinned_tweet_id": "2043155358252933245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053401887832203264/qNTF4THN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 93,
+          "like_count": 8641,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/FwZpHo4hJg",
+        "username": "homesick_swm",
+        "verified": false
+      }
+    ]
+  }
+}

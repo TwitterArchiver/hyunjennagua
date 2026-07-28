@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077408888400629760"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2077408902321512504",
+    "created_at": "2026-07-15T15:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077408902321512504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxCg9vBKb6",
+          "end": 44,
+          "expanded_url": "https://x.com/hyunjennagua/status/2077408902321512504/photo/1",
+          "media_key": "3_2077408888400629760",
+          "start": 21,
+          "url": "https://t.co/cxCg9vBKb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077408902321512504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这么热的天就该来瓶冰可乐❤️❤️🤤谢谢喵 https://t.co/cxCg9vBKb6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2077408888400629760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRwYJ5b0AAqopV.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077408888400629760"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2077408902321512504",
+        "created_at": "2026-07-15T15:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077408902321512504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxCg9vBKb6",
+              "end": 44,
+              "expanded_url": "https://x.com/hyunjennagua/status/2077408902321512504/photo/1",
+              "media_key": "3_2077408888400629760",
+              "start": 21,
+              "url": "https://t.co/cxCg9vBKb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077408902321512504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么热的天就该来瓶冰可乐❤️❤️🤤谢谢喵 https://t.co/cxCg9vBKb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 1072,
+          "like_count": 7613,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 3803
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

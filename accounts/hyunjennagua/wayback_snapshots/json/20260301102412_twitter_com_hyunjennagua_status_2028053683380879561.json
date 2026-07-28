@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027705566945284099"
+      ],
+      "media_source_tweet_id": [
+        "2027705644049174757"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2028053683380879561",
+    "created_at": "2026-03-01T10:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T11:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028053683380879561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1995243049673515008",
+          "start": 3,
+          "username": "sadlyer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gYzVREjBqy",
+          "end": 68,
+          "expanded_url": "https://x.com/sadlyer/status/2027705644049174757/photo/1",
+          "media_key": "3_2027705566945284099",
+          "start": 45,
+          "url": "https://t.co/gYzVREjBqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028053683380879561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027705644049174757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sadlyer: 我下海的第一个原因是因为没钱第二个原因是因为我有性瘾 喜欢做爱 https://t.co/gYzVREjBqy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028053683380879561].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028053683380879561",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028053683380879561"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2027705566945284099",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPbeErbEAMmyuF.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027705566945284099"
+          ]
+        },
+        "author_id": "1995243049673515008",
+        "conversation_id": "2027705644049174757",
+        "created_at": "2026-02-28T11:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027705644049174757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYzVREjBqy",
+              "end": 55,
+              "expanded_url": "https://x.com/sadlyer/status/2027705644049174757/photo/1",
+              "media_key": "3_2027705566945284099",
+              "start": 32,
+              "url": "https://t.co/gYzVREjBqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027705644049174757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 912,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我下海的第一个原因是因为没钱第二个原因是因为我有性瘾 喜欢做爱 https://t.co/gYzVREjBqy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2028028704157270381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 240,
+          "like_count": 2316,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T21:26:38.000Z",
+        "description": "🚪88 详情请看置顶 只回复口令 欢迎同好和我互推 男娘无门槛 电报https://t.co/pOk05wiSpi小号@sader2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "sader2778"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/sadly12342",
+                "end": 57,
+                "expanded_url": "https://t.me/sadly12342",
+                "start": 34,
+                "url": "https://t.co/pOk05wiSpi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadlyer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadlyer",
+                "start": 0,
+                "url": "https://t.co/062nQ77JNY"
+              }
+            ]
+          }
+        },
+        "id": "1995243049673515008",
+        "location": "坐标广州 全国空降",
+        "name": "sadlyer",
+        "pinned_tweet_id": "2019114569269158043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010876887136923648/-nk_ujMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 23,
+          "like_count": 38,
+          "listed_count": 8,
+          "media_count": 18,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/062nQ77JNY",
+        "username": "sadlyer",
+        "verified": false
+      }
+    ]
+  }
+}

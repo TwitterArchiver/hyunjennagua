@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2000164982596759845",
+    "created_at": "2025-12-14T11:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T12:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000164982596759845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1851187218251202563",
+          "start": 3,
+          "username": "mikeas846141091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000164982596759845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000161047081267551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikeas846141091: 我好无聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2000164982596759845",
+        "created_at": "2025-12-14T11:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000164982596759845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1851187218251202563",
+              "start": 3,
+              "username": "mikeas846141091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000164982596759845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000161047081267551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikeas846141091: 我好无聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851187218251202563",
+        "conversation_id": "2000161047081267551",
+        "created_at": "2025-12-14T11:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000161047081267551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000161047081267551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好无聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 165,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T09:00:13.000Z",
+        "description": "妈妈 人生是旷野的",
+        "id": "1851187218251202563",
+        "name": "Keat",
+        "pinned_tweet_id": "1997167213653250295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980897391650729984/w2fxM7yi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "mikeas846141091",
+        "verified": false
+      }
+    ]
+  }
+}

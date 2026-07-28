@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2017846072803266563"
+      ],
+      "media_source_tweet_id": [
+        "2017846331398885740"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018142834298175689",
+    "created_at": "2026-02-02T02:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T03:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018142834298175689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1796937387899064320",
+          "start": 3,
+          "username": "CleverFf050755"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nfQY5XjNl0",
+          "end": 60,
+          "expanded_url": "https://x.com/CleverFf050755/status/2017846331398885740/video/1",
+          "media_key": "7_2017846072803266563",
+          "start": 37,
+          "url": "https://t.co/nfQY5XjNl0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018142834298175689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017846331398885740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CleverFf050755: 在古代穷人拥有一箱右美沙芬有多爽 https://t.co/nfQY5XjNl0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67133,
+        "height": 960,
+        "media_key": "7_2017846072803266563",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017846072803266563/pu/img/Qt_7w3gxon7QqdZL.jpg",
+        "public_metrics": {
+          "view_count": 5085
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017846072803266563/pu/vid/avc1/320x426/DSEp0CU5koyVYKpB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017846072803266563/pu/vid/avc1/480x640/BDyR-SzXvxMc54H6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017846072803266563/pu/vid/avc1/720x960/Htxqd8fzAIqAoqZ4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017846072803266563/pu/pl/jJpJ1ig7odimnl1h.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017846072803266563"
+          ],
+          "media_source_tweet_id": [
+            "2017846331398885740"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018142834298175689",
+        "created_at": "2026-02-02T02:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T03:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018142834298175689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1796937387899064320",
+              "start": 3,
+              "username": "CleverFf050755"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfQY5XjNl0",
+              "end": 60,
+              "expanded_url": "https://x.com/CleverFf050755/status/2017846331398885740/video/1",
+              "media_key": "7_2017846072803266563",
+              "start": 37,
+              "url": "https://t.co/nfQY5XjNl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018142834298175689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017846331398885740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CleverFf050755: 在古代穷人拥有一箱右美沙芬有多爽 https://t.co/nfQY5XjNl0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017846072803266563"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "2017846331398885740",
+        "created_at": "2026-02-01T06:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017846331398885740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfQY5XjNl0",
+              "end": 40,
+              "expanded_url": "https://x.com/CleverFf050755/status/2017846331398885740/video/1",
+              "media_key": "7_2017846072803266563",
+              "start": 17,
+              "url": "https://t.co/nfQY5XjNl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017846331398885740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 10780,
+          "like_count": 191,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "在古代穷人拥有一箱右美沙芬有多爽 https://t.co/nfQY5XjNl0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 203,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。妈妈@Akinoyo_desu  \n提问盒：https://t.co/ZSBub0L9dM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Akinoyo_desu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 74,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 51,
+                "url": "https://t.co/ZSBub0L9dM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hSuwLZ"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 265,
+          "like_count": 203,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 2213
+        },
+        "url": "https://t.co/T0F6hSuwLZ",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

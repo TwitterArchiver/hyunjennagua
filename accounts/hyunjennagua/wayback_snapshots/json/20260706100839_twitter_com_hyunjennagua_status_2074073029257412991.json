@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2073641811701272814",
+    "created_at": "2026-07-06T10:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074073029257412991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2071312001314242560",
+          "start": 0,
+          "username": "ovolook215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074073029257412991",
+    "in_reply_to_user_id": "2071312001314242560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074041593750061560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovolook215 卧槽完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2073641811701272814",
+        "created_at": "2026-07-06T10:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074073029257412991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2071312001314242560",
+              "start": 0,
+              "username": "ovolook215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074073029257412991",
+        "in_reply_to_user_id": "2071312001314242560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074041593750061560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovolook215 卧槽完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071312001314242560",
+        "conversation_id": "2073641811701272814",
+        "created_at": "2026-07-06T08:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074041593750061560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074041593750061560",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073641811701272814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 我：呃啊卧槽完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 1002,
+          "like_count": 6294,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T19:19:15.000Z",
+        "description": "哔哔，外星人降临/二号机：@nixyng246039//互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "nixyng246039"
+              }
+            ]
+          }
+        },
+        "id": "2071312001314242560",
+        "name": "西北（西南三号机巡回互关）",
+        "pinned_tweet_id": "2073873300024160714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071312900237471744/WGYOIntd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 106,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "ovolook215",
+        "verified": false
+      }
+    ]
+  }
+}

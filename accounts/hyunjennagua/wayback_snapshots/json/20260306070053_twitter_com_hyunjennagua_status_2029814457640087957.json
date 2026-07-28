@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2029789088782643620",
+    "created_at": "2026-03-06T07:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029814457640087957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1959688702088945664",
+          "start": 0,
+          "username": "SPYDER_AIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029814457640087957",
+    "in_reply_to_user_id": "1959688702088945664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029798780892320137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPYDER_AIO 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2029789088782643620",
+        "created_at": "2026-03-06T07:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029814457640087957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1959688702088945664",
+              "start": 0,
+              "username": "SPYDER_AIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029814457640087957",
+        "in_reply_to_user_id": "1959688702088945664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029798780892320137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPYDER_AIO 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959688702088945664",
+        "conversation_id": "2029789088782643620",
+        "created_at": "2026-03-06T05:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029798780892320137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029798780892320137",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029798070779523252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 那如果家人陪护着去家人就不让你开这个药对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 337,
+          "like_count": 2556,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T18:46:20.000Z",
+        "description": "以色列SPYDER AIO防空系统是以色列拉斐尔先进防御系统公司与以色列航空工业公司联合研制的机动防空平台。\n配备exMHR雷达，该雷达工作在F波段，由四个非旋转雷达组成，每个覆盖90度扇区，可提供360度全向覆盖，最大射程达110公里，且具备自动识别大多数 飞机的能力\n可发射怪蛇-5、I-DERBY SR等制导飞弹.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rafael.co.il",
+                "end": 23,
+                "expanded_url": "http://www.rafael.co.il/",
+                "start": 0,
+                "url": "https://t.co/7B2Q6w7p87"
+              }
+            ]
+          }
+        },
+        "id": "1959688702088945664",
+        "location": "רפאל-מערכות לחימה מתקדמות בע",
+        "name": "高生存性测试全自动家庭闯祸捣蛋机坦克酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2028340994366931406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959988780779405312/ISyppMCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 612,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/7B2Q6w7p87",
+        "username": "SPYDER_AIO",
+        "verified": false
+      }
+    ]
+  }
+}

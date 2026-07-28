@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027057875580014592"
+      ],
+      "media_source_tweet_id": [
+        "2027057945981374633"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027114786803143001",
+    "created_at": "2026-02-26T20:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T21:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027114786803143001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975232213307584513",
+          "start": 3,
+          "username": "linzongiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TCksBZt4ph",
+          "end": 47,
+          "expanded_url": "https://x.com/linzongiiii/status/2027057945981374633/video/1",
+          "media_key": "13_2027057875580014592",
+          "start": 24,
+          "url": "https://t.co/TCksBZt4ph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027114786803143001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027057945981374633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linzongiiii: 喷血的旧视频 https://t.co/TCksBZt4ph"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027114786803143001].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027114786803143001",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027114786803143001"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11933,
+        "height": 1280,
+        "media_key": "13_2027057875580014592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027057875580014592/img/44wUAAXb4wAZGch1.jpg",
+        "public_metrics": {
+          "view_count": 253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027057875580014592/vid/avc1/320x568/tMi4_9mpNj_YXOPd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027057875580014592/vid/avc1/480x852/y4JiNsHk5Oj0L8qA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027057875580014592/vid/avc1/720x1280/h_S45Ch-L1Ac_lZn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027057875580014592/pl/_sEEhOepsX6sWsz8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027057875580014592"
+          ]
+        },
+        "author_id": "1975232213307584513",
+        "conversation_id": "2027057945981374633",
+        "created_at": "2026-02-26T16:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027057945981374633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCksBZt4ph",
+              "end": 30,
+              "expanded_url": "https://x.com/linzongiiii/status/2027057945981374633/video/1",
+              "media_key": "13_2027057875580014592",
+              "start": 7,
+              "url": "https://t.co/TCksBZt4ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027057945981374633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 775,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "喷血的旧视频 https://t.co/TCksBZt4ph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 224,
+          "like_count": 2257,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T16:10:44.000Z",
+        "description": "小漆 重生小号 欢迎扩列 自残od发疯  前世@linzongiii 找我再续前缘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "linzongiii"
+              }
+            ]
+          }
+        },
+        "id": "1975232213307584513",
+        "location": "Los Angeles, CA",
+        "name": "小漆",
+        "pinned_tweet_id": "2003383641112817829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975234245879840768/yIn7SFkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 70,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 78
+        },
+        "username": "linzongiiii",
+        "verified": false
+      }
+    ]
+  }
+}

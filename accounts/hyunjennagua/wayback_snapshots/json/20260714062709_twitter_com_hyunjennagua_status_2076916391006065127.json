@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076916380704923648"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2076916391006065127",
+    "created_at": "2026-07-14T06:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076916391006065127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0LubsdvViR",
+          "end": 26,
+          "expanded_url": "https://x.com/hyunjennagua/status/2076916391006065127/photo/1",
+          "media_key": "3_2076916380704923648",
+          "start": 3,
+          "url": "https://t.co/0LubsdvViR"
+        },
+        {
+          "display_url": "x.com/hyunjennagua/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/hyunjennagua/status/2076297848535261552",
+          "start": 27,
+          "url": "https://t.co/IobG60ng6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076916391006065127",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076297848535261552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧 https://t.co/0LubsdvViR https://t.co/IobG60ng6o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076916380704923648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKwcbwbYAAS4Ll.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2076297840192872448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNB94oybYAAZBCj.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076916380704923648"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076916391006065127",
+        "created_at": "2026-07-14T06:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076916391006065127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0LubsdvViR",
+              "end": 26,
+              "expanded_url": "https://x.com/hyunjennagua/status/2076916391006065127/photo/1",
+              "media_key": "3_2076916380704923648",
+              "start": 3,
+              "url": "https://t.co/0LubsdvViR"
+            },
+            {
+              "display_url": "x.com/hyunjennagua/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/hyunjennagua/status/2076297848535261552",
+              "start": 27,
+              "url": "https://t.co/IobG60ng6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076916391006065127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076297848535261552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧 https://t.co/0LubsdvViR https://t.co/IobG60ng6o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076297840192872448"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2076297848535261552",
+        "created_at": "2026-07-12T13:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076297848535261552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7TruWU40Ym",
+              "end": 26,
+              "expanded_url": "https://x.com/hyunjennagua/status/2076297848535261552/photo/1",
+              "media_key": "3_2076297840192872448",
+              "start": 3,
+              "url": "https://t.co/7TruWU40Ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076297848535261552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1005,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前 https://t.co/7TruWU40Ym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 1054,
+          "like_count": 7533,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 3712
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

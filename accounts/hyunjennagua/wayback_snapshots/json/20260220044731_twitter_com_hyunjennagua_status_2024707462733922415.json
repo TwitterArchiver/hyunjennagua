@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018026034113695744"
+      ],
+      "media_source_tweet_id": [
+        "2018026118108819925"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2024707462733922415",
+    "created_at": "2026-02-20T04:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T05:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024707462733922415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015648758155874304",
+          "start": 3,
+          "username": "icantkeepit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TjBilQYabm",
+          "end": 40,
+          "expanded_url": "https://x.com/icantkeepit/status/2018026118108819925/video/1",
+          "media_key": "13_2018026034113695744",
+          "start": 17,
+          "url": "https://t.co/TjBilQYabm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024707462733922415",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018026118108819925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @icantkeepit: https://t.co/TjBilQYabm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024707462733922415].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024707462733922415",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024707462733922415"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19796,
+        "height": 712,
+        "media_key": "13_2018026034113695744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018026034113695744/img/byCMZvvHQDKqyPJq.jpg",
+        "public_metrics": {
+          "view_count": 1916
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018026034113695744/vid/avc1/284x270/rI43FPDn-SgFNjEk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018026034113695744/vid/avc1/378x360/3AiRvGisl6PI8mWv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018026034113695744/vid/avc1/750x712/uPNzHRt0qrXtFlk5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018026034113695744/pl/0mDtfJqMCtx3n0bZ.m3u8"
+          }
+        ],
+        "width": 750
+      },
+      {
+        "duration_ms": 19796,
+        "height": 712,
+        "media_key": "13_2018026034113695744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018026034113695744/img/byCMZvvHQDKqyPJq.jpg",
+        "public_metrics": {
+          "view_count": 1918
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018026034113695744/vid/avc1/284x270/rI43FPDn-SgFNjEk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018026034113695744/vid/avc1/378x360/3AiRvGisl6PI8mWv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018026034113695744/vid/avc1/750x712/uPNzHRt0qrXtFlk5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018026034113695744/pl/0mDtfJqMCtx3n0bZ.m3u8"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018026034113695744"
+          ]
+        },
+        "author_id": "2015648758155874304",
+        "conversation_id": "2018026118108819925",
+        "created_at": "2026-02-01T18:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T19:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018026118108819925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjBilQYabm",
+              "end": 23,
+              "expanded_url": "https://x.com/icantkeepit/status/2018026118108819925/video/1",
+              "media_key": "13_2018026034113695744",
+              "start": 0,
+              "url": "https://t.co/TjBilQYabm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018026118108819925",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 6518,
+          "like_count": 364,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TjBilQYabm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 213,
+          "like_count": 2170,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T04:51:50.000Z",
+        "description": "",
+        "id": "2015648758155874304",
+        "name": "hi!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015709752563556352/UwuL-6oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 36
+        },
+        "username": "icantkeepit",
+        "verified": false
+      }
+    ]
+  }
+}

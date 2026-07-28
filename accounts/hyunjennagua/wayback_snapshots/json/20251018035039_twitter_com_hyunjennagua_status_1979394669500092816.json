@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1979285295599358320",
+    "created_at": "2025-10-18T03:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T04:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979394669500092816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1489622706349817856",
+          "start": 0,
+          "username": "MasterLatos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979394669500092816",
+    "in_reply_to_user_id": "1489622706349817856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979285295599358320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasterLatos 怎么了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1979285295599358320",
+        "created_at": "2025-10-18T03:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979394669500092816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1489622706349817856",
+              "start": 0,
+              "username": "MasterLatos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979394669500092816",
+        "in_reply_to_user_id": "1489622706349817856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979285295599358320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasterLatos 怎么了你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489622706349817856",
+        "conversation_id": "1979285295599358320",
+        "created_at": "2025-10-17T20:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T21:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979285295599358320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979285295599358320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没哭了，今天大哭一场…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "躁狂加焦虑 匿名https://t.co/CIziKBo47L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 31,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 8,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965247461863133184/pbtyWH6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 65,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 79
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T15:32:01.000Z",
+        "description": "06年 ｜ 飞友 ｜ 全栈开发者 ｜英伦摇滚🎸资深爱好者｜ 友跨 ｜互fo",
+        "id": "1489622706349817856",
+        "name": "Latos",
+        "pinned_tweet_id": "1977038512945062246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959647760808071168/9c5hC4Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1161,
+          "like_count": 846,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 891
+        },
+        "username": "MasterLatos",
+        "verified": false
+      }
+    ]
+  }
+}

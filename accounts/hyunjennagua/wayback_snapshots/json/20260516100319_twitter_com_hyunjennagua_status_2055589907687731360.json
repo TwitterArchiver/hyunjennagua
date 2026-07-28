@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2055584908152820006",
+    "created_at": "2026-05-16T10:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055589907687731360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010422988236369920",
+          "start": 0,
+          "username": "jvziqwq555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055589907687731360",
+    "in_reply_to_user_id": "2010422988236369920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055584908152820006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jvziqwq555 不要啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055584847134158848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbnhwsbcAA5w9k.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2055584908152820006",
+        "created_at": "2026-05-16T10:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055589907687731360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010422988236369920",
+              "start": 0,
+              "username": "jvziqwq555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055589907687731360",
+        "in_reply_to_user_id": "2010422988236369920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055584908152820006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jvziqwq555 不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055584847134158848"
+          ]
+        },
+        "author_id": "2010422988236369920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055584908152820006",
+        "created_at": "2026-05-16T09:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055584908152820006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7100dClZtx",
+              "end": 27,
+              "expanded_url": "https://x.com/jvziqwq555/status/2055584908152820006/photo/1",
+              "media_key": "3_2055584847134158848",
+              "start": 4,
+              "url": "https://t.co/7100dClZtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055584908152820006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安？ https://t.co/7100dClZtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4OEeRm匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4OEeRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 880,
+          "like_count": 5091,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 2824
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:46:16.000Z",
+        "description": "我是橘子/10/od/自伤/自设厨/双相/重焦 同类互fo/LGBT友好\n喜欢听歌和画画 森口 术力口爱好者❤️\n很唐比 谢谢你们愿意和我玩...\n\n♡.꒰ ⑅:†· ♡ ·†:⑅ ꒱.♡ ₊⁺♡̶♡̶₊⁺",
+        "id": "2010422988236369920",
+        "name": "橘酱在哭",
+        "pinned_tweet_id": "2033949619986518419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033785794062913538/Bfy7cry1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 129,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 194
+        },
+        "username": "jvziqwq555",
+        "verified": false
+      }
+    ]
+  }
+}

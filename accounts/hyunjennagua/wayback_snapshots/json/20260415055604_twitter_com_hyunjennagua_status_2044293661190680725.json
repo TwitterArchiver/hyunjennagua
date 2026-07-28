@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044068380697866246"
+      ],
+      "media_source_tweet_id": [
+        "2044068385324224988"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2044293661190680725",
+    "created_at": "2026-04-15T05:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044293661190680725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827203342436855812",
+          "start": 3,
+          "username": "nanaj00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zNW4piAuFG",
+          "end": 37,
+          "expanded_url": "https://x.com/nanaj00_/status/2044068385324224988/photo/1",
+          "media_key": "3_2044068380697866246",
+          "start": 14,
+          "url": "https://t.co/zNW4piAuFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044293661190680725",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 487
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044068385324224988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaj00_: https://t.co/zNW4piAuFG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044068380697866246",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF39XMAasAYoxME.jpg",
+        "width": 263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044068380697866246"
+          ],
+          "media_source_tweet_id": [
+            "2044068385324224988"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2044293661190680725",
+        "created_at": "2026-04-15T05:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044293661190680725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827203342436855812",
+              "start": 3,
+              "username": "nanaj00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNW4piAuFG",
+              "end": 37,
+              "expanded_url": "https://x.com/nanaj00_/status/2044068385324224988/photo/1",
+              "media_key": "3_2044068380697866246",
+              "start": 14,
+              "url": "https://t.co/zNW4piAuFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044293661190680725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 487
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044068385324224988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaj00_: https://t.co/zNW4piAuFG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044068380697866246"
+          ]
+        },
+        "author_id": "1827203342436855812",
+        "conversation_id": "2044068385324224988",
+        "created_at": "2026-04-14T15:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044068385324224988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNW4piAuFG",
+              "end": 23,
+              "expanded_url": "https://x.com/nanaj00_/status/2044068385324224988/photo/1",
+              "media_key": "3_2044068380697866246",
+              "start": 0,
+              "url": "https://t.co/zNW4piAuFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044068385324224988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 231,
+          "impression_count": 27419,
+          "like_count": 3677,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 487
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zNW4piAuFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2043281393208230140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 733,
+          "like_count": 4481,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2457
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "ななじです。ニディガ描きます໒꒱┊︎Dreamcore・パロ 色々┊︎ご依頼はskebまたはDMまで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nanas70",
+                "end": 23,
+                "expanded_url": "https://lit.link/nanas70",
+                "start": 0,
+                "url": "https://t.co/CsyqLwBTOx"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "location": "AI・トレス・無断転載・参考×",
+        "name": "七時",
+        "pinned_tweet_id": "2044038081477812711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042269134206164992/v1fKb_OR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5665,
+          "following_count": 31,
+          "like_count": 30397,
+          "listed_count": 10,
+          "media_count": 24,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/CsyqLwBTOx",
+        "username": "nanaj00_",
+        "verified": false
+      }
+    ]
+  }
+}

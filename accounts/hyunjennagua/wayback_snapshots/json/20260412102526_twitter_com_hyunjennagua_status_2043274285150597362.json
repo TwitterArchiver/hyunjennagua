@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980069907036262400"
+      ],
+      "media_source_tweet_id": [
+        "1980070006689062936"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2043274285150597362",
+    "created_at": "2026-04-12T10:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043274285150597362"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 20,
+          "tag": "shtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1678176956628582400",
+          "start": 3,
+          "username": "iwanttoddiieee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zI1lp3b9Th",
+          "end": 50,
+          "expanded_url": "https://x.com/iwanttoddiieee/status/1980070006689062936/video/1",
+          "media_key": "13_1980069907036262400",
+          "start": 27,
+          "url": "https://t.co/zI1lp3b9Th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043274285150597362",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980070006689062936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iwanttoddiieee: #shtwt https://t.co/zI1lp3b9Th"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9379,
+        "height": 720,
+        "media_key": "13_1980069907036262400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980069907036262400/img/pTTtPAx8aVFG2awX.jpg",
+        "public_metrics": {
+          "view_count": 31714
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980069907036262400/vid/avc1/360x270/CFY8Oo4IlnbqVEvU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980069907036262400/vid/avc1/480x360/IbQeVORjcaWfiMMZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980069907036262400/vid/avc1/960x720/7e6h8FHnXdCXBFds.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980069907036262400/pl/TBWijf-zcGxILZib.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980069907036262400"
+          ],
+          "media_source_tweet_id": [
+            "1980070006689062936"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2043274285150597362",
+        "created_at": "2026-04-12T10:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043274285150597362"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "shtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1678176956628582400",
+              "start": 3,
+              "username": "iwanttoddiieee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zI1lp3b9Th",
+              "end": 50,
+              "expanded_url": "https://x.com/iwanttoddiieee/status/1980070006689062936/video/1",
+              "media_key": "13_1980069907036262400",
+              "start": 27,
+              "url": "https://t.co/zI1lp3b9Th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043274285150597362",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980070006689062936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iwanttoddiieee: #shtwt https://t.co/zI1lp3b9Th"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980069907036262400"
+          ]
+        },
+        "author_id": "1678176956628582400",
+        "conversation_id": "1980070006689062936",
+        "created_at": "2025-10-20T00:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980070006689062936"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zI1lp3b9Th",
+              "end": 30,
+              "expanded_url": "https://x.com/iwanttoddiieee/status/1980070006689062936/video/1",
+              "media_key": "13_1980069907036262400",
+              "start": 7,
+              "url": "https://t.co/zI1lp3b9Th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980070006689062936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 307,
+          "impression_count": 75963,
+          "like_count": 1493,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt https://t.co/zI1lp3b9Th"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 710,
+          "like_count": 4379,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-09T22:59:18.000Z",
+        "description": "",
+        "id": "1678176956628582400",
+        "name": "…..",
+        "pinned_tweet_id": "1891303341604409467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933118687533285376/EN2V4wVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 94,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1183
+        },
+        "username": "iwanttoddiieee",
+        "verified": false
+      }
+    ]
+  }
+}

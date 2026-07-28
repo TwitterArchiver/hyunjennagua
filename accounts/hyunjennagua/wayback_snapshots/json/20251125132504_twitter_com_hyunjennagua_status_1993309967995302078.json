@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "1993301350860603553",
+    "created_at": "2025-11-25T13:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993309967995302078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1454237262737129476",
+          "start": 0,
+          "username": "fGf8z8Q2MCMjXUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993309967995302078",
+    "in_reply_to_user_id": "1454237262737129476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993309519599050898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fGf8z8Q2MCMjXUV 后悔什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "1993301350860603553",
+        "created_at": "2025-11-25T13:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993309967995302078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1454237262737129476",
+              "start": 0,
+              "username": "fGf8z8Q2MCMjXUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993309967995302078",
+        "in_reply_to_user_id": "1454237262737129476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993309519599050898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fGf8z8Q2MCMjXUV 后悔什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454237262737129476",
+        "conversation_id": "1993301350860603553",
+        "created_at": "2025-11-25T13:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993309519599050898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993309519599050898",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993309047857332694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 未練はないの？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 106,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 161
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-30T00:03:21.000Z",
+        "description": "09",
+        "id": "1454237262737129476",
+        "name": "唐揚げ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836392332394115072/QzwxwN7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 46,
+          "like_count": 5996,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 1111
+        },
+        "username": "fGf8z8Q2MCMjXUV",
+        "verified": false
+      }
+    ]
+  }
+}

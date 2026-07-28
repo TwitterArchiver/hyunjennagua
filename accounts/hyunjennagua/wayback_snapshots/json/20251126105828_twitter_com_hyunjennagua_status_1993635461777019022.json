@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993635443405971456"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1993635461777019022",
+    "created_at": "2025-11-26T10:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993635461777019022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BBT0V8LBMS",
+          "end": 52,
+          "expanded_url": "https://x.com/hyunjennagua/status/1993635461777019022/photo/1",
+          "media_key": "3_1993635443405971456",
+          "start": 29,
+          "url": "https://t.co/BBT0V8LBMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993635461777019022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哪个好宝宝wwww非常感谢！！以后有什么对我的要求尽管提 https://t.co/BBT0V8LBMS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993635443405971456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rQ33_XYAA-mCf.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993635443405971456"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1993635461777019022",
+        "created_at": "2025-11-26T10:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993635461777019022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBT0V8LBMS",
+              "end": 52,
+              "expanded_url": "https://x.com/hyunjennagua/status/1993635461777019022/photo/1",
+              "media_key": "3_1993635443405971456",
+              "start": 29,
+              "url": "https://t.co/BBT0V8LBMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993635461777019022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪个好宝宝wwww非常感谢！！以后有什么对我的要求尽管提 https://t.co/BBT0V8LBMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 111,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 188
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

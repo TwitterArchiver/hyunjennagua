@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2072298941618716684",
+    "created_at": "2026-07-01T12:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072298941618716684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyunjennagua/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/hyunjennagua/status/2072296942131114363",
+          "start": 13,
+          "url": "https://t.co/nn4u9RRgyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072298941618716684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072296942131114363",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么没人😡😡😭😭我要闹了 https://t.co/nn4u9RRgyk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2072298941618716684",
+        "created_at": "2026-07-01T12:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072298941618716684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyunjennagua/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hyunjennagua/status/2072296942131114363",
+              "start": 13,
+              "url": "https://t.co/nn4u9RRgyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072298941618716684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072296942131114363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么没人😡😡😭😭我要闹了 https://t.co/nn4u9RRgyk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2072296942131114363",
+        "created_at": "2026-07-01T12:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072296942131114363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/jennie62981",
+              "end": 23,
+              "expanded_url": "https://ngl.link/jennie62981",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2072297005683183616/gyXBY9JE?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072297005683183616/gyXBY9JE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@jennie: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/jennie62981",
+              "url": "https://t.co/Mc8w0xTl9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072296942131114363",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Mc8w0xTl9o来玩匿名😋😋什么都可以问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2071859776011833409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 985,
+          "like_count": 5971,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

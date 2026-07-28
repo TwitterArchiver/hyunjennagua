@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2030834521105461557",
+    "created_at": "2026-03-09T09:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030932147834323040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913156900306264064",
+          "start": 0,
+          "username": "Ririkayric0407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030932147834323040",
+    "in_reply_to_user_id": "1913156900306264064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030907694874534225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ririkayric0407 来啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2030834521105461557",
+        "created_at": "2026-03-09T09:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030932147834323040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913156900306264064",
+              "start": 0,
+              "username": "Ririkayric0407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030932147834323040",
+        "in_reply_to_user_id": "1913156900306264064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030907694874534225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ririkayric0407 来啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913156900306264064",
+        "conversation_id": "2030834521105461557",
+        "created_at": "2026-03-09T07:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030907694874534225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030907694874534225",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030834521105461557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 申请！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜好闺蜜：@colleen_ab6642｜好友位52纯绿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "colleen_ab6642"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2029078951105314916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 380,
+          "like_count": 2690,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T09:06:12.000Z",
+        "description": "世惨一｜173/50kg｜🚪88给的越多我越喜欢你谢谢",
+        "id": "1913156900306264064",
+        "location": "🚪88",
+        "name": "可儿这个萌",
+        "pinned_tweet_id": "2028568329347363165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024532403365322752/QdiYuMi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 46,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 745
+        },
+        "username": "Ririkayric0407",
+        "verified": false
+      }
+    ]
+  }
+}

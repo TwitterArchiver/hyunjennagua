@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995480523935031296"
+      ],
+      "media_source_tweet_id": [
+        "1995480529127485653"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1996121799847743816",
+    "created_at": "2025-12-03T07:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T08:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996121799847743816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697158457450012672",
+          "start": 3,
+          "username": "ayawo11_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ryev1yxYW5",
+          "end": 42,
+          "expanded_url": "https://x.com/ayawo11_/status/1995480529127485653/photo/1",
+          "media_key": "3_1995480523935031296",
+          "start": 19,
+          "url": "https://t.co/Ryev1yxYW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996121799847743816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995480529127485653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayawo11_: 我每天： https://t.co/Ryev1yxYW5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_1995480523935031296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Fe9slboAARouV.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995480523935031296"
+          ],
+          "media_source_tweet_id": [
+            "1995480529127485653"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "1996121799847743816",
+        "created_at": "2025-12-03T07:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996121799847743816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697158457450012672",
+              "start": 3,
+              "username": "ayawo11_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ryev1yxYW5",
+              "end": 42,
+              "expanded_url": "https://x.com/ayawo11_/status/1995480529127485653/photo/1",
+              "media_key": "3_1995480523935031296",
+              "start": 19,
+              "url": "https://t.co/Ryev1yxYW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996121799847743816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995480529127485653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayawo11_: 我每天： https://t.co/Ryev1yxYW5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995480523935031296"
+          ]
+        },
+        "author_id": "1697158457450012672",
+        "conversation_id": "1995480529127485653",
+        "created_at": "2025-12-01T13:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995480529127485653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ryev1yxYW5",
+              "end": 28,
+              "expanded_url": "https://x.com/ayawo11_/status/1995480529127485653/photo/1",
+              "media_key": "3_1995480523935031296",
+              "start": 5,
+              "url": "https://t.co/Ryev1yxYW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995480529127485653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 45282,
+          "like_count": 2060,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "我每天： https://t.co/Ryev1yxYW5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？）欢迎和我玩！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "1994752534066393196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 139,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜本人素质低下^ ^｜有喜欢的小男生了所以不看私信咪｜置顶推广转发推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aya1136304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aya1136304",
+                "start": 0,
+                "url": "https://t.co/l517hVsKSx"
+              }
+            ]
+          }
+        },
+        "id": "1697158457450012672",
+        "name": "小夜",
+        "pinned_tweet_id": "1988955795581726961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 136,
+          "like_count": 3959,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 2666
+        },
+        "url": "https://t.co/l517hVsKSx",
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}

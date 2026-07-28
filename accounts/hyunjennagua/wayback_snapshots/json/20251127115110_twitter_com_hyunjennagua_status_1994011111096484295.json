@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994011020117848064"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "1994011111096484295",
+    "created_at": "2025-11-27T11:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994011111096484295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cUzoJaxYfq",
+          "end": 23,
+          "expanded_url": "https://x.com/hyunjennagua/status/1994011111096484295/video/1",
+          "media_key": "13_1994011020117848064",
+          "start": 0,
+          "url": "https://t.co/cUzoJaxYfq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994011111096484295",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/cUzoJaxYfq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994011111096484295].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994011111096484295",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994011111096484295"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5041,
+        "height": 970,
+        "media_key": "13_1994011020117848064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994011020117848064/img/sHxSwVldFQfQaR6d.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994011020117848064/vid/avc1/320x430/DMFh6AdMR_-S4U9o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994011020117848064/vid/avc1/480x646/us1ZGjsdMUdZ2q7h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994011020117848064/vid/avc1/720x970/6c8Sufxe-aha0k8U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994011020117848064/pl/r2mXtESNyzbUJ3jP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "互fo(⸝⸝•‧̫•⸝⸝)",
+        "id": "1965246583379034117",
+        "name": "南瓜",
+        "pinned_tweet_id": "1993633187520508332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 114,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 260
+        },
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}

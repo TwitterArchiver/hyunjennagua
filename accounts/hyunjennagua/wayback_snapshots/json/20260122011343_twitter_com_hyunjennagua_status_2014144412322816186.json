@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2014144412322816186",
+    "created_at": "2026-01-22T01:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T02:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014144412322816186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lalice_sora/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/lalice_sora/status/2013828417582747812",
+          "start": 9,
+          "url": "https://t.co/2xKmLynaub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014144412322816186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013828417582747812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人一直在丢脸 https://t.co/2xKmLynaub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013828411182194688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KORS8aoAAsiYu.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2014144412322816186",
+        "created_at": "2026-01-22T01:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T02:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014144412322816186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lalice_sora/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/lalice_sora/status/2013828417582747812",
+              "start": 9,
+              "url": "https://t.co/2xKmLynaub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014144412322816186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013828417582747812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人一直在丢脸 https://t.co/2xKmLynaub"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013828411182194688"
+          ]
+        },
+        "author_id": "1617923186280235014",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2013828417582747812",
+        "created_at": "2026-01-21T04:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013828417582747812"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "中国",
+              "probability": 0.842,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlEObtPw5W",
+              "end": 120,
+              "expanded_url": "https://x.com/lalice_sora/status/2013828417582747812/photo/1",
+              "media_key": "3_2013828411182194688",
+              "start": 97,
+              "url": "https://t.co/tlEObtPw5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013828417582747812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 38728,
+          "like_count": 397,
+          "quote_count": 3,
+          "reply_count": 66,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "怖いデスけど中国のビリビリと言うsnsでめちゃくちゃ私の動画無断転載してる…みんなほとんど怖いとか顔気持ち悪いと言ってる....そんなの見て悲しすぎて泣きました，これからラリスの動画出ない，, https://t.co/tlEObtPw5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "双相情感障碍（bpd？焦虑抑郁 ｜查成分回fo｜梦想是成为大家的小天使｜小号@paiguaidajia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "paiguaidajia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie43333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie43333",
+                "start": 0,
+                "url": "https://t.co/CIziKBo47L"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2002373577467732407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983478533969039360/kPjg1-25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 197,
+          "like_count": 1975,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/CIziKBo47L",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T16:32:18.000Z",
+        "description": "@LaliceParfait で会えます～DM連絡予約のみ受け付けております（＾ω＾）秘密もの🤍@miokarakoto🤍 みんなと最高の時間を過ごしたい",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "LaliceParfait"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "miokarakoto"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lalice.official.ec",
+                "end": 23,
+                "expanded_url": "https://lalice.official.ec/",
+                "start": 0,
+                "url": "https://t.co/CTlYUZgsqA"
+              }
+            ]
+          }
+        },
+        "id": "1617923186280235014",
+        "name": "ソラ💗3月生誕卒業",
+        "pinned_tweet_id": "2013219045231722531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928496046021443584/85po_Kzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7033,
+          "following_count": 82,
+          "like_count": 348,
+          "listed_count": 22,
+          "media_count": 173,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/CTlYUZgsqA",
+        "username": "lalice_sora",
+        "verified": false
+      }
+    ]
+  }
+}
