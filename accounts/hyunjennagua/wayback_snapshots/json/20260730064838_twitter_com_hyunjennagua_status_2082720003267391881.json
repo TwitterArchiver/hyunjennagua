@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082719996330074112",
+        "3_2082719996330082304"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2082720003267391881",
+    "created_at": "2026-07-30T06:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082720003267391881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2020175811878481922",
+          "start": 4,
+          "username": "lei47076"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxYhF9SgEE",
+          "end": 51,
+          "expanded_url": "https://x.com/hyunjennagua/status/2082720003267391881/photo/1",
+          "media_key": "3_2082719996330074112",
+          "start": 28,
+          "url": "https://t.co/kxYhF9SgEE"
+        },
+        {
+          "display_url": "pic.x.com/kxYhF9SgEE",
+          "end": 51,
+          "expanded_url": "https://x.com/hyunjennagua/status/2082720003267391881/photo/1",
+          "media_key": "3_2082719996330082304",
+          "start": 28,
+          "url": "https://t.co/kxYhF9SgEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082720003267391881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢芙兰@lei47076 爱你呀…一直支持我❤️❤️ https://t.co/kxYhF9SgEE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2082719996330074112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdOzUvbYAA0wLi.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1467,
+        "media_key": "3_2082719996330082304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdOzUvbgAA1Zpq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082719996330074112",
+            "3_2082719996330082304"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2082720003267391881",
+        "created_at": "2026-07-30T06:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082720003267391881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2020175811878481922",
+              "start": 4,
+              "username": "lei47076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxYhF9SgEE",
+              "end": 51,
+              "expanded_url": "https://x.com/hyunjennagua/status/2082720003267391881/photo/1",
+              "media_key": "3_2082719996330074112",
+              "start": 28,
+              "url": "https://t.co/kxYhF9SgEE"
+            },
+            {
+              "display_url": "pic.x.com/kxYhF9SgEE",
+              "end": 51,
+              "expanded_url": "https://x.com/hyunjennagua/status/2082720003267391881/photo/1",
+              "media_key": "3_2082719996330082304",
+              "start": 28,
+              "url": "https://t.co/kxYhF9SgEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082720003267391881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢芙兰@lei47076 爱你呀…一直支持我❤️❤️ https://t.co/kxYhF9SgEE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2082398500755779851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 1110,
+          "like_count": 9022,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 4139
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T16:40:35.000Z",
+        "description": "唔？你是来找芙兰玩的吗？欢迎哦～\n只不过要注意安全哦～嘻（坏笑）\n因为芙兰不定时上线，所以为了防止你在芙兰这里做坏事我特地派一只小鹦鹉看着你哦～要乖乖的哦。\n◝(⑅•ᴗ•⑅)◜..°♡",
+        "id": "2020175811878481922",
+        "location": "红魔馆-地下室",
+        "name": "斯卡雷特-芙兰朵露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033375636363030528/TUfSM7jf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 32,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 671
+        },
+        "url": "",
+        "username": "lei47076",
+        "verified": false
+      }
+    ]
+  }
+}

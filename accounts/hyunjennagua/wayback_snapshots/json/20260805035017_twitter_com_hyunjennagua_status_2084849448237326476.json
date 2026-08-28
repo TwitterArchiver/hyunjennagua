@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2084746776238789088",
+    "created_at": "2026-08-05T03:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084849448237326476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927827236872409090",
+          "start": 0,
+          "username": "mychoice0402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084849448237326476",
+    "in_reply_to_user_id": "1927827236872409090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084746776238789088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mychoice0402 好美！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14023,
+        "height": 1280,
+        "media_key": "13_2084746719183720448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084746719183720448/img/2h-FmGFKDCXRRm7o.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084746719183720448/vid/avc1/320x568/Me1GGErLbqTup5_j.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084746719183720448/vid/avc1/480x852/48MeFTT_7hKoB6kp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084746719183720448/vid/avc1/720x1280/hmc2X2LxQ4pZaTBV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084746719183720448/pl/CL9_2BFQzGI8ST0q.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2084746776238789088",
+        "created_at": "2026-08-05T03:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084849448237326476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927827236872409090",
+              "start": 0,
+              "username": "mychoice0402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084849448237326476",
+        "in_reply_to_user_id": "1927827236872409090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084746776238789088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mychoice0402 好美！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084746719183720448"
+          ]
+        },
+        "author_id": "1927827236872409090",
+        "conversation_id": "2084746776238789088",
+        "created_at": "2026-08-04T21:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084746776238789088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FUrmugmAz",
+              "end": 48,
+              "expanded_url": "https://x.com/mychoice0402/status/2084746776238789088/video/1",
+              "media_key": "13_2084746719183720448",
+              "start": 25,
+              "url": "https://t.co/5FUrmugmAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084746776238789088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像是前两天录的改花刀。喝大了根本没割几下乐子吧 https://t.co/5FUrmugmAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2082398500755779851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 1124,
+          "like_count": 9051,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 4213
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T20:40:15.000Z",
+        "description": "爱因爱太过沉重而拒绝理解爱",
+        "id": "1927827236872409090",
+        "name": "莫失莫忘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072460079912370176/hymWo_hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 29,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "mychoice0402",
+        "verified": false
+      }
+    ]
+  }
+}

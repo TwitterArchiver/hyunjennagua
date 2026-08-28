@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2088891963282264323",
+    "created_at": "2026-08-16T10:17:50.000Z",
+    "display_text_range": [
+      10,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088933244863725962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1438420916518539267",
+          "start": 0,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088933244863725962",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088891963282264323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@200x0x1x tm气死我了 你个bz能不能有一个自我定位的清楚认知 无论是体能上还是智商 男性都是有压倒性优势 一拳打你身上 你个bz要缓多久？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2088891963282264323",
+        "created_at": "2026-08-16T10:17:50.000Z",
+        "display_text_range": [
+          10,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088933244863725962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088933244863725962",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088891963282264323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x tm气死我了 你个bz能不能有一个自我定位的清楚认知 无论是体能上还是智商 男性都是有压倒性优势 一拳打你身上 你个bz要缓多久？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2088891963282264323",
+        "created_at": "2026-08-16T07:33:48.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088891963282264323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kinoko4985/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/kinoko4985/status/2088889536671855059",
+              "start": 66,
+              "url": "https://t.co/uEkHq94nfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088891963282264323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 848,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088889536671855059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tm气死我了 你个bz能不能有一个自我定位的清楚认知 无论是体能上还是智商 男性都是有压倒性优势 一拳打你身上 你个bz要缓多久？ https://t.co/uEkHq94nfJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2088933244863725962",
+        "name": "南瓜（绝望中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 1153,
+          "like_count": 10097,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 4479
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUPL07"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "is_identity_verified": false,
+        "location": "UChicago",
+        "most_recent_tweet_id": "2088924380147728600",
+        "name": "你们毁了一个萌系的女孩",
+        "pinned_tweet_id": "2088605362836647952",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1438420916518539267/1781583624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088192644644278273/_npUso6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 679,
+          "like_count": 29204,
+          "listed_count": 9,
+          "media_count": 2568,
+          "tweet_count": 28342
+        },
+        "url": "https://t.co/OblpvUPL07",
+        "username": "200x0x1x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

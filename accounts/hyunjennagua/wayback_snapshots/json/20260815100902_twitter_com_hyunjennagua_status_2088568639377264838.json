@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088173941416415232"
+      ],
+      "media_source_tweet_id": [
+        "2088173980587028757"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2088568639377264838",
+    "created_at": "2026-08-15T10:09:02.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088568639377264838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2078378673309396993",
+          "start": 3,
+          "username": "Acetaffyismydad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ymJ65t5nqH",
+          "end": 53,
+          "expanded_url": "https://x.com/Acetaffyismydad/status/2088173980587028757/video/1",
+          "media_key": "13_2088173941416415232",
+          "start": 30,
+          "url": "https://t.co/ymJ65t5nqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088568639377264838",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2088173941416415232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088173980587028757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Acetaffyismydad: 善良的幼年孙笑川 https://t.co/ymJ65t5nqH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24823,
+        "height": 1280,
+        "media_key": "13_2088173941416415232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088173941416415232/img/io4od_fv4OqluXrR.jpg",
+        "public_metrics": {
+          "view_count": 7722
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088173941416415232/vid/avc1/320x690/-LtG_KTLE9FUdD8i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088173941416415232/vid/avc1/480x1036/fzlomxyzG-f-pCod.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088173941416415232/vid/avc1/592x1280/K3Iz8uDtSJWHml8H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088173941416415232/pl/UyxSpSS9mUVKC26W.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088173941416415232"
+          ],
+          "media_source_tweet_id": [
+            "2088173980587028757"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2088568639377264838",
+        "created_at": "2026-08-15T10:09:02.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088568639377264838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2078378673309396993",
+              "start": 3,
+              "username": "Acetaffyismydad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ymJ65t5nqH",
+              "end": 53,
+              "expanded_url": "https://x.com/Acetaffyismydad/status/2088173980587028757/video/1",
+              "media_key": "13_2088173941416415232",
+              "start": 30,
+              "url": "https://t.co/ymJ65t5nqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088568639377264838",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088173941416415232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088173980587028757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Acetaffyismydad: 善良的幼年孙笑川 https://t.co/ymJ65t5nqH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088173941416415232"
+          ]
+        },
+        "author_id": "2078378673309396993",
+        "conversation_id": "2088173980587028757",
+        "created_at": "2026-08-14T08:00:48.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088173980587028757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ymJ65t5nqH",
+              "end": 32,
+              "expanded_url": "https://x.com/Acetaffyismydad/status/2088173980587028757/video/1",
+              "media_key": "13_2088173941416415232",
+              "start": 9,
+              "url": "https://t.co/ymJ65t5nqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088173980587028757",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088173941416415232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 12825,
+          "like_count": 178,
+          "quote_count": 3,
+          "reply_count": 51,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "善良的幼年孙笑川 https://t.co/ymJ65t5nqH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2088568639377264838",
+        "name": "南瓜（绝望中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 1157,
+          "like_count": 9973,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 4436
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T07:19:53.000Z",
+        "description": "雏草姬/普高做题家/INTJ/8+1轻度依赖/不o/不🔪🩸/精神状态?   只反对一些立场错误的极端群体，对大部分人都友好 有兴趣的互fo喵！",
+        "id": "2078378673309396993",
+        "is_identity_verified": false,
+        "location": "永雏塔菲生产基地",
+        "most_recent_tweet_id": "2088561111100543224",
+        "name": "永雛塔菲是我叠喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078378673309396993/1784366082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078379485150494720/0Te-3fsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 277,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "Acetaffyismydad",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

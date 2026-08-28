@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2082046469947957659",
+    "created_at": "2026-07-28T10:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082046469947957659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2068987226487496704",
+          "start": 3,
+          "username": "KurokisamaTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082046469947957659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081345416386535588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KurokisamaTvT: 大家 这是黒木的公开账户！互关回家谢谢！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2082046469947957659",
+        "created_at": "2026-07-28T10:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082046469947957659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2068987226487496704",
+              "start": 3,
+              "username": "KurokisamaTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082046469947957659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081345416386535588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KurokisamaTvT: 大家 这是黒木的公开账户！互关回家谢谢！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068987226487496704",
+        "conversation_id": "2081345416386535588",
+        "created_at": "2026-07-26T11:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081345416386535588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081345416386535588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家 这是黒木的公开账户！互关回家谢谢！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2077258617074704666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 1108,
+          "like_count": 8987,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 4109
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T09:20:29.000Z",
+        "description": "拙い日々 でもこれで良い\n是@kuroki___tomoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "kuroki___tomoko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/d751NkSejH"
+              }
+            ]
+          }
+        },
+        "id": "2068987226487496704",
+        "location": "真夜中",
+        "name": "夢見ノ黒木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080697836392587264/3quFL8dD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 143,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/d751NkSejH",
+        "username": "KurokisamaTvT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084855177274908672"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2084855185491550373",
+    "created_at": "2026-08-05T04:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084855185491550373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2082124926375649280",
+          "start": 6,
+          "username": "Yuki281331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OkqLTgzIG5",
+          "end": 41,
+          "expanded_url": "https://x.com/hyunjennagua/status/2084855185491550373/photo/1",
+          "media_key": "3_2084855177274908672",
+          "start": 18,
+          "url": "https://t.co/OkqLTgzIG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084855185491550373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢岐哥！！@Yuki281331 https://t.co/OkqLTgzIG5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084855177274908672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7kvNma4AA54nv.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084855177274908672"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2084855185491550373",
+        "created_at": "2026-08-05T04:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084855185491550373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2082124926375649280",
+              "start": 6,
+              "username": "Yuki281331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkqLTgzIG5",
+              "end": 41,
+              "expanded_url": "https://x.com/hyunjennagua/status/2084855185491550373/photo/1",
+              "media_key": "3_2084855177274908672",
+              "start": 18,
+              "url": "https://t.co/OkqLTgzIG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084855185491550373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢岐哥！！@Yuki281331 https://t.co/OkqLTgzIG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2082398500755779851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 1124,
+          "like_count": 9057,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 4215
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n男。邦舟农。我是脑残对不起理解一下。友好中立。可交流。会水贴。会视奸。没回fo是太诡异了不敢回或ban了没看见对不起可以私我。医生我的神经真的有点痛。\n@Yuki312813 坠机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 227,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

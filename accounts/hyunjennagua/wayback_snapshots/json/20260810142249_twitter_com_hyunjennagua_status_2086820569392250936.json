@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2086462204732412274",
+    "created_at": "2026-08-10T14:22:49.000Z",
+    "display_text_range": [
+      15,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086820569392250936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086820569392250936",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086462204732412274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 没关系的呀兔兔大家的关心都是自愿的 比起你天天发负面文案 不发才更让人感到担心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2086462204732412274",
+        "created_at": "2026-08-10T14:22:49.000Z",
+        "display_text_range": [
+          15,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086820569392250936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086820569392250936",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086462204732412274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 没关系的呀兔兔大家的关心都是自愿的 比起你天天发负面文案 不发才更让人感到担心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2086462204732412274",
+        "created_at": "2026-08-09T14:38:48.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086462204732412274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086462204732412274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得...我一直想和大家说谢谢你们。\n自从我开始发布负面的推文，就有好多人来关心我。谢谢大家。\n真的谢谢...那个，真的超级谢谢的说。\n只是，任何人的注意力和精力都是有限的...所以大家额外分配给我的关照，我真的不胜感激。\n只是...只是...我好害怕有一天关照我的大家会讨厌我。我总是想，以后不要发负面的推文了，看见大家安慰我的话...我只会重复着道谢，也没有任何可以给大家表示心意的礼物。我觉得，我觉得...\n而且，我并不是会改变的人...我可能就是这样了，总是想着不好的事情，还要说出来。\n对我这样的人给予关照其实是不值得也没有用处的行为...我好难过，因为我总是辜负和浪费大家的好意。对不起...我真的是一个很坏很坏的人。\n我最近好迷糊，头也痛，说话都不清楚了...\n我只是觉得，接受他人的任何东西，作为我来说，都是一件不好的，会给别人麻烦的事情。\n无论怎样谢谢你。谢谢你...呜，我的帖子一定很难读。\n不要再在我这种人身上浪费时间了...我总觉得我在消耗大家，事实也的确如此。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1271,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得...我一直想和大家说谢谢你们。\n自从我开始发布负面的推文，就有好多人来关心我。谢谢大家。\n真的谢谢...那个，真的超级谢谢的说。\n只是，任何人的注意力和精力都是有限的...所以大家额外分配给我的关照，我真的不胜感激。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2086820569392250936",
+        "name": "南瓜（绝望中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 1149,
+          "like_count": 9652,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 4340
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086807799926018546",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904731881817735168/1784026484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 623,
+          "like_count": 32457,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1082
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

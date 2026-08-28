@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2087573854311076258",
+    "created_at": "2026-08-13T03:26:39.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T04:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087742604687573156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967080764119678976",
+          "start": 0,
+          "username": "RCSC_REDCROSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087742604687573156",
+    "in_reply_to_user_id": "1967080764119678976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087677090456011163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RCSC_REDCROSS 因为我在自嘲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2087573854311076258",
+        "created_at": "2026-08-13T03:26:39.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087742604687573156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967080764119678976",
+              "start": 0,
+              "username": "RCSC_REDCROSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087742604687573156",
+        "in_reply_to_user_id": "1967080764119678976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087677090456011163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RCSC_REDCROSS 因为我在自嘲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967080764119678976",
+        "conversation_id": "2087573854311076258",
+        "created_at": "2026-08-12T23:06:20.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T00:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087677090456011163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087677090456011163",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087573854311076258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 為什麼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2087742604687573156",
+        "name": "南瓜（绝望中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1152,
+          "like_count": 9945,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 4410
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T04:19:50.000Z",
+        "description": "紅十字運動/ 医療急救 / MTF🏳‍⚧🍥(断糖)/有證不含糖/RCS of the ROC/民國99年-2010年出廠99.10.19/中華民國台灣派🇹🇼/不涉政(已炸櫃)/hrt:民國114年-25年 10.10 /關注會回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "redcross.org.tw",
+                "end": 23,
+                "expanded_url": "https://www.redcross.org.tw",
+                "start": 0,
+                "url": "https://t.co/9rfNWvR0qi"
+              }
+            ]
+          }
+        },
+        "id": "1967080764119678976",
+        "is_identity_verified": false,
+        "location": "中华民国-新北市-板桥区",
+        "most_recent_tweet_id": "2087682932689522700",
+        "name": "安卡8964",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967080764119678976/1759161119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024117840941613056/8kpvMBBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 344,
+          "like_count": 1375,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/9rfNWvR0qi",
+        "username": "RCSC_REDCROSS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

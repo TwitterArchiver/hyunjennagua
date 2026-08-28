@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2085671303194062945",
+    "created_at": "2026-08-07T10:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085671303194062945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mintink3/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/mintink3/status/2085379326988714329",
+          "start": 4,
+          "url": "https://t.co/0QtIBgQpyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085671303194062945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085379326988714329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "od区 https://t.co/0QtIBgQpyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085379319698960384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDBcUSaMAAV9bt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2085671303194062945",
+        "created_at": "2026-08-07T10:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085671303194062945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mintink3/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/mintink3/status/2085379326988714329",
+              "start": 4,
+              "url": "https://t.co/0QtIBgQpyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085671303194062945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085379326988714329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "od区 https://t.co/0QtIBgQpyH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085379319698960384"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2085379326988714329",
+        "created_at": "2026-08-06T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085379326988714329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLBRDCBewA",
+              "end": 139,
+              "expanded_url": "https://x.com/Mintink3/status/2085379326988714329/photo/1",
+              "media_key": "3_2085379319698960384",
+              "start": 116,
+              "url": "https://t.co/YLBRDCBewA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085379326988714329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 25504,
+          "like_count": 160,
+          "quote_count": 8,
+          "reply_count": 44,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我发现小区的有害垃圾桶里的药盒子里面都不是空的 ，而且这些药基本都没有过期 \n！如果我想省点钱 ，可以直接回收里面的舍曲林 奥美拉挫 （抗胃酸）左西替利嗪（治疗过敏）甚至还有阿普唑仑  我打算等晚点再去翻翻，底下说不定还有更好的药 https://t.co/YLBRDCBewA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 1133,
+          "like_count": 9351,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 4261
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 843,
+          "like_count": 6394,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082720173157711872"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2082720180665553163",
+    "created_at": "2026-07-30T06:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082720180665553163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685284677605597184",
+          "start": 0,
+          "username": "miiikuhatsure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/33IXyh2jKa",
+          "end": 59,
+          "expanded_url": "https://x.com/hyunjennagua/status/2082720180665553163/photo/1",
+          "media_key": "3_2082720173157711872",
+          "start": 36,
+          "url": "https://t.co/33IXyh2jKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082720180665553163",
+    "in_reply_to_user_id": "1685284677605597184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@miiikuhatsure 也谢谢你呀你也一直支持我www好感动的说 https://t.co/33IXyh2jKa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2082720173157711872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdO9nebAAAPjDD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082720173157711872"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2082720180665553163",
+        "created_at": "2026-07-30T06:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082720180665553163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685284677605597184",
+              "start": 0,
+              "username": "miiikuhatsure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/33IXyh2jKa",
+              "end": 59,
+              "expanded_url": "https://x.com/hyunjennagua/status/2082720180665553163/photo/1",
+              "media_key": "3_2082720173157711872",
+              "start": 36,
+              "url": "https://t.co/33IXyh2jKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082720180665553163",
+        "in_reply_to_user_id": "1685284677605597184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@miiikuhatsure 也谢谢你呀你也一直支持我www好感动的说 https://t.co/33IXyh2jKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2082398500755779851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 1110,
+          "like_count": 9022,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 4140
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T13:42:45.000Z",
+        "description": "我们必须想象西西弗斯是幸福的",
+        "id": "1685284677605597184",
+        "location": "距離您0.1km",
+        "name": "༼´༎ຶ𓂏༎ຶ༽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055715997315960832/gpMquT_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 350,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1376
+        },
+        "url": "",
+        "username": "miiikuhatsure",
+        "verified": false
+      }
+    ]
+  }
+}

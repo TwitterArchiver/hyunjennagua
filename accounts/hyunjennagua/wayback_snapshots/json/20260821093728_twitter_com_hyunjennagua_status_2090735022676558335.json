@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089974932461817856"
+      ],
+      "media_source_tweet_id": [
+        "2089974993639903386"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2090735022676558335",
+    "created_at": "2026-08-21T09:37:28.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090735022676558335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728639162754936832",
+          "start": 3,
+          "username": "guaisss326"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v9FU15M03o",
+          "end": 73,
+          "expanded_url": "https://x.com/lover_ning/status/2089974993639903386/video/1",
+          "media_key": "13_2089974932461817856",
+          "start": 50,
+          "url": "https://t.co/v9FU15M03o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090735022676558335",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2089974932461817856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 275
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090069708087480714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guaisss326: 我特么每次看这个都要笑崩溃了啊，宙斯之子和这个是我今年笑的最崩溃的 https://t.co/v9FU15M03o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27228,
+        "height": 1198,
+        "media_key": "13_2089974932461817856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089974932461817856/img/m297zlC30Ece1bHh.jpg",
+        "public_metrics": {
+          "view_count": 277987
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089974932461817856/vid/avc1/320x532/Xr3eNcOlUOGx0MC7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089974932461817856/vid/avc1/480x798/McFMe8zlknk8vDvE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089974932461817856/vid/avc1/720x1198/nwhtiKRQ2OTw5nDw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089974932461817856/pl/YFUesL-lE6OAWZP1.m3u8?v=170"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089974932461817856"
+          ],
+          "media_source_tweet_id": [
+            "2089974993639903386"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2090735022676558335",
+        "created_at": "2026-08-21T09:37:28.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090735022676558335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728639162754936832",
+              "start": 3,
+              "username": "guaisss326"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9FU15M03o",
+              "end": 73,
+              "expanded_url": "https://x.com/lover_ning/status/2089974993639903386/video/1",
+              "media_key": "13_2089974932461817856",
+              "start": 50,
+              "url": "https://t.co/v9FU15M03o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090735022676558335",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089974932461817856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090069708087480714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guaisss326: 我特么每次看这个都要笑崩溃了啊，宙斯之子和这个是我今年笑的最崩溃的 https://t.co/v9FU15M03o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089974932461817856"
+          ],
+          "media_source_tweet_id": [
+            "2089974993639903386"
+          ]
+        },
+        "author_id": "1728639162754936832",
+        "conversation_id": "2090069708087480714",
+        "created_at": "2026-08-19T13:33:44.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090069708087480714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9FU15M03o",
+              "end": 57,
+              "expanded_url": "https://x.com/lover_ning/status/2089974993639903386/video/1",
+              "media_key": "13_2089974932461817856",
+              "start": 34,
+              "url": "https://t.co/v9FU15M03o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090069708087480714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089974932461817856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 693,
+          "impression_count": 355536,
+          "like_count": 3677,
+          "quote_count": 106,
+          "reply_count": 372,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "我特么每次看这个都要笑崩溃了啊，宙斯之子和这个是我今年笑的最崩溃的 https://t.co/v9FU15M03o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089974932461817856"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2089974993639903386",
+        "created_at": "2026-08-19T07:17:22.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089974993639903386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjUiGMxqAF",
+              "end": 36,
+              "expanded_url": "https://x.com/lover_ning/status/2089974993639903386/video/1",
+              "media_key": "13_2089974932461817856",
+              "start": 13,
+              "url": "https://t.co/AjUiGMxqAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089974993639903386",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089974932461817856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 319382,
+          "like_count": 1530,
+          "quote_count": 54,
+          "reply_count": 156,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "再看一次还是笑得好难受… https://t.co/AjUiGMxqAF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2090735022676558335",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 1155,
+          "like_count": 10107,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 4543
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-26T04:57:58.000Z",
+        "description": "日记本 我爱发就啥发啥",
+        "id": "1728639162754936832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090690244958183503",
+        "name": "怪怪",
+        "pinned_tweet_id": "2085396518803038244",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728639162754936832/1786200217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086099333368221696/PHRGCyq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 13,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "guaisss326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

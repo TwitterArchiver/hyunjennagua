@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2084153617066705366",
+    "created_at": "2026-08-03T09:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084204964226965667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830213377052037120",
+          "start": 0,
+          "username": "jiu_yokki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084204964226965667",
+    "in_reply_to_user_id": "1830213377052037120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084153617066705366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_yokki 好漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084153604395704320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxmqS9bIAAHuzW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2084153604404051968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxmqS_agAAPbPy.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2084153617066705366",
+        "created_at": "2026-08-03T09:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084204964226965667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830213377052037120",
+              "start": 0,
+              "username": "jiu_yokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084204964226965667",
+        "in_reply_to_user_id": "1830213377052037120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084153617066705366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_yokki 好漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084153604395704320",
+            "3_2084153604404051968"
+          ]
+        },
+        "author_id": "1830213377052037120",
+        "conversation_id": "2084153617066705366",
+        "created_at": "2026-08-03T05:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084153617066705366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQBPIxt2Sm",
+              "end": 34,
+              "expanded_url": "https://x.com/jiu_yokki/status/2084153617066705366/photo/1",
+              "media_key": "3_2084153604395704320",
+              "start": 11,
+              "url": "https://t.co/uQBPIxt2Sm"
+            },
+            {
+              "display_url": "pic.x.com/uQBPIxt2Sm",
+              "end": 34,
+              "expanded_url": "https://x.com/jiu_yokki/status/2084153617066705366/photo/1",
+              "media_key": "3_2084153604404051968",
+              "start": 11,
+              "url": "https://t.co/uQBPIxt2Sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084153617066705366",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "me and me！ https://t.co/uQBPIxt2Sm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2082398500755779851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 1121,
+          "like_count": 8990,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 4187
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T11:57:39.000Z",
+        "description": "叫我小玖就好｜精分｜躁郁\ndm欢迎   互关直fo看成分回",
+        "id": "1830213377052037120",
+        "name": "Namida",
+        "pinned_tweet_id": "2082387245776945496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084155426950762496/u0wVs8XF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 146,
+          "like_count": 2063,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "jiu_yokki",
+        "verified": false
+      }
+    ]
+  }
+}

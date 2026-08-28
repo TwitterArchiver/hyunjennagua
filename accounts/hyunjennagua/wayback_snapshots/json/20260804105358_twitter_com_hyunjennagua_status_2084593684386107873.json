@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084593606208487424",
+        "3_2084593606208409600"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2084299130218983822",
+    "created_at": "2026-08-04T10:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084593684386107873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730251057316737024",
+          "start": 0,
+          "username": "SRamirez66171"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhwMPnxTD8",
+          "end": 60,
+          "expanded_url": "https://x.com/hyunjennagua/status/2084593684386107873/photo/1",
+          "media_key": "3_2084593606208487424",
+          "start": 37,
+          "url": "https://t.co/rhwMPnxTD8"
+        },
+        {
+          "display_url": "pic.x.com/rhwMPnxTD8",
+          "end": 60,
+          "expanded_url": "https://x.com/hyunjennagua/status/2084593684386107873/photo/1",
+          "media_key": "3_2084593606208409600",
+          "start": 37,
+          "url": "https://t.co/rhwMPnxTD8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084593684386107873",
+    "in_reply_to_user_id": "1730251057316737024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084299130218983822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SRamirez66171 我这个号因为这个原因被封了两三回都申回来了 https://t.co/rhwMPnxTD8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084593606208487424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO321xcbgAA2qVt.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084593606208409600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO321xcaUAALf7p.jpg",
+        "width": 946
+      },
+      {
+        "height": 871,
+        "media_key": "3_2084298938673434624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzq13VakAATst3.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084593606208487424",
+            "3_2084593606208409600"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2084299130218983822",
+        "created_at": "2026-08-04T10:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084593684386107873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730251057316737024",
+              "start": 0,
+              "username": "SRamirez66171"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhwMPnxTD8",
+              "end": 60,
+              "expanded_url": "https://x.com/hyunjennagua/status/2084593684386107873/photo/1",
+              "media_key": "3_2084593606208487424",
+              "start": 37,
+              "url": "https://t.co/rhwMPnxTD8"
+            },
+            {
+              "display_url": "pic.x.com/rhwMPnxTD8",
+              "end": 60,
+              "expanded_url": "https://x.com/hyunjennagua/status/2084593684386107873/photo/1",
+              "media_key": "3_2084593606208409600",
+              "start": 37,
+              "url": "https://t.co/rhwMPnxTD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084593684386107873",
+        "in_reply_to_user_id": "1730251057316737024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084299130218983822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SRamirez66171 我这个号因为这个原因被封了两三回都申回来了 https://t.co/rhwMPnxTD8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084298938673434624"
+          ]
+        },
+        "author_id": "1730251057316737024",
+        "conversation_id": "2084299130218983822",
+        "created_at": "2026-08-03T15:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084299130218983822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVdd0mFPl1",
+              "end": 55,
+              "expanded_url": "https://x.com/SRamirez66171/status/2084299130218983822/photo/1",
+              "media_key": "3_2084298938673434624",
+              "start": 32,
+              "url": "https://t.co/sVdd0mFPl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084299130218983822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1748,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注意！如果是因为这个原因封的基本申诉不回来！发推记得三思➕叠甲 https://t.co/sVdd0mFPl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2082398500755779851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 1119,
+          "like_count": 9033,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 4210
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083442331383177351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 244,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

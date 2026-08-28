@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2088571720638824573",
+    "created_at": "2026-08-15T11:57:43.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088595991129960894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1619606197723856901",
+          "start": 0,
+          "username": "Tokino_Yui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088595991129960894",
+    "in_reply_to_user_id": "1619606197723856901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088571720638824573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tokino_Yui 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22851,
+        "height": 1280,
+        "media_key": "13_2088571590674145280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088571590674145280/img/9-0HBcPBkpPij15Y.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088571590674145280/vid/avc1/320x568/68e-RMVqsUd0ssqH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088571590674145280/vid/avc1/480x852/q_sH862c8MLny_iE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088571590674145280/vid/avc1/720x1280/L9iQNvLEroLERRft.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088571590674145280/pl/Ww2G_y7d3479xV5l.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2088571590669942785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwYy8XawAEcxd1.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2088571590930026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwYy9VbUAAr7n_.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2088571590607069184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwYy8IbYAAsbpi.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2088571720638824573",
+        "created_at": "2026-08-15T11:57:43.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088595991129960894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1619606197723856901",
+              "start": 0,
+              "username": "Tokino_Yui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088595991129960894",
+        "in_reply_to_user_id": "1619606197723856901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088571720638824573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tokino_Yui 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088571590674145280",
+            "3_2088571590669942785",
+            "3_2088571590930026496",
+            "3_2088571590607069184"
+          ]
+        },
+        "author_id": "1619606197723856901",
+        "conversation_id": "2088571720638824573",
+        "created_at": "2026-08-15T10:21:16.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088571720638824573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9uaFQjnjJ5",
+              "end": 32,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2088571720638824573/video/1",
+              "media_key": "13_2088571590674145280",
+              "start": 9,
+              "url": "https://t.co/9uaFQjnjJ5"
+            },
+            {
+              "display_url": "pic.x.com/9uaFQjnjJ5",
+              "end": 32,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2088571720638824573/video/1",
+              "media_key": "3_2088571590669942785",
+              "start": 9,
+              "url": "https://t.co/9uaFQjnjJ5"
+            },
+            {
+              "display_url": "pic.x.com/9uaFQjnjJ5",
+              "end": 32,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2088571720638824573/video/1",
+              "media_key": "3_2088571590930026496",
+              "start": 9,
+              "url": "https://t.co/9uaFQjnjJ5"
+            },
+            {
+              "display_url": "pic.x.com/9uaFQjnjJ5",
+              "end": 32,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2088571720638824573/video/1",
+              "media_key": "3_2088571590607069184",
+              "start": 9,
+              "url": "https://t.co/9uaFQjnjJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088571720638824573",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088571590674145280"
+          },
+          {
+            "media_key": "3_2088571590669942785"
+          },
+          {
+            "media_key": "3_2088571590930026496"
+          },
+          {
+            "media_key": "3_2088571590607069184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我获得了一个小狗 https://t.co/9uaFQjnjJ5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2088595991129960894",
+        "name": "南瓜（绝望中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 1157,
+          "like_count": 10040,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 4447
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-29T08:00:04.000Z",
+        "description": "可以叫我小唯/08/餐券没/od自残/很多黑泥/直fo想和你交朋友/🈚️门槛不聊骚不要骚扰我了/单纯送钱可以/没有回fo一定要私我一下！🥰\n\nhttps://t.co/8DCMjJbsUv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tokino_yui",
+                "end": 94,
+                "expanded_url": "https://ngl.link/tokino_yui",
+                "start": 71,
+                "url": "https://t.co/8DCMjJbsUv"
+              }
+            ]
+          }
+        },
+        "id": "1619606197723856901",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088571720638824573",
+        "name": "时野唯",
+        "pinned_tweet_id": "2087560615288312292",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1619606197723856901/1786387918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083922642126663681/-eGS_8XD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 141,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "Tokino_Yui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

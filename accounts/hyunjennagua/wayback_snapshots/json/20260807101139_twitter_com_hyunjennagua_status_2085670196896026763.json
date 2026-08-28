@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2085670196896026763",
+    "created_at": "2026-08-07T10:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085670196896026763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083477847797362688",
+          "start": 3,
+          "username": "adCa00414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085670196896026763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083479090116641073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adCa00414: ad钙、转生转生喵～！\n发了个singer就被封了…好气哦\n此号就用来发封烟日常喵\n请多多互fo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2085670196896026763",
+        "created_at": "2026-08-07T10:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085670196896026763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083477847797362688",
+              "start": 3,
+              "username": "adCa00414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085670196896026763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083479090116641073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adCa00414: ad钙、转生转生喵～！\n发了个singer就被封了…好气哦\n此号就用来发封烟日常喵\n请多多互fo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083477847797362688",
+        "conversation_id": "2083479090116641073",
+        "created_at": "2026-08-01T09:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083479090116641073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083479090116641073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2571,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "ad钙、转生转生喵～！\n发了个singer就被封了…好气哦\n此号就用来发封烟日常喵\n请多多互fo…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 1133,
+          "like_count": 9343,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 4259
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T09:01:29.000Z",
+        "description": "前世@ANDEL0426\n我的狗狗@xxs0721 \n友跨｜性别不明｜烟鬼喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ANDEL0426"
+              },
+              {
+                "end": 25,
+                "start": 17,
+                "username": "xxs0721"
+              }
+            ]
+          }
+        },
+        "id": "2083477847797362688",
+        "name": "ADniako喵",
+        "pinned_tweet_id": "2083479090116641073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083478390020149248/3ahRmuL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 69,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "adCa00414",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2088874163620413586",
+    "created_at": "2026-08-16T10:14:34.000Z",
+    "display_text_range": [
+      23,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088932422733922514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037817579448807424",
+          "start": 0,
+          "username": "Yuki283113"
+        },
+        {
+          "end": 22,
+          "id": "2058088045380026368",
+          "start": 12,
+          "username": "qianyunhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088932422733922514",
+    "in_reply_to_user_id": "2037817579448807424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088874163620413586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki283113 @qianyunhr 😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2088874138798522368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0r9j-WAAATaIh.jpg",
+        "width": 1063
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2088874152027459584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0r-VQXkAAU7_F.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2088874163620413586",
+        "created_at": "2026-08-16T10:14:34.000Z",
+        "display_text_range": [
+          23,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088932422733922514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037817579448807424",
+              "start": 0,
+              "username": "Yuki283113"
+            },
+            {
+              "end": 22,
+              "id": "2058088045380026368",
+              "start": 12,
+              "username": "qianyunhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088932422733922514",
+        "in_reply_to_user_id": "2037817579448807424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088874163620413586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki283113 @qianyunhr 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088874138798522368",
+            "3_2088874152027459584"
+          ]
+        },
+        "author_id": "2037817579448807424",
+        "conversation_id": "2088874163620413586",
+        "created_at": "2026-08-16T06:23:04.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088874163620413586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qfyl2G5PQk",
+              "end": 71,
+              "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+              "media_key": "3_2088874138798522368",
+              "start": 48,
+              "url": "https://t.co/Qfyl2G5PQk"
+            },
+            {
+              "display_url": "pic.x.com/Qfyl2G5PQk",
+              "end": 71,
+              "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+              "media_key": "3_2088874152027459584",
+              "start": 48,
+              "url": "https://t.co/Qfyl2G5PQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088874163620413586",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088874138798522368"
+          },
+          {
+            "media_key": "3_2088874152027459584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "遗憾的，乐子岐3.0无法与您继续互动，现在出现的是4.0\n不嫌麻烦的朋友请帮转一下🥺寻回互fo https://t.co/Qfyl2G5PQk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2088932422733922514",
+        "name": "南瓜（绝望中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 1153,
+          "like_count": 10081,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 4477
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T09:02:43.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n这是第几个了。?",
+        "id": "2037817579448807424",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088928461091966993",
+        "name": "岐哥，梦想跪了。4.0",
+        "pinned_tweet_id": "2088874163620413586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037817579448807424/1785937437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084998836246700033/-ARs9g6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 87,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "Yuki283113",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:31:46.000Z",
+        "description": "圣殿的漆已经掉了´∀`大家一起当婊子吧！\n這裡是qianyun愆昀 可以叫我千云\n^‥^希望成为有价值的人！\n梦想变成一只小鸡\n🔪/中度抑郁/前oder 致死还是小资历\n莫言 苏童 余华？ 以及荒谬主义者\n努力成为健全逼！嗯\n你很可爱呀！互fo我喜欢的入",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qianyunhr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qianyunhr",
+                "start": 0,
+                "url": "https://t.co/f0D5P8sR64"
+              }
+            ]
+          }
+        },
+        "id": "2058088045380026368",
+        "is_identity_verified": false,
+        "location": "蛋仔岛",
+        "most_recent_tweet_id": "2088932166994690402",
+        "name": "qianyun",
+        "pinned_tweet_id": "2088228222848954484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058088045380026368/1779530062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058088663800811520/EsUZ0HXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 130,
+          "like_count": 1701,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/f0D5P8sR64",
+        "username": "qianyunhr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

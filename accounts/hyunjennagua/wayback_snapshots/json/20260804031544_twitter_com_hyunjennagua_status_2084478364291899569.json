@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2083790683077562518",
+    "created_at": "2026-08-04T03:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084478364291899569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799070281048510464",
+          "start": 0,
+          "username": "houqiezhangyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084478364291899569",
+    "in_reply_to_user_id": "1799070281048510464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084248604332691897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@houqiezhangyu 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2083790683077562518",
+        "created_at": "2026-08-04T03:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084478364291899569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799070281048510464",
+              "start": 0,
+              "username": "houqiezhangyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084478364291899569",
+        "in_reply_to_user_id": "1799070281048510464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084248604332691897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@houqiezhangyu 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799070281048510464",
+        "conversation_id": "2083790683077562518",
+        "created_at": "2026-08-03T12:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084248604332691897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084248604332691897",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083790683077562518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 可以去抢外卖卷然后买一顿华莱士"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2082398500755779851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 1121,
+          "like_count": 8986,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 4188
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T13:26:03.000Z",
+        "description": "丑逼一个，在网络上找找存在感，三分钟热度。记忆力特别差。有的时候都不记得自己是个人了。所以对我任何的言语攻击都无用，您骂我，您辱女。我骂您，我虐畜\n骂你就是你活该，对我不礼貌的自觉领取全家火化大礼包",
+        "id": "1799070281048510464",
+        "name": "鼠哥，梦想活了",
+        "pinned_tweet_id": "2084046218897015151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084047657610432512/Cd8Aa9GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 141,
+          "like_count": 2534,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "houqiezhangyu",
+        "verified": false
+      }
+    ]
+  }
+}

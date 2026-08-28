@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2083960523176198587",
+    "created_at": "2026-08-04T03:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084478702927442244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084478702927442244",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083968658418926015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2083960523176198587",
+        "created_at": "2026-08-04T03:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084478702927442244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084478702927442244",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083968658418926015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885529810942009344",
+        "conversation_id": "2083960523176198587",
+        "created_at": "2026-08-02T17:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083968658418926015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083968658418926015",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083960523176198587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 單取壞！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2082398500755779851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 1121,
+          "like_count": 9002,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 4192
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "互fo喵 | 主要產出：🏎️ F1｜📱 Android｜📷 Photography｜⛏️Minecraft  | 分享生活碎片與一些想法 | F1相關長文 | 是夜貓子呢。。多夜間出沒！日常小號@NEO_Lris45\n👑GOAT:@LewisHamilton #WeRaceAsOne",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 142,
+                "start": 130,
+                "tag": "WeRaceAsOne"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "NEO_Lris45"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "LewisHamilton"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NEO_NA45s_Chan…",
+                "end": 23,
+                "expanded_url": "https://t.me/NEO_NA45s_Channel",
+                "start": 0,
+                "url": "https://t.co/rS411XNlcO"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2084165092191703268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 643,
+          "like_count": 5044,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/rS411XNlcO",
+        "username": "NEO_NA45",
+        "verified": true
+      }
+    ]
+  }
+}

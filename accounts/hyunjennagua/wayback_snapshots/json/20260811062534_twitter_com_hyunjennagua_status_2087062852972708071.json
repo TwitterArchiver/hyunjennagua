@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2087053106362318966",
+    "created_at": "2026-08-11T06:25:34.000Z",
+    "display_text_range": [
+      24,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087062852972708071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014293353269997568",
+          "start": 0,
+          "username": "paperly_forge"
+        },
+        {
+          "end": 23,
+          "id": "1953688493160542208",
+          "start": 15,
+          "username": "SYFSASN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087062852972708071",
+    "in_reply_to_user_id": "2014293353269997568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087053106362318966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paperly_forge @SYFSASN 不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2087053106362318966",
+        "created_at": "2026-08-11T06:25:34.000Z",
+        "display_text_range": [
+          24,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087062852972708071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014293353269997568",
+              "start": 0,
+              "username": "paperly_forge"
+            },
+            {
+              "end": 23,
+              "id": "1953688493160542208",
+              "start": 15,
+              "username": "SYFSASN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087062852972708071",
+        "in_reply_to_user_id": "2014293353269997568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087053106362318966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paperly_forge @SYFSASN 不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014293353269997568",
+        "conversation_id": "2087053106362318966",
+        "created_at": "2026-08-11T05:46:50.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087053106362318966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953688493160542208",
+              "start": 6,
+              "username": "SYFSASN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087053106362318966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 14,
+                "id": "1953688493160542208",
+                "start": 6,
+                "username": "SYFSASN"
+              }
+            ]
+          },
+          "text": "讣告\n\n我是@SYFSASN，得知星星去世的消息让我非常心痛，我决定去陪她了，如果不出意外我将在8月12日去世\n\n如果没有7月16日那件事她是不是就不会死了，我什么都没做到，现在我要去陪她了，至少不会让她再感到孤独，我欠她的永远都还不完\n\n致我的朋友们：谢谢你们愿意陪我，我真的很开心，谢谢星星在我最难过的时候陪着我，假如还有来生我想再遇到你们，我希望来生能和星星都成为女孩子，我希望能再遇到她，我想她了……我真的好想她……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 221,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n\n我是@SYFSASN，得知星星去世的消息让我非常心痛，我决定去陪她了，如果不出意外我将在8月12日去世\n\n如果没有7月16日那件事她是不是就不会死了，我什么都没做到，现在我要去陪她了，至少不会让她再感到孤独，我欠她的永远都还不完"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2087062852972708071",
+        "name": "南瓜（绝望中）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 1150,
+          "like_count": 9758,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 4351
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T11:05:38.000Z",
+        "description": "生产日期2011.7.10的一只mtf🍥喵\nHRT26.5.29 ISTJ\n176.5 68kg脸丑麻了喵   姐姐@QY_xier\n已有对象@SYFSASN\n计算机爱好者化学爱好者\n人很好说话的喵常驻义乌可以找我面基喵\n欢迎互fo和聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "QY_xier"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "SYFSASN"
+              }
+            ]
+          }
+        },
+        "id": "2014293353269997568",
+        "is_identity_verified": true,
+        "location": "中国大陆 浙江",
+        "most_recent_tweet_id": "2087053106362318966",
+        "name": "🍥星に祈りを🏳️‍⚧️",
+        "pinned_tweet_id": "2086164249353822506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014293353269997568/1786211904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086638845916041216/1CoZSOmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 270,
+          "like_count": 1300,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "paperly_forge",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T05:23:44.000Z",
+        "description": "09年3月出厂/视成分fo/友跨🏳️‍⚧️/明日方舟/星穹铁道/大部分pc游戏/不聊政治/有事情请私信/厌世人格上线",
+        "id": "1953688493160542208",
+        "is_identity_verified": false,
+        "location": "二相乐园",
+        "most_recent_tweet_id": "2086927802176266544",
+        "name": "SYFSASN🍥",
+        "pinned_tweet_id": "2085969335932346581",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953688493160542208/1755148670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084611675806949376/9E9BJKam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 1518,
+          "like_count": 19372,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 830
+        },
+        "url": "",
+        "username": "SYFSASN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

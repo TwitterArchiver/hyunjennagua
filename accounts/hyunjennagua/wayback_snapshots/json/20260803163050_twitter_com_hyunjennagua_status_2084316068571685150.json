@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2084316068571685150",
+    "created_at": "2026-08-03T16:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084316068571685150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyunjennagua/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/hyunjennagua/status/2082398500755779851",
+          "start": 27,
+          "url": "https://t.co/p0lXRkqIna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084316068571685150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082398500755779851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "南瓜最近真的很困难呢又上不了班只能在此求助大家了.. https://t.co/p0lXRkqIna"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2082398492589449216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYqZV-aYAAjaCe.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2084316068571685150",
+        "created_at": "2026-08-03T16:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084316068571685150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyunjennagua/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/hyunjennagua/status/2082398500755779851",
+              "start": 27,
+              "url": "https://t.co/p0lXRkqIna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084316068571685150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082398500755779851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "南瓜最近真的很困难呢又上不了班只能在此求助大家了.. https://t.co/p0lXRkqIna"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082398492589449216"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2082398500755779851",
+        "created_at": "2026-07-29T09:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082398500755779851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XI0NJNkgH0",
+              "end": 60,
+              "expanded_url": "https://x.com/hyunjennagua/status/2082398500755779851/photo/1",
+              "media_key": "3_2082398492589449216",
+              "start": 37,
+              "url": "https://t.co/XI0NJNkgH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082398500755779851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1042,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "南瓜在生活中遇到了一点困难需要资金帮助如果有人愿意的话🥺🥺我会非常感谢的 https://t.co/XI0NJNkgH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua｜好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤｜🩸💊｜匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dIa70"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "你心里",
+        "name": "南瓜（绝望中）",
+        "pinned_tweet_id": "2082398500755779851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1121,
+          "like_count": 8983,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 4187
+        },
+        "url": "https://t.co/ia6I6dIa70",
+        "username": "hyunjennagua",
+        "verified": false
+      }
+    ]
+  }
+}
