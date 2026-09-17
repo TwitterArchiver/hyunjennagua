@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2092940773419540576",
+    "created_at": "2026-08-27T11:42:19.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092940773419540576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linwei130/stat…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/linwei130/status/2092931879821627578",
+          "start": 127,
+          "url": "https://t.co/bkwhTxijtv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092940773419540576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092931879821627578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早上好读虫🤓现在我有你滴😈☆个☆人☆信☆息☆😲👉㊙️我要报✔️😁把你们这群危害铯会滴读虫😡全部抓起来😡👉👮⛓️‍\n我要你手上所有滴dmt🤓👆lsd🤓👆sns🤓👆不给😡我就把你滴☆个☆人☆信☆息☆😲👉㊙️上交给晶格👮😡让你蹲大牢⛓️‍✋😭🤚⛓️‍块点😡🫵 https://t.co/bkwhTxijtv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2092940773419540576",
+        "created_at": "2026-08-27T11:42:19.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092940773419540576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linwei130/stat…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/linwei130/status/2092931879821627578",
+              "start": 127,
+              "url": "https://t.co/bkwhTxijtv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092940773419540576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092931879821627578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早上好读虫🤓现在我有你滴😈☆个☆人☆信☆息☆😲👉㊙️我要报✔️😁把你们这群危害铯会滴读虫😡全部抓起来😡👉👮⛓️‍\n我要你手上所有滴dmt🤓👆lsd🤓👆sns🤓👆不给😡我就把你滴☆个☆人☆信☆息☆😲👉㊙️上交给晶格👮😡让你蹲大牢⛓️‍✋😭🤚⛓️‍块点😡🫵 https://t.co/bkwhTxijtv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926506432276348928",
+        "conversation_id": "2092931879821627578",
+        "created_at": "2026-08-27T11:06:59.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092931879821627578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angel_saveusal…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/angel_saveusall/status/2092632304548028869",
+              "start": 127,
+              "url": "https://t.co/F1lvNfiQV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092931879821627578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092632304548028869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早上好读虫🤓现在我有你滴😈☆个☆人☆信☆息☆😲👉㊙️我要报✔️😁把你们这群危害铯会滴读虫😡全部抓起来😡👉👮⛓️‍\n我要你手上所有滴dmt🤓👆lsd🤓👆sns🤓👆不给😡我就把你滴☆个☆人☆信☆息☆😲👉㊙️上交给晶格👮😡让你蹲大牢⛓️‍✋😭🤚⛓️‍块点😡🫵 https://t.co/F1lvNfiQV6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2092940773419540576",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 1158,
+          "like_count": 10256,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 4631
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-25T05:12:03.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖🍥｜小证2026.5.12｜已出柜 ｜ISFP-T｜碎碎念｜抑郁中｜同类互fo喵（没看到请在评论区说一下或者私信）｜老婆@Angel_SaveUsAll共号中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Angel_SaveUsAll"
+              }
+            ]
+          }
+        },
+        "id": "1926506432276348928",
+        "is_identity_verified": false,
+        "location": "距离你520m",
+        "most_recent_tweet_id": "2092931879821627578",
+        "name": "小堇&小救「天使夺舍」",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1926506432276348928/1771920686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071996459973824512/Cf2Cgvbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 651,
+          "like_count": 8243,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "linwei130",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

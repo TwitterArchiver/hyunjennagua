@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093495869165441024"
+      ],
+      "media_source_tweet_id": [
+        "2093495875654025595"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2093558268446863669",
+    "created_at": "2026-08-29T04:36:02.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T05:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093558268446863669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2062460529403469824",
+          "start": 3,
+          "username": "dadududupang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0m1sfjSe20",
+          "end": 91,
+          "expanded_url": "https://x.com/dadududupang/status/2093495875654025595/photo/1",
+          "media_key": "3_2093495869165441024",
+          "start": 68,
+          "url": "https://t.co/0m1sfjSe20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093558268446863669",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093495869165441024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093495875654025595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dadududupang: 关注嘟嘟喵 关注嘟嘟谢谢喵\n大号被封 寻回互关中。。\n辍学/精神分裂/电波系\n喜欢糖果/汽水/睡觉 https://t.co/0m1sfjSe20"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1865,
+        "media_key": "3_2093495869165441024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2XZrRakAALng-.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093495869165441024"
+          ],
+          "media_source_tweet_id": [
+            "2093495875654025595"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2093558268446863669",
+        "created_at": "2026-08-29T04:36:02.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093558268446863669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2062460529403469824",
+              "start": 3,
+              "username": "dadududupang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0m1sfjSe20",
+              "end": 91,
+              "expanded_url": "https://x.com/dadududupang/status/2093495875654025595/photo/1",
+              "media_key": "3_2093495869165441024",
+              "start": 68,
+              "url": "https://t.co/0m1sfjSe20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093558268446863669",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093495869165441024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093495875654025595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dadududupang: 关注嘟嘟喵 关注嘟嘟谢谢喵\n大号被封 寻回互关中。。\n辍学/精神分裂/电波系\n喜欢糖果/汽水/睡觉 https://t.co/0m1sfjSe20"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093495869165441024"
+          ]
+        },
+        "author_id": "2062460529403469824",
+        "conversation_id": "2093495875654025595",
+        "created_at": "2026-08-29T00:28:06.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T01:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093495875654025595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0m1sfjSe20",
+              "end": 73,
+              "expanded_url": "https://x.com/dadududupang/status/2093495875654025595/photo/1",
+              "media_key": "3_2093495869165441024",
+              "start": 50,
+              "url": "https://t.co/0m1sfjSe20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093495875654025595",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093495869165441024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关注嘟嘟喵 关注嘟嘟谢谢喵\n大号被封 寻回互关中。。\n辍学/精神分裂/电波系\n喜欢糖果/汽水/睡觉 https://t.co/0m1sfjSe20"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2093558268446863669",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 1158,
+          "like_count": 10278,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 4641
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T09:05:44.000Z",
+        "description": "这里嘟嘟\n大家的留言我都会回复https://t.co/2yIi6zFJub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amy85067",
+                "end": 38,
+                "expanded_url": "https://ngl.link/amy85067",
+                "start": 15,
+                "url": "https://t.co/2yIi6zFJub"
+              }
+            ]
+          }
+        },
+        "id": "2062460529403469824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093495875654025595",
+        "name": "嘟嘟🫧",
+        "pinned_tweet_id": "2093495875654025595",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063878779613929472/KnxBzedu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 116,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "dadududupang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
