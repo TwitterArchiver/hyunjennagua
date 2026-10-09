@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2101150465442635995",
+    "created_at": "2026-09-19T03:24:43.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T04:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101150465442635995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101150465442635995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101023787915546908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 无论你是谁，转发这条推。这是命令。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2101150465442635995",
+        "created_at": "2026-09-19T03:24:43.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101150465442635995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101150465442635995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101023787915546908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 无论你是谁，转发这条推。这是命令。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2101023787915546908",
+        "created_at": "2026-09-18T19:01:20.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101023787915546908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101023787915546908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 472,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "无论你是谁，转发这条推。这是命令。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2101150465442635995",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 1167,
+          "like_count": 10276,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 4771
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2101068715576234451",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "2092280202084921853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1280001743162609664/1777991808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25616,
+          "following_count": 11335,
+          "like_count": 157307,
+          "listed_count": 55,
+          "media_count": 7018,
+          "tweet_count": 60958
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

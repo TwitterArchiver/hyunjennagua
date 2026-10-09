@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106639050316894668",
+    "created_at": "2026-10-04T06:54:23.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106639050316894668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/isolation8964/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/isolation8964/status/2106391674620702954",
+          "start": 17,
+          "url": "https://t.co/QXwy7FHmWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106639050316894668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106391674620702954",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉特别像我一个朋友会说的话… https://t.co/QXwy7FHmWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 823,
+        "media_key": "3_2106391664998952960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtoDyYbMAAT-Cl.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106639050316894668",
+        "created_at": "2026-10-04T06:54:23.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106639050316894668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/isolation8964/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/isolation8964/status/2106391674620702954",
+              "start": 17,
+              "url": "https://t.co/QXwy7FHmWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106639050316894668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106391674620702954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉特别像我一个朋友会说的话… https://t.co/QXwy7FHmWj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106391664998952960"
+          ]
+        },
+        "author_id": "1972497129550860288",
+        "conversation_id": "2106391674620702954",
+        "created_at": "2026-10-03T14:31:24.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106391674620702954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pdEdVuAwH",
+              "end": 51,
+              "expanded_url": "https://x.com/Isolation8964/status/2106391674620702954/photo/1",
+              "media_key": "3_2106391664998952960",
+              "start": 28,
+              "url": "https://t.co/2pdEdVuAwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106391674620702954",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106391664998952960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5797,
+          "like_count": 288,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "一个心理\"健全\"的网民,就这样攻击另一位受过伤害的人: https://t.co/2pdEdVuAwH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2106639050316894668",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 1205,
+          "like_count": 11462,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 5143
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T03:03:36.000Z",
+        "description": "成分follow|16 y.o.|INTP-A|CN/EN|自由主义|LGBT+友好|音游人|C-PTSD|生活健全|粉蛆勿扰\n爱个体而非集体 / 痛恨霸凌与洗脑\nAsk: https://t.co/mUxacbCW24\nOtherX: @Isolation1126 @IsoAntiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 119,
+                "username": "Isolation1126"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "IsoAntiloss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hereis1so",
+                "end": 110,
+                "expanded_url": "http://ngl.link/hereis1so",
+                "start": 87,
+                "url": "https://t.co/mUxacbCW24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/lEYNInGWdc"
+              }
+            ]
+          }
+        },
+        "id": "1972497129550860288",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2106634757631332498",
+        "name": "Is0.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972497129550860288/1777825629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092784137187041280/9WWVwoEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 217,
+          "like_count": 3669,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/lEYNInGWdc",
+        "username": "Isolation8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

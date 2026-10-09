@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104105688691781633"
+      ],
+      "media_source_tweet_id": [
+        "2104105694756782133"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2104475587217969239",
+    "created_at": "2026-09-28T07:37:33.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T08:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104475587217969239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2085457755243167744",
+          "start": 3,
+          "username": "HR3EOO"
+        },
+        {
+          "end": 21,
+          "id": "2037517118548131840",
+          "start": 14,
+          "username": "ENR7OO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnY8SQlqTR",
+          "end": 67,
+          "expanded_url": "https://x.com/HR3EOO/status/2104105694756782133/photo/1",
+          "media_key": "3_2104105688691781633",
+          "start": 44,
+          "url": "https://t.co/AnY8SQlqTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104475587217969239",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104105688691781633"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104105694756782133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HR3EOO: 我是@ENR7OO\n我的账号被冻结了哦(*^．^*)\n寻互关… https://t.co/AnY8SQlqTR"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ENR7OO].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ENR7OO",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "ENR7OO"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_2104105688691781633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNI-dBaMAEsjSC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104105688691781633"
+          ],
+          "media_source_tweet_id": [
+            "2104105694756782133"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2104475587217969239",
+        "created_at": "2026-09-28T07:37:33.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104475587217969239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2085457755243167744",
+              "start": 3,
+              "username": "HR3EOO"
+            },
+            {
+              "end": 21,
+              "id": "2037517118548131840",
+              "start": 14,
+              "username": "ENR7OO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnY8SQlqTR",
+              "end": 67,
+              "expanded_url": "https://x.com/HR3EOO/status/2104105694756782133/photo/1",
+              "media_key": "3_2104105688691781633",
+              "start": 44,
+              "url": "https://t.co/AnY8SQlqTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104475587217969239",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104105688691781633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104105694756782133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HR3EOO: 我是@ENR7OO\n我的账号被冻结了哦(*^．^*)\n寻互关… https://t.co/AnY8SQlqTR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104105688691781633"
+          ]
+        },
+        "author_id": "2085457755243167744",
+        "conversation_id": "2104105694756782133",
+        "created_at": "2026-09-27T07:07:44.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104105694756782133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037517118548131840",
+              "start": 2,
+              "username": "ENR7OO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnY8SQlqTR",
+              "end": 55,
+              "expanded_url": "https://x.com/HR3EOO/status/2104105694756782133/photo/1",
+              "media_key": "3_2104105688691781633",
+              "start": 32,
+              "url": "https://t.co/AnY8SQlqTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104105694756782133",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104105688691781633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1971,
+          "like_count": 33,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我是@ENR7OO\n我的账号被冻结了哦(*^．^*)\n寻互关… https://t.co/AnY8SQlqTR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2104475587217969239",
+        "name": "南瓜",
+        "pinned_tweet_id": "2104106224522559738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 1165,
+          "like_count": 10564,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 4883
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T20:11:53.000Z",
+        "description": "=穆穆(2.0)\n2012｜女\n发碎碎念的，可能负面帖子较多\n来找我交朋友吧☆\"˚. ⑅ ☆",
+        "id": "2085457755243167744",
+        "is_identity_verified": false,
+        "location": "Your heart♡",
+        "most_recent_tweet_id": "2104473975174898150",
+        "name": "hr3eoo",
+        "pinned_tweet_id": "2104105694756782133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085457755243167744/1790492663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104104851718422528/ooGu9HWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 117,
+          "like_count": 909,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "HR3EOO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

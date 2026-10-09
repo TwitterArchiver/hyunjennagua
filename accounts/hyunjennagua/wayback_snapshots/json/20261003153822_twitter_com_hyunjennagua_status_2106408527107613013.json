@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106408527107613013",
+    "created_at": "2026-10-03T15:38:22.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106408527107613013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "200113501",
+          "start": 3,
+          "username": "leaf3loveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106408527107613013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093952083607404589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leaf3loveu: 恒春叶青\n\n可以叫我叶子  男  09年\n\n💊/📚/🚬\n\n二次元/oder/穷逼/极度自卑/gay/喜欢看书/抑郁焦虑症患者/\n\n我很敏感，我很玻璃心，请不要骂我...\n\n大家可以找我交友互fo呀\n\n有时候可能回fo不及时，如果漏fo请私信我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2093952021573595137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ82RPaa8AElTdY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3468,
+        "media_key": "3_2093952036199182336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ82SF5bsAAbYYe.jpg",
+        "width": 3468
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2093952061348167680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ82TjlawAA87g8.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106408527107613013",
+        "created_at": "2026-10-03T15:38:22.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106408527107613013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "200113501",
+              "start": 3,
+              "username": "leaf3loveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106408527107613013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093952083607404589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leaf3loveu: 恒春叶青\n\n可以叫我叶子  男  09年\n\n💊/📚/🚬\n\n二次元/oder/穷逼/极度自卑/gay/喜欢看书/抑郁焦虑症患者/\n\n我很敏感，我很玻璃心，请不要骂我...\n\n大家可以找我交友互fo呀\n\n有时候可能回fo不及时，如果漏fo请私信我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093952021573595137",
+            "3_2093952036199182336",
+            "3_2093952061348167680"
+          ]
+        },
+        "author_id": "200113501",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093952083607404589",
+        "created_at": "2026-08-30T06:40:55.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093952083607404589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 139,
+              "id": "1944404050906316800",
+              "start": 127,
+              "username": "leaf11loveu"
+            },
+            {
+              "end": 155,
+              "id": "2089968476790128640",
+              "start": 144,
+              "username": "leaf1loveu"
+            },
+            {
+              "end": 171,
+              "id": "2090633836921274368",
+              "start": 160,
+              "username": "leaf2loveu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NoLpdV25u6",
+              "end": 195,
+              "expanded_url": "https://x.com/fabian804/status/2093952083607404589/photo/1",
+              "media_key": "3_2093952021573595137",
+              "start": 172,
+              "url": "https://t.co/NoLpdV25u6"
+            },
+            {
+              "display_url": "pic.x.com/NoLpdV25u6",
+              "end": 195,
+              "expanded_url": "https://x.com/fabian804/status/2093952083607404589/photo/1",
+              "media_key": "3_2093952036199182336",
+              "start": 172,
+              "url": "https://t.co/NoLpdV25u6"
+            },
+            {
+              "display_url": "pic.x.com/NoLpdV25u6",
+              "end": 195,
+              "expanded_url": "https://x.com/fabian804/status/2093952083607404589/photo/1",
+              "media_key": "3_2093952061348167680",
+              "start": 172,
+              "url": "https://t.co/NoLpdV25u6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093952083607404589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093952021573595137"
+          },
+          {
+            "media_key": "3_2093952036199182336"
+          },
+          {
+            "media_key": "3_2093952061348167680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5538,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "恒春叶青\n\n可以叫我叶子  男  09年\n\n💊/📚/🚬\n\n二次元/oder/穷逼/极度自卑/gay/喜欢看书/抑郁焦虑症患者/\n\n我很敏感，我很玻璃心，请不要骂我...\n\n大家可以找我交友互fo呀\n\n有时候可能回fo不及时，如果漏fo请私信我\n\n叶皇一世@leaf11loveu\n叶皇二世@leaf1loveu\n叶皇三世@leaf2loveu https://t.co/NoLpdV25u6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2106408527107613013",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 1197,
+          "like_count": 11369,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 5110
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-08T13:44:33.000Z",
+        "description": "我该用几行字才能写尽我一生的痛楚\n\n防炸号@leaf5loveu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "leaf5loveu"
+              }
+            ]
+          }
+        },
+        "id": "200113501",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106407724305252744",
+        "name": "叶子大帝四世",
+        "pinned_tweet_id": "2093952083607404589",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093951095982940160/QfuHu2Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 229,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 491
+        },
+        "url": "",
+        "username": "leaf3loveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

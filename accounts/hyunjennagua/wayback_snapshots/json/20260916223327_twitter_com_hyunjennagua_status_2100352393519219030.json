@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2099671937509470464",
+    "created_at": "2026-09-16T22:33:27.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T23:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100352393519219030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2087636528633982976",
+          "start": 0,
+          "username": "67De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100352393519219030",
+    "in_reply_to_user_id": "2087636528633982976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100329914096398763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@67De_dian 老婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2099671937509470464",
+        "created_at": "2026-09-16T22:33:27.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100352393519219030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2087636528633982976",
+              "start": 0,
+              "username": "67De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100352393519219030",
+        "in_reply_to_user_id": "2087636528633982976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100329914096398763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@67De_dian 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087636528633982976",
+        "conversation_id": "2099671937509470464",
+        "created_at": "2026-09-16T21:04:08.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T22:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100329914096398763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100329914096398763",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100149420738437576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 老公我忘了谁都不会忘记你的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2100352393519219030",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 1166,
+          "like_count": 10273,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 4749
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2100348589062881626",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 475,
+          "like_count": 4488,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1170
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2105984575696760894",
+    "created_at": "2026-10-03T14:01:04.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106384039771021528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928052064728535049",
+          "start": 0,
+          "username": "crushon0910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106384039771021528",
+    "in_reply_to_user_id": "1928052064728535049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106383359857639557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crushon0910 抱抱…🥺❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2105984575696760894",
+        "created_at": "2026-10-03T14:01:04.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106384039771021528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928052064728535049",
+              "start": 0,
+              "username": "crushon0910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106384039771021528",
+        "in_reply_to_user_id": "1928052064728535049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106383359857639557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crushon0910 抱抱…🥺❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928052064728535049",
+        "conversation_id": "2105984575696760894",
+        "created_at": "2026-10-03T13:58:22.000Z",
+        "display_text_range": [
+          14,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106383359857639557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106383359857639557",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105984575696760894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 抱抱南瓜xx🥺。。。六年级的时候一直焦虑。。后来才知道原来小学没上完就有心理疾病了。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2106384039771021528",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 1193,
+          "like_count": 11353,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 5096
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-29T11:33:42.000Z",
+        "description": "泽/小泽\nisfp-a\n\n沉重的爱/负能碎碎念/人生思考\nwmc（偶尔）\n\n可直fo/但会查成分/聊骚约炮秒屏\n非完全健全b 想多互fo",
+        "id": "1928052064728535049",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106383359857639557",
+        "name": "X.X?",
+        "pinned_tweet_id": "2105984958456328635",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103462885678788608/ryOxCm2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 22,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "crushon0910",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

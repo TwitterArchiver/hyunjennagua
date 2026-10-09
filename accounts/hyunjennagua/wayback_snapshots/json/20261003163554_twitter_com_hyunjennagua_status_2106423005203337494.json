@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106414685742563411",
+    "created_at": "2026-10-03T16:35:54.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106423005203337494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2064233293579722752",
+          "start": 0,
+          "username": "Xunn_kitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106423005203337494",
+    "in_reply_to_user_id": "2064233293579722752",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106414685742563411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xunn_kitten 676767"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 120,
+        "media_key": "3_2106414673717551104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTt8_Eia4AA5p0g.jpg",
+        "width": 172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106414685742563411",
+        "created_at": "2026-10-03T16:35:54.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106423005203337494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2064233293579722752",
+              "start": 0,
+              "username": "Xunn_kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106423005203337494",
+        "in_reply_to_user_id": "2064233293579722752",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106414685742563411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xunn_kitten 676767"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106414673717551104"
+          ]
+        },
+        "author_id": "2064233293579722752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106414685742563411",
+        "created_at": "2026-10-03T16:02:51.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106414685742563411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VhCtVnpuSz",
+              "end": 23,
+              "expanded_url": "https://x.com/Xunn_kitten/status/2106414685742563411/photo/1",
+              "media_key": "3_2106414673717551104",
+              "start": 0,
+              "url": "https://t.co/VhCtVnpuSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106414685742563411",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106414673717551104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VhCtVnpuSz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2106423005203337494",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 1197,
+          "like_count": 11384,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 5114
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-09T06:30:54.000Z",
+        "description": "社交孤儿\n傻逼：@Qingxuntlrr\n欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "Qingxuntlrr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xunn_kitten/clo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xunn_kitten/clo",
+                "start": 0,
+                "url": "https://t.co/j9kS43Wek8"
+              }
+            ]
+          }
+        },
+        "id": "2064233293579722752",
+        "is_identity_verified": false,
+        "location": "好朋友口令🧸🦄🚪520 1314  5200",
+        "most_recent_tweet_id": "2106422863540683070",
+        "name": "Xun",
+        "pinned_tweet_id": "2105601707644473813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064233293579722752/1780987361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105076162955476993/NO4m7oBW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 67,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/j9kS43Wek8",
+        "username": "Xunn_kitten",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

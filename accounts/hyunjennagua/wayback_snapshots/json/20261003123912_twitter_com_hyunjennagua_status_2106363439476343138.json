@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106337677910134895",
+    "created_at": "2026-10-03T12:39:12.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T13:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106363439476343138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767453480065839104",
+          "start": 0,
+          "username": "Lone_Wolf_CYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106363439476343138",
+    "in_reply_to_user_id": "1767453480065839104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106363309326753942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lone_Wolf_CYK 超级热情！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2106363304155439104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtOQ-AaYAAxf1w.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106337677910134895",
+        "created_at": "2026-10-03T12:39:12.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106363439476343138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767453480065839104",
+              "start": 0,
+              "username": "Lone_Wolf_CYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106363439476343138",
+        "in_reply_to_user_id": "1767453480065839104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106363309326753942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lone_Wolf_CYK 超级热情！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106363304155439104"
+          ]
+        },
+        "author_id": "1767453480065839104",
+        "conversation_id": "2106337677910134895",
+        "created_at": "2026-10-03T12:38:41.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106363309326753942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1Q3FUXDIo",
+              "end": 51,
+              "expanded_url": "https://x.com/Lone_Wolf_CYK/status/2106363309326753942/photo/1",
+              "media_key": "3_2106363304155439104",
+              "start": 28,
+              "url": "https://t.co/b1Q3FUXDIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106363309326753942",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106363304155439104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106361567084458000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 保養的豪好嗷……想摸摸…… https://t.co/b1Q3FUXDIo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2106363439476343138",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 1191,
+          "like_count": 11202,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 5075
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-12T07:32:24.000Z",
+        "description": "| 咖啡&酒類 | 軍事&歷史&政治&時事&生活 | 19 | 大學生 | 小帳: @YK_C_8964 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "YK_C_8964"
+              }
+            ]
+          }
+        },
+        "id": "1767453480065839104",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2106363309326753942",
+        "name": "YK C",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767453480065839104/1777511228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059903559278440448/DzORE7-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1597,
+          "like_count": 76768,
+          "listed_count": 4,
+          "media_count": 1943,
+          "tweet_count": 17600
+        },
+        "url": "",
+        "username": "Lone_Wolf_CYK",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

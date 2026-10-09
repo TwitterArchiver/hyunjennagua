@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106639050316894668",
+    "created_at": "2026-10-05T07:20:20.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T08:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107007965966524755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1661759505162711040",
+          "start": 0,
+          "username": "alielie_qq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107007965966524755",
+    "in_reply_to_user_id": "1661759505162711040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106976936845328811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alielie_qq 主要实在没人陪我玩了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106639050316894668",
+        "created_at": "2026-10-05T07:20:20.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107007965966524755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1661759505162711040",
+              "start": 0,
+              "username": "alielie_qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107007965966524755",
+        "in_reply_to_user_id": "1661759505162711040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106976936845328811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alielie_qq 主要实在没人陪我玩了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661759505162711040",
+        "conversation_id": "2106639050316894668",
+        "created_at": "2026-10-05T05:17:02.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106976936845328811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106976936845328811",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106639050316894668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 那还算朋友😰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2107007965966524755",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 1205,
+          "like_count": 11556,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 5196
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-25T15:42:10.000Z",
+        "description": "這裡是qianyun愆昀 可以叫我千云（千雲也行了）\n交友歡迎！！會fo我喜歡的人\n2011.7.5 性別酷兒 \n🔪🚬💊精神疾病 ADHD\n存在主義 建構主義 由此展開對世界的理解\n為可溝通個體 隨意人身攻擊默認智力障礙\n前世@qianyunhr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "qianyunhr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qianyunhr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qianyunhr",
+                "start": 0,
+                "url": "https://t.co/tpUs9EAzyO"
+              }
+            ]
+          }
+        },
+        "id": "1661759505162711040",
+        "is_identity_verified": false,
+        "location": "香椿树街",
+        "most_recent_tweet_id": "2106994466037100578",
+        "name": "qianyun2.0",
+        "pinned_tweet_id": "2105830688306200892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661759505162711040/1790916366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105231678138703872/COKpykQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 93,
+          "like_count": 1422,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/tpUs9EAzyO",
+        "username": "alielie_qq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

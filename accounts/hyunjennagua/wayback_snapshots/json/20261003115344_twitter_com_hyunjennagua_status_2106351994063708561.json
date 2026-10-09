@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106322915469975604",
+    "created_at": "2026-10-03T11:53:44.000Z",
+    "display_text_range": [
+      20,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T12:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106351994063708561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2082727251372847104",
+          "start": 0,
+          "username": "yume_034"
+        },
+        {
+          "end": 19,
+          "id": "2047425753227333632",
+          "start": 10,
+          "username": "YuganQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106351994063708561",
+    "in_reply_to_user_id": "2082727251372847104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106322915469975604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yume_034 @YuganQwQ 我来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106322915469975604",
+        "created_at": "2026-10-03T11:53:44.000Z",
+        "display_text_range": [
+          20,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106351994063708561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082727251372847104",
+              "start": 0,
+              "username": "yume_034"
+            },
+            {
+              "end": 19,
+              "id": "2047425753227333632",
+              "start": 10,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106351994063708561",
+        "in_reply_to_user_id": "2082727251372847104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106322915469975604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yume_034 @YuganQwQ 我来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082727251372847104",
+        "conversation_id": "2106322915469975604",
+        "created_at": "2026-10-03T09:58:11.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106322915469975604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106322915469975604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "也没有钱了，200fo了转评赞抽一份50mg的allylescaline hcl\n我不太喜欢致幻但是也买了所以...\n请自行了解药物用量及风险"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2106351994063708561",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 1189,
+          "like_count": 11144,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 5060
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T07:19:51.000Z",
+        "description": "可以叫我梦境！友跨顺女，中焦中抑，可以找我聊天喵，直fo就是眼熟你喜欢你😽，查成分回fo\n防炸号备用@yume_047\n正在寻找活着的意义...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yume_047"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qi56064",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qi56064",
+                "start": 0,
+                "url": "https://t.co/yyjHf709bL"
+              }
+            ]
+          }
+        },
+        "id": "2082727251372847104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106329154270728284",
+        "name": "🦋2.0",
+        "pinned_tweet_id": "2082737344374006148",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082727251372847104/1785396639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082730573668536320/LAcfOek0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 207,
+          "like_count": 545,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1292
+        },
+        "url": "https://t.co/yyjHf709bL",
+        "username": "yume_034",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2106340625754812431",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2105458187768131727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 529,
+          "like_count": 6808,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1620
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

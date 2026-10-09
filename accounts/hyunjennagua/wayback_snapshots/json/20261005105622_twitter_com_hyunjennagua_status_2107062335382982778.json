@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2107046567538725045",
+    "created_at": "2026-10-05T10:56:22.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T11:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107062335382982778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053717016092295169",
+          "start": 0,
+          "username": "xixijun8827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107062335382982778",
+    "in_reply_to_user_id": "2053717016092295169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107057172207259735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixijun8827 真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2107046567538725045",
+        "created_at": "2026-10-05T10:56:22.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107062335382982778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053717016092295169",
+              "start": 0,
+              "username": "xixijun8827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107062335382982778",
+        "in_reply_to_user_id": "2053717016092295169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107057172207259735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixijun8827 真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053717016092295169",
+        "conversation_id": "2107046567538725045",
+        "created_at": "2026-10-05T10:35:51.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107057172207259735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107057172207259735",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107046567538725045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 有bili味"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2107062335382982778",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 1206,
+          "like_count": 11594,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 5203
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟鬼/od 已转生@caicaixi9927\n祝你天天开心,来都来了，互fo再走吧https://t.co/u7S7fro3eB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "caicaixi9927"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/caicaixi",
+                "end": 69,
+                "expanded_url": "https://ngl.link/caicaixi",
+                "start": 46,
+                "url": "https://t.co/u7S7fro3eB"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "is_identity_verified": false,
+        "location": "泪流海",
+        "most_recent_tweet_id": "2107057172207259735",
+        "name": "无问",
+        "pinned_tweet_id": "2070813338951704920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053717016092295169/1778588984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 196,
+          "like_count": 5751,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 750
+        },
+        "url": "",
+        "username": "xixijun8827",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

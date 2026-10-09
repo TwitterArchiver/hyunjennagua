@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2104513893930508420",
+    "created_at": "2026-09-28T10:09:46.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104513893930508420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cz_yihe/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/cz_yihe/status/2104152619577155824",
+          "start": 2,
+          "url": "https://t.co/XbZ1dpVA80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104513893930508420",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104152619577155824",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/XbZ1dpVA80"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29438,
+        "height": 1078,
+        "media_key": "13_2104152581711011840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104152581711011840/img/wKKN5QXVTHJbbRhU.jpg",
+        "public_metrics": {
+          "view_count": 1581422
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104152581711011840/vid/avc1/320x478/AtYtZ8s_VHLfi6oQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104152581711011840/vid/avc1/480x718/3Teb2CXYjZxQvKEY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104152581711011840/vid/avc1/720x1078/LTpDmWDbH7qSXYdP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104152581711011840/pl/B_v6bho3vqESZQCl.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2104513893930508420",
+        "created_at": "2026-09-28T10:09:46.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104513893930508420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cz_yihe/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/cz_yihe/status/2104152619577155824",
+              "start": 2,
+              "url": "https://t.co/XbZ1dpVA80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104513893930508420",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104152619577155824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/XbZ1dpVA80"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104152581711011840"
+          ]
+        },
+        "author_id": "1648883863060639744",
+        "conversation_id": "2104152619577155824",
+        "created_at": "2026-09-27T10:14:12.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104152619577155824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiBN4esWON",
+              "end": 44,
+              "expanded_url": "https://x.com/CZ_YiHe/status/2104152619577155824/video/1",
+              "media_key": "13_2104152581711011840",
+              "start": 21,
+              "url": "https://t.co/oiBN4esWON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104152619577155824",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104152581711011840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4290,
+          "impression_count": 2391618,
+          "like_count": 20029,
+          "quote_count": 328,
+          "reply_count": 1093,
+          "retweet_count": 1190
+        },
+        "reply_settings": "everyone",
+        "text": "现在的抖音有多逆天，看完这个你就知道了。 https://t.co/oiBN4esWON"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2104513893930508420",
+        "name": "南瓜",
+        "pinned_tweet_id": "2104106224522559738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 1164,
+          "like_count": 10582,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 4890
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-20T02:59:18.000Z",
+        "description": "风格不一/内容段子/日常分享\n#Binance",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 15,
+                "tag": "Binance"
+              }
+            ]
+          }
+        },
+        "id": "1648883863060639744",
+        "is_identity_verified": false,
+        "location": "距离你3.6公里",
+        "most_recent_tweet_id": "2104513476072968283",
+        "name": "花神",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1648883863060639744/1781034557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064684322041536512/wcID9riK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20888,
+          "following_count": 13209,
+          "like_count": 39490,
+          "listed_count": 33,
+          "media_count": 1596,
+          "tweet_count": 22029
+        },
+        "url": "",
+        "username": "CZ_YiHe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

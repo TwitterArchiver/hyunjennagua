@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2104862197344276818",
+    "created_at": "2026-09-29T11:58:12.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T12:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104903569568833915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489486846211936256",
+          "start": 0,
+          "username": "Splaaaaashivk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104903569568833915",
+    "in_reply_to_user_id": "1489486846211936256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104862197344276818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Splaaaaashivk9 🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13098,
+        "height": 1280,
+        "media_key": "13_2104861942104117248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104861942104117248/img/0gYSvT-asGHMgyHD.jpg",
+        "public_metrics": {
+          "view_count": 58
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104861942104117248/vid/avc1/320x568/aZCouzqRcL4SsG7L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104861942104117248/vid/avc1/480x852/HRueKBz6rzGyK8e0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104861942104117248/vid/avc1/720x1280/fJR6EviKKC8UjIvn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104861942104117248/pl/SDgS3vMK_kSDl230.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2104862197344276818",
+        "created_at": "2026-09-29T11:58:12.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104903569568833915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489486846211936256",
+              "start": 0,
+              "username": "Splaaaaashivk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104903569568833915",
+        "in_reply_to_user_id": "1489486846211936256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104862197344276818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Splaaaaashivk9 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104861942104117248"
+          ]
+        },
+        "author_id": "1489486846211936256",
+        "conversation_id": "2104862197344276818",
+        "created_at": "2026-09-29T09:13:48.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104862197344276818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWWk4LeuRI",
+              "end": 36,
+              "expanded_url": "https://x.com/Splaaaaashivk9/status/2104862197344276818/video/1",
+              "media_key": "13_2104861942104117248",
+              "start": 13,
+              "url": "https://t.co/iWWk4LeuRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104862197344276818",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104861942104117248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再住下去我没病也得找病。 https://t.co/iWWk4LeuRI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2104903569568833915",
+        "name": "南瓜",
+        "pinned_tweet_id": "2104106224522559738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 1174,
+          "like_count": 10874,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 4949
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T06:32:02.000Z",
+        "description": "我喜欢：🎵：Low Roar/LockedClub/ElectroPunk/HardDance/Industrial\n动漫和喜欢的Gal都剪到视频号里去了 玩的游戏非常杂欢迎来找我玩～\n如果你是小众b或許在短視頻里刷到过我 LGBTQ友好！！！\n我要重新尝试一些类型（哼哼\n#drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 137,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1489486846211936256",
+        "is_identity_verified": false,
+        "location": "活在真空里欸",
+        "most_recent_tweet_id": "2104879696588767446",
+        "name": "Splaaaaash!",
+        "pinned_tweet_id": "2100582574347444427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489486846211936256/1775579072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051620660800339968/Ht6ohq57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 424,
+          "like_count": 1792,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "Splaaaaashivk9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

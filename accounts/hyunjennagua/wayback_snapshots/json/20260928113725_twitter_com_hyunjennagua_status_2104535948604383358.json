@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2104090750942400822",
+    "created_at": "2026-09-28T11:37:25.000Z",
+    "display_text_range": [
+      8,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104535948604383358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1848095615399682048",
+          "start": 0,
+          "username": "xuwniv"
+        },
+        {
+          "end": 21,
+          "id": "2104093218535337984",
+          "start": 8,
+          "username": "zerooooouy69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104535948604383358",
+    "in_reply_to_user_id": "1848095615399682048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104525718520754624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuwniv @zerooooouy69 新号在这"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2104090750942400822",
+        "created_at": "2026-09-28T11:37:25.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104535948604383358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1848095615399682048",
+              "start": 0,
+              "username": "xuwniv"
+            },
+            {
+              "end": 21,
+              "id": "2104093218535337984",
+              "start": 8,
+              "username": "zerooooouy69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104535948604383358",
+        "in_reply_to_user_id": "1848095615399682048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104525718520754624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuwniv @zerooooouy69 新号在这"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848095615399682048",
+        "conversation_id": "2104090750942400822",
+        "created_at": "2026-09-28T10:56:46.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104525718520754624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104525718520754624",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104090750942400822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 炸玉宝宝好惨😭😭我想她了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2104535948604383358",
+        "name": "南瓜",
+        "pinned_tweet_id": "2104106224522559738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 1164,
+          "like_count": 10590,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 4891
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-20T20:15:52.000Z",
+        "description": "重抑重焦丨08丨INFP丨OD丨自残\n互fo看到就回没回私信我呀 我很好相处",
+        "id": "1848095615399682048",
+        "is_identity_verified": false,
+        "location": "老公大逼里 🚪6块1毛7分",
+        "most_recent_tweet_id": "2104525987174306281",
+        "name": "Jasmine",
+        "pinned_tweet_id": "2096882366191227011",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848095615399682048/1788770996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103675089669771264/rGymHInu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 85,
+          "like_count": 2240,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "xuwniv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-27T06:19:22.000Z",
+        "description": "ok\n@wbuzdwsmdoubzd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "wbuzdwsmdoubzd"
+              }
+            ]
+          }
+        },
+        "id": "2104093218535337984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104530414564147669",
+        "name": "炸玉777？",
+        "pinned_tweet_id": "2104094533499953326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104093218535337984/1790490181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104093619770765312/T8_aEFig_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 55,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "zerooooouy69",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

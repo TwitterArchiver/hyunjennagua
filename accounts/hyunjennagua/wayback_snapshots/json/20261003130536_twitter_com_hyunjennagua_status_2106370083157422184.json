@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106341953541693862",
+    "created_at": "2026-10-03T13:05:36.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106370083157422184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106370083157422184",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106369336395079932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks 🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106369331810451456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtTv0xWwAALuVH.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106341953541693862",
+        "created_at": "2026-10-03T13:05:36.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106370083157422184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106370083157422184",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106369336395079932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106369331810451456"
+          ]
+        },
+        "author_id": "1804344378338480128",
+        "conversation_id": "2106341953541693862",
+        "created_at": "2026-10-03T13:02:38.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106369336395079932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGZxOmHbOf",
+              "end": 46,
+              "expanded_url": "https://x.com/Acmduemsks/status/2106369336395079932/photo/1",
+              "media_key": "3_2106369331810451456",
+              "start": 23,
+              "url": "https://t.co/nGZxOmHbOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106369336395079932",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106369331810451456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106341953541693862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 差不多，也好冷🥺 https://t.co/nGZxOmHbOf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2106370083157422184",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 1192,
+          "like_count": 11206,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 5079
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜电子鱼 @Fisssh712 |萍水相逢有缘人@jazzvoid7｜亲友@aoi4uto｜猫@maoxianact",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "Fisssh712"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "username": "aoi4uto"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianact"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "is_identity_verified": false,
+        "location": "Coventry, England",
+        "most_recent_tweet_id": "2106369803384709480",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 676,
+          "like_count": 12014,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 7753
+        },
+        "url": "",
+        "username": "Acmduemsks",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

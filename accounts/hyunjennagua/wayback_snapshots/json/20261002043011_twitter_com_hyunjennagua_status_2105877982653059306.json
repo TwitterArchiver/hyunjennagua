@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103462790300061696",
+        "3_2103462790300131328"
+      ],
+      "media_source_tweet_id": [
+        "2103462844876353965",
+        "2103462844876353965"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2105877982653059306",
+    "created_at": "2026-10-02T04:30:11.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105877982653059306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1870858980752543744",
+          "start": 3,
+          "username": "AzaelRose1017"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/txBLrLQcDV",
+          "end": 112,
+          "expanded_url": "https://x.com/AzaelRose1017/status/2103462844876353965/photo/1",
+          "media_key": "3_2103462790300061696",
+          "start": 89,
+          "url": "https://t.co/txBLrLQcDV"
+        },
+        {
+          "display_url": "pic.x.com/txBLrLQcDV",
+          "end": 112,
+          "expanded_url": "https://x.com/AzaelRose1017/status/2103462844876353965/photo/1",
+          "media_key": "3_2103462790300131328",
+          "start": 89,
+          "url": "https://t.co/txBLrLQcDV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105877982653059306",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103462790300061696"
+      },
+      {
+        "media_key": "3_2103462790300131328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103462844876353965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AzaelRose1017: 我是阿清／清风，现在需要更多互关，成分看主页简介，🏳️‍🌈一切友好\n30号在转发且已关注里抽一盒🌽\n随便赞赏我可以获得好友位（只限纯绿哦） https://t.co/txBLrLQcDV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103462790300061696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEAQ14WUAAjQvm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2103462790300131328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEAQ14XYAAlQ90.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103462790300061696",
+            "3_2103462790300131328"
+          ],
+          "media_source_tweet_id": [
+            "2103462844876353965",
+            "2103462844876353965"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2105877982653059306",
+        "created_at": "2026-10-02T04:30:11.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105877982653059306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1870858980752543744",
+              "start": 3,
+              "username": "AzaelRose1017"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/txBLrLQcDV",
+              "end": 112,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2103462844876353965/photo/1",
+              "media_key": "3_2103462790300061696",
+              "start": 89,
+              "url": "https://t.co/txBLrLQcDV"
+            },
+            {
+              "display_url": "pic.x.com/txBLrLQcDV",
+              "end": 112,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2103462844876353965/photo/1",
+              "media_key": "3_2103462790300131328",
+              "start": 89,
+              "url": "https://t.co/txBLrLQcDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105877982653059306",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103462790300061696"
+          },
+          {
+            "media_key": "3_2103462790300131328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103462844876353965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AzaelRose1017: 我是阿清／清风，现在需要更多互关，成分看主页简介，🏳️‍🌈一切友好\n30号在转发且已关注里抽一盒🌽\n随便赞赏我可以获得好友位（只限纯绿哦） https://t.co/txBLrLQcDV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103462790300061696",
+            "3_2103462790300131328"
+          ]
+        },
+        "author_id": "1870858980752543744",
+        "conversation_id": "2103462844876353965",
+        "created_at": "2026-09-25T12:33:17.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103462844876353965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/txBLrLQcDV",
+              "end": 93,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2103462844876353965/photo/1",
+              "media_key": "3_2103462790300061696",
+              "start": 70,
+              "url": "https://t.co/txBLrLQcDV"
+            },
+            {
+              "display_url": "pic.x.com/txBLrLQcDV",
+              "end": 93,
+              "expanded_url": "https://x.com/AzaelRose1017/status/2103462844876353965/photo/1",
+              "media_key": "3_2103462790300131328",
+              "start": 70,
+              "url": "https://t.co/txBLrLQcDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103462844876353965",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103462790300061696"
+          },
+          {
+            "media_key": "3_2103462790300131328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1169,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我是阿清／清风，现在需要更多互关，成分看主页简介，🏳️‍🌈一切友好\n30号在转发且已关注里抽一盒🌽\n随便赞赏我可以获得好友位（只限纯绿哦） https://t.co/txBLrLQcDV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2105877982653059306",
+        "name": "南瓜",
+        "pinned_tweet_id": "2104106224522559738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1181,
+          "like_count": 11038,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 4987
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T15:48:53.000Z",
+        "description": "僕らの記憶を掠わないで\n＝阿清/双相／自伤／BPD/ADHD/ED／泛性恋/心理性别是阿普唑仑/互fo会查成分",
+        "id": "1870858980752543744",
+        "is_identity_verified": false,
+        "location": "马里亚纳海沟",
+        "most_recent_tweet_id": "2105874472800591912",
+        "name": "爱与致幻剂",
+        "pinned_tweet_id": "2103462844876353965",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870858980752543744/1790265366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103064899911897089/S2d4YqfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 92,
+          "like_count": 2121,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "AzaelRose1017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

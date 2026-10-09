@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106374906778894719",
+    "created_at": "2026-10-03T15:35:49.000Z",
+    "display_text_range": [
+      11,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106407884838129770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066928700562784256",
+          "start": 0,
+          "username": "kkkkkkpro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106407884838129770",
+    "in_reply_to_user_id": "2066928700562784256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106404196174152186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkkpro 谢谢你谢谢你不要o后冲动呀等你药效后要是反悔了可以找我要回来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106374906778894719",
+        "created_at": "2026-10-03T15:35:49.000Z",
+        "display_text_range": [
+          11,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106407884838129770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066928700562784256",
+              "start": 0,
+              "username": "kkkkkkpro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106407884838129770",
+        "in_reply_to_user_id": "2066928700562784256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106404196174152186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkkpro 谢谢你谢谢你不要o后冲动呀等你药效后要是反悔了可以找我要回来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066928700562784256",
+        "conversation_id": "2106374906778894719",
+        "created_at": "2026-10-03T15:21:10.000Z",
+        "display_text_range": [
+          14,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106404196174152186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106404196174152186",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106374906778894719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 没关系呀，我给你好了，我赞助你点，hh，对不起我o大了，现在有点神智不清我，但我赞助你点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2106407884838129770",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 1194,
+          "like_count": 11366,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 5108
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T17:00:10.000Z",
+        "description": "09/男/od/🚬/🍷/187cm70kg（增长中）\n药物重度依赖，分享一些日常和负面信息。pr！pr！ym！ym！†升天† †升天†",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k25547",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k25547",
+                "start": 0,
+                "url": "https://t.co/uT9Gd62vsP"
+              }
+            ]
+          }
+        },
+        "id": "2066928700562784256",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2106405980359770369",
+        "name": "k！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066928700562784256/1788984992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096291987662286849/8PtG3_T-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 68,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/uT9Gd62vsP",
+        "username": "kkkkkkpro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

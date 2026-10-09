@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2101165451237802295",
+    "created_at": "2026-09-19T06:25:56.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101196073524244715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101196073524244715",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101187039576445106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akihiro_0313 😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101187031737225216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSjqeQla0AAtSLw.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2101165451237802295",
+        "created_at": "2026-09-19T06:25:56.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101196073524244715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101196073524244715",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101187039576445106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101187031737225216"
+          ]
+        },
+        "author_id": "1781893716183060480",
+        "conversation_id": "2101165451237802295",
+        "created_at": "2026-09-19T05:50:03.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T06:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101187039576445106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gilh7buMAp",
+              "end": 44,
+              "expanded_url": "https://x.com/akihiro_0313/status/2101187039576445106/photo/1",
+              "media_key": "3_2101187031737225216",
+              "start": 21,
+              "url": "https://t.co/gilh7buMAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101187039576445106",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101187031737225216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101166232666087912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 其实一直在掉 https://t.co/gilh7buMAp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2101196073524244715",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 1167,
+          "like_count": 10284,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 4775
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "☄️ あきひろ｜個人勢VTuber\n🇨🇳｜15\n🎮 ゲーム・雑談\n🌌 アニメ・二次元が大好き！\n💻 プログラミング\n✏️ 日本語勉強中\n気軽に仲良くしてください😼✨\n🐾 大切な親友がいます➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@akihiro.0313",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@akihiro.0313",
+                "start": 0,
+                "url": "https://t.co/TJSD4LP3Ow"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "is_identity_verified": true,
+        "location": "A happy world...",
+        "most_recent_tweet_id": "2101190094661308684",
+        "name": "⟩あきひろ✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781893716183060480/1786076592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085586274866606080/IOegF-Ij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 3007,
+          "like_count": 16633,
+          "listed_count": 2,
+          "media_count": 1799,
+          "tweet_count": 12399
+        },
+        "url": "https://t.co/TJSD4LP3Ow",
+        "username": "akihiro_0313",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

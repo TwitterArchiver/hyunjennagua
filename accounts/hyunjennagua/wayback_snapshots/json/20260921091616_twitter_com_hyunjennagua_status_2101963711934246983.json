@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2101963711934246983",
+    "created_at": "2026-09-21T09:16:16.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101963711934246983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rtqqmc/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/rtqqmc/status/2101895861320012248",
+          "start": 8,
+          "url": "https://t.co/pmtQHOHnWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101963711934246983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101895861320012248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "千早姐姐被冻了 https://t.co/pmtQHOHnWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3476,
+        "media_key": "3_2101895842307444736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStvIdubEAAu5e9.jpg",
+        "width": 1887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2101963711934246983",
+        "created_at": "2026-09-21T09:16:16.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101963711934246983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rtqqmc/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/rtqqmc/status/2101895861320012248",
+              "start": 8,
+              "url": "https://t.co/pmtQHOHnWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101963711934246983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101895861320012248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "千早姐姐被冻了 https://t.co/pmtQHOHnWj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101895842307444736"
+          ]
+        },
+        "author_id": "2074175129052143620",
+        "conversation_id": "2101895861320012248",
+        "created_at": "2026-09-21T04:46:39.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101895861320012248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JNEcpBil6",
+              "end": 110,
+              "expanded_url": "https://x.com/rtqqmc/status/2101895861320012248/photo/1",
+              "media_key": "3_2101895842307444736",
+              "start": 87,
+              "url": "https://t.co/9JNEcpBil6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101895861320012248",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101895842307444736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们，我是妃宫千早二周目，意外被msk坠机,以前的互关啊，你们回来吧，互关们，麻烦帮我转一下帖子喵，千早谢谢你们了喵Ψ(●°̥̥̥̥̥̥̥̥ ཅ °̥̥̥̥̥̥̥̥●)Ψ https://t.co/9JNEcpBil6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2101963711934246983",
+        "name": "南瓜",
+        "pinned_tweet_id": "2101228648724652212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 1164,
+          "like_count": 10357,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 4801
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T16:57:12.000Z",
+        "description": "姐姐会永远爱你",
+        "id": "2074175129052143620",
+        "is_identity_verified": false,
+        "location": "教堂",
+        "most_recent_tweet_id": "2101961029085254108",
+        "name": "妃宫千早2.0互关巡回中",
+        "pinned_tweet_id": "2101895861320012248",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074175129052143620/1788780341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101304896674799616/sIZCujH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 86,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "rtqqmc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

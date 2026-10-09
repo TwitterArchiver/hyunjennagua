@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2107046567538725045",
+    "created_at": "2026-10-05T10:56:32.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T11:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107062375123947661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643785305533874177",
+          "start": 0,
+          "username": "MeraK_Rinchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107062375123947661",
+    "in_reply_to_user_id": "1643785305533874177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107049162189709458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeraK_Rinchi 紫色的也好看🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2107046567538725045",
+        "created_at": "2026-10-05T10:56:32.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107062375123947661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643785305533874177",
+              "start": 0,
+              "username": "MeraK_Rinchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107062375123947661",
+        "in_reply_to_user_id": "1643785305533874177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107049162189709458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeraK_Rinchi 紫色的也好看🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643785305533874177",
+        "conversation_id": "2107046567538725045",
+        "created_at": "2026-10-05T10:04:02.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T11:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107049162189709458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107049162189709458",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107046567538725045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 卡瓦！我的是紫色（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2107062375123947661",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 1206,
+          "like_count": 11594,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 5204
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-06T01:19:01.000Z",
+        "description": "旧名凛柒 ——「望む結末へと伸ばした両手」\n永远的Ashley：@hmj404；巫女sama：@se_hui33649；\n好哥哥：@Matsuki_Shr1veL；可爱妹妹：@AspiLin0；\n结结喵：@Margarette63331；逃生舱：@Hoshi_MeraK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "hmj404"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "se_hui33649"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "Matsuki_Shr1veL"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "AspiLin0"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Margarette63331"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Hoshi_MeraK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/merak_rinchi",
+                "end": 23,
+                "expanded_url": "https://t.me/merak_rinchi",
+                "start": 0,
+                "url": "https://t.co/CZavt5g21n"
+              }
+            ]
+          }
+        },
+        "id": "1643785305533874177",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2107049162189709458",
+        "name": "༺空川🎇陸🎆༻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643785305533874177/1765846893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106390685528272896/uPuywieS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 413,
+          "like_count": 28828,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 2522
+        },
+        "url": "https://t.co/CZavt5g21n",
+        "username": "MeraK_Rinchi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

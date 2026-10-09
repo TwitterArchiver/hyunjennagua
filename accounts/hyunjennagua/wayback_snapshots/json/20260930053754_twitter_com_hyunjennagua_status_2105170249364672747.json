@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2105170249364672747",
+    "created_at": "2026-09-30T05:37:54.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T06:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105170249364672747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neetdegenboy/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/neetdegenboy/status/2104411811894497643",
+          "start": 2,
+          "url": "https://t.co/TBLjRPms3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105170249364672747",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104411811894497643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/TBLjRPms3b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 100147,
+        "height": 640,
+        "media_key": "7_2058689915768942593",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058689915768942593/pu/img/-7iwsjz18lMXlQkL.jpg",
+        "public_metrics": {
+          "view_count": 8940339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058689915768942593/pu/vid/avc1/320x580/sCbGykgNS37aOs6A.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058689915768942593/pu/vid/avc1/352x640/zu1rzH1S3riLqC5x.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058689915768942593/pu/pl/rgR0q12urievghzA.m3u8?tag=12"
+          }
+        ],
+        "width": 352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2105170249364672747",
+        "created_at": "2026-09-30T05:37:54.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105170249364672747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neetdegenboy/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/neetdegenboy/status/2104411811894497643",
+              "start": 2,
+              "url": "https://t.co/TBLjRPms3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105170249364672747",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104411811894497643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/TBLjRPms3b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058689915768942593"
+          ],
+          "media_source_tweet_id": [
+            "2058689966020936019"
+          ]
+        },
+        "author_id": "1816295802177810432",
+        "conversation_id": "2104411811894497643",
+        "created_at": "2026-09-28T03:24:08.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104411811894497643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLMCrye2L1",
+              "end": 149,
+              "expanded_url": "https://x.com/bmanonlyone/status/2058689966020936019/video/1",
+              "media_key": "7_2058689915768942593",
+              "start": 126,
+              "url": "https://t.co/SLMCrye2L1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104411811894497643",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2058689915768942593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 19858,
+          "impression_count": 1071762,
+          "like_count": 31538,
+          "quote_count": 59,
+          "reply_count": 124,
+          "retweet_count": 1856
+        },
+        "reply_settings": "everyone",
+        "text": "think I’m starting to get a lil bit obsessed with your dick lil bro omfg it’s so fucking hard let me pump it for you dude😵‍💫💗 https://t.co/SLMCrye2L1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2105170249364672747",
+        "name": "南瓜",
+        "pinned_tweet_id": "2104106224522559738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 1174,
+          "like_count": 10882,
+          "listed_count": 1,
+          "media_count": 452,
+          "tweet_count": 4953
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-25T02:14:09.000Z",
+        "description": "18+ | bi pervert virgin boy addicted to milking his average dong💗 dms open 😵‍💫",
+        "id": "1816295802177810432",
+        "is_identity_verified": false,
+        "location": "22",
+        "most_recent_tweet_id": "2104949848999153822",
+        "name": "“",
+        "pinned_tweet_id": "2048214660894314694",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094643814229282816/9PDXFgJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35933,
+          "following_count": 778,
+          "like_count": 3901,
+          "listed_count": 24,
+          "media_count": 546,
+          "tweet_count": 1111
+        },
+        "url": "",
+        "username": "neetdegenboy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

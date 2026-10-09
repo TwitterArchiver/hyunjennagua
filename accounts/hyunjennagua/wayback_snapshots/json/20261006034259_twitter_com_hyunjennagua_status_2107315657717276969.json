@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2107296671650685383",
+    "created_at": "2026-10-06T03:42:59.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T04:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107315657717276969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541221043594993664",
+          "start": 0,
+          "username": "CocoYui2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107315657717276969",
+    "in_reply_to_user_id": "1541221043594993664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107300592234414127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CocoYui2003 早呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2107296671650685383",
+        "created_at": "2026-10-06T03:42:59.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T04:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107315657717276969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541221043594993664",
+              "start": 0,
+              "username": "CocoYui2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107315657717276969",
+        "in_reply_to_user_id": "1541221043594993664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107300592234414127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CocoYui2003 早呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541221043594993664",
+        "conversation_id": "2107296671650685383",
+        "created_at": "2026-10-06T02:43:07.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T03:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107300592234414127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107300592234414127",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107296671650685383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 早上好呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2107315657717276969",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 1213,
+          "like_count": 11749,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 5259
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-27T00:45:26.000Z",
+        "description": "♂，20↑，coser和萌新kiger欢迎和我多互动。孩子喜欢聊天！，欢迎畅聊！一般不扩列，想和我聊天直接私信就行啦！没粉丝没头像的空白账号和广告不回复，一上来就性骚扰的直接拉黑。一般只回复粉丝哦！",
+        "id": "1541221043594993664",
+        "is_identity_verified": false,
+        "location": "杜王町",
+        "most_recent_tweet_id": "2107300592234414127",
+        "name": "羽衣瑞希yui",
+        "pinned_tweet_id": "2060625786491793723",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541221043594993664/1778406127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091889389765042176/OqcRorKZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 2748,
+          "like_count": 143242,
+          "listed_count": 11,
+          "media_count": 403,
+          "tweet_count": 5317
+        },
+        "url": "",
+        "username": "CocoYui2003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

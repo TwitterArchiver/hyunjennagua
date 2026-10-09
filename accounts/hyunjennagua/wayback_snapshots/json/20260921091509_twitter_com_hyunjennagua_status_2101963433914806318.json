@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2101952301686575386",
+    "created_at": "2026-09-21T09:15:09.000Z",
+    "display_text_range": [
+      16,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101963433914806318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1486975640628723718",
+          "start": 0,
+          "username": "sh0p_ass1stant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101963433914806318",
+    "in_reply_to_user_id": "1486975640628723718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101952301686575386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sh0p_ass1stant 看见自己了嘻嘻嘻嘻嘻嘻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3773,
+        "media_key": "3_2101952281881255936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuidrhaoAA5N3m.jpg",
+        "width": 2716
+      },
+      {
+        "height": 3583,
+        "media_key": "3_2101952292392243200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuieSrbkAA7O6Q.jpg",
+        "width": 2619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2101952301686575386",
+        "created_at": "2026-09-21T09:15:09.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101963433914806318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486975640628723718",
+              "start": 0,
+              "username": "sh0p_ass1stant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101963433914806318",
+        "in_reply_to_user_id": "1486975640628723718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101952301686575386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh0p_ass1stant 看见自己了嘻嘻嘻嘻嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101952281881255936",
+            "3_2101952292392243200"
+          ]
+        },
+        "author_id": "1486975640628723718",
+        "conversation_id": "2101952301686575386",
+        "created_at": "2026-09-21T08:30:55.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101952301686575386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sjaopQCyG",
+              "end": 70,
+              "expanded_url": "https://x.com/sh0p_ass1stant/status/2101952301686575386/photo/1",
+              "media_key": "3_2101952281881255936",
+              "start": 47,
+              "url": "https://t.co/9sjaopQCyG"
+            },
+            {
+              "display_url": "pic.x.com/9sjaopQCyG",
+              "end": 70,
+              "expanded_url": "https://x.com/sh0p_ass1stant/status/2101952301686575386/photo/1",
+              "media_key": "3_2101952292392243200",
+              "start": 47,
+              "url": "https://t.co/9sjaopQCyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101952301686575386",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101952281881255936"
+          },
+          {
+            "media_key": "3_2101952292392243200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "先写两页，让我休息下再写✍🏻，手好酸，正经写字太累了，我平时都是鬼画符自己认得就行的😵😵😵😵 https://t.co/9sjaopQCyG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2101963433914806318",
+        "name": "南瓜",
+        "pinned_tweet_id": "2101228648724652212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 1163,
+          "like_count": 10356,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 4799
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-28T08:13:24.000Z",
+        "description": "希望和很多人成为朋友，欢迎互fo!😘分身@Sh0p_asslstant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Sh0p_asslstant"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keai87621",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keai87621",
+                "start": 0,
+                "url": "https://t.co/Ci4TMetGKe"
+              }
+            ]
+          }
+        },
+        "id": "1486975640628723718",
+        "is_identity_verified": false,
+        "location": "我的小棺材",
+        "most_recent_tweet_id": "2101955804333244923",
+        "name": "店员🍵",
+        "pinned_tweet_id": "2076999311133708755",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486975640628723718/1777708739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039660133039620096/uQy2fFRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 490,
+          "like_count": 11858,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/Ci4TMetGKe",
+        "username": "sh0p_ass1stant",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

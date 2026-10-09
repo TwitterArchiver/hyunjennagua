@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2104083201379762279",
+    "created_at": "2026-09-27T05:38:21.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T06:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104083201379762279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huangguoai/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/huangguoai/status/2103435169428586644",
+          "start": 5,
+          "url": "https://t.co/0CFgKr8o3J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104083201379762279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103435169428586644",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这他妈啥 https://t.co/0CFgKr8o3J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 521357,
+        "height": 720,
+        "media_key": "13_2103434959914745856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103434959914745856/img/Ua1jvqk0YB_qrCoK.jpg",
+        "public_metrics": {
+          "view_count": 1488651
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103434959914745856/vid/avc1/480x270/ijx7JnQm9X53340r.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103434959914745856/vid/avc1/640x360/3PSuHzJVru5ncN5z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103434959914745856/vid/avc1/1282x720/AO4BQFoypyMursAq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103434959914745856/pl/cl9oOSEL6uVigSQU.m3u8"
+          }
+        ],
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2104083201379762279",
+        "created_at": "2026-09-27T05:38:21.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104083201379762279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huangguoai/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/huangguoai/status/2103435169428586644",
+              "start": 5,
+              "url": "https://t.co/0CFgKr8o3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104083201379762279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103435169428586644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这他妈啥 https://t.co/0CFgKr8o3J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103434959914745856"
+          ]
+        },
+        "author_id": "1899790989071683584",
+        "conversation_id": "2103435169428586644",
+        "created_at": "2026-09-25T10:43:18.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103435169428586644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 122,
+              "tag": "真人奴可梦训练大师"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "黄果短剧"
+            },
+            {
+              "end": 146,
+              "start": 139,
+              "tag": "ai成人短剧"
+            },
+            {
+              "end": 152,
+              "start": 147,
+              "tag": "ai短剧"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 88,
+              "id": "2099517705749745664",
+              "start": 76,
+              "username": "ZXYZyinmeng"
+            },
+            {
+              "end": 108,
+              "id": "2099523369867816960",
+              "start": 97,
+              "username": "wumingbd9z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vR1tHPkzDm",
+              "end": 176,
+              "expanded_url": "https://x.com/huangguoai/status/2103435169428586644/video/1",
+              "media_key": "13_2103434959914745856",
+              "start": 153,
+              "url": "https://t.co/vR1tHPkzDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103435169428586644",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103434959914745856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16086,
+          "impression_count": 1305636,
+          "like_count": 32300,
+          "quote_count": 30,
+          "reply_count": 214,
+          "retweet_count": 2096
+        },
+        "reply_settings": "everyone",
+        "text": "黄果短剧 独家原创         \n\n《真人奴可梦训练大师》 EP10                 \n\n母子竞技，究竟谁的妈妈更强？！\n\n黄果编剧@ZXYZyinmeng vs 黄果制作师@wumingbd9z作品          \n\n#真人奴可梦训练大师 #黄果短剧 #ai成人短剧 #ai短剧 https://t.co/vR1tHPkzDm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2104083201379762279",
+        "name": "南瓜",
+        "pinned_tweet_id": "2101228648724652212",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 1159,
+          "like_count": 10430,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 4848
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-12T11:54:14.000Z",
+        "description": "黄果短剧｜AI成人短剧原创品牌🔞\nTG交流群：https://t.co/KJ9ojklfAe\n商务合作：huangguoaiai@gmail.com\n防丢小号：@huangguochan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "huangguochan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/huangguofans",
+                "end": 46,
+                "expanded_url": "http://t.me/huangguofans",
+                "start": 23,
+                "url": "https://t.co/KJ9ojklfAe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "huangguoai.com",
+                "end": 23,
+                "expanded_url": "http://huangguoai.com",
+                "start": 0,
+                "url": "https://t.co/FrJHpfnw6w"
+              }
+            ]
+          }
+        },
+        "id": "1899790989071683584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104064748719636570",
+        "name": "黄果短剧",
+        "pinned_tweet_id": "2096422209409650847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899790989071683584/1786722597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077733875820994560/XD7Ahg-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602417,
+          "following_count": 10,
+          "like_count": 77,
+          "listed_count": 715,
+          "media_count": 211,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/FrJHpfnw6w",
+        "username": "huangguoai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106337677910134895",
+    "created_at": "2026-10-03T16:52:13.000Z",
+    "display_text_range": [
+      12,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106427111267586185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065776805630607360",
+          "start": 0,
+          "username": "shylyyyyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106427111267586185",
+    "in_reply_to_user_id": "2065776805630607360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106426705447661836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shylyyyyou 谢谢！！—ദ്ദി˶&gt;𖥦&lt;)✧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106337677910134895",
+        "created_at": "2026-10-03T16:52:13.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106427111267586185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065776805630607360",
+              "start": 0,
+              "username": "shylyyyyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106427111267586185",
+        "in_reply_to_user_id": "2065776805630607360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106426705447661836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shylyyyyou 谢谢！！—ദ്ദി˶&gt;𖥦&lt;)✧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065776805630607360",
+        "conversation_id": "2106337677910134895",
+        "created_at": "2026-10-03T16:50:36.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106426705447661836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106426705447661836",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106337677910134895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 恭喜南瓜！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2106427111267586185",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 1197,
+          "like_count": 11388,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 5118
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T12:43:41.000Z",
+        "description": "主人 @C2421093947451\n傻逼别缠我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "C2421093947451"
+              }
+            ]
+          }
+        },
+        "id": "2065776805630607360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106426813610369276",
+        "name": "08",
+        "pinned_tweet_id": "2104997890410287517",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065776805630607360/1790572087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104437972968079361/Yb5MY5OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 31,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "shylyyyyou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

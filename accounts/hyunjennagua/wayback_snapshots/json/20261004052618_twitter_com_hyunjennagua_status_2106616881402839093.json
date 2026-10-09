@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106587753802866804",
+    "created_at": "2026-10-04T05:26:18.000Z",
+    "display_text_range": [
+      13,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106616881402839093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "797756020202160132",
+          "start": 0,
+          "username": "hiroki0705s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106616881402839093",
+    "in_reply_to_user_id": "797756020202160132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106587753802866804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiroki0705s 好久没刷到你了！\n还是这么美🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106587740662054913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwaY5JawAEM27S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106587753802866804",
+        "created_at": "2026-10-04T05:26:18.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106616881402839093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "797756020202160132",
+              "start": 0,
+              "username": "hiroki0705s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106616881402839093",
+        "in_reply_to_user_id": "797756020202160132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106587753802866804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiroki0705s 好久没刷到你了！\n还是这么美🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106587740662054913"
+          ]
+        },
+        "author_id": "797756020202160132",
+        "conversation_id": "2106587753802866804",
+        "created_at": "2026-10-04T03:30:33.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106587753802866804"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "美少年"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "fypシ゚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IVyoPMhkiq",
+              "end": 70,
+              "expanded_url": "https://x.com/hiroki0705s/status/2106587753802866804/photo/1",
+              "media_key": "3_2106587740662054913",
+              "start": 47,
+              "url": "https://t.co/IVyoPMhkiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106587753802866804",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106587740662054913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少有的扎了侧马尾✌️\n蓝黑配色也是很好的吧！\n#自撮り界隈\n#美少年\n#江浙沪\n#fypシ゚ https://t.co/IVyoPMhkiq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2106616881402839093",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 1205,
+          "like_count": 11431,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 5136
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-11-13T11:00:31.000Z",
+        "description": "地雷系男子👁有在玩cos兴趣调酒。互fo交友大欢迎！中国語、日本語🉑intj",
+        "id": "797756020202160132",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2106592997295215008",
+        "name": "ヒロキ💜🍸",
+        "pinned_tweet_id": "1989859851963679026",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/797756020202160132/1763354457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990278918889426944/zrCkC17V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 915,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "hiroki0705s",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

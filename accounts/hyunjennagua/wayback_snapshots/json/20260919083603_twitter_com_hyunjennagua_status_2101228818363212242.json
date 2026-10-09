@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100955685534203904",
+        "13_2100955727934414848"
+      ],
+      "media_source_tweet_id": [
+        "2100956267951092209",
+        "2100956267951092209"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101228818363212242",
+    "created_at": "2026-09-19T08:36:03.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101228818363212242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1504295723277631489",
+          "start": 3,
+          "username": "dongxiaojie99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qKyV7Ue9P9",
+          "end": 53,
+          "expanded_url": "https://x.com/dongxiaojie99/status/2100956267951092209/video/1",
+          "media_key": "3_2100955685534203904",
+          "start": 30,
+          "url": "https://t.co/qKyV7Ue9P9"
+        },
+        {
+          "display_url": "pic.x.com/qKyV7Ue9P9",
+          "end": 53,
+          "expanded_url": "https://x.com/dongxiaojie99/status/2100956267951092209/video/1",
+          "media_key": "13_2100955727934414848",
+          "start": 30,
+          "url": "https://t.co/qKyV7Ue9P9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101228818363212242",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100955685534203904"
+      },
+      {
+        "media_key": "13_2100955727934414848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100956267951092209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dongxiaojie99: 卧槽广东最近咋了…… https://t.co/qKyV7Ue9P9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2100955685534203904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgYEI0agAA7QWY.jpg",
+        "width": 1179
+      },
+      {
+        "duration_ms": 26366,
+        "height": 1274,
+        "media_key": "13_2100955727934414848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100955727934414848/img/5Qd1AtsFSOSMCTk4.jpg",
+        "public_metrics": {
+          "view_count": 1016646
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100955727934414848/vid/avc1/320x692/dtTe_metRZKVzGWs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100955727934414848/vid/avc1/480x1040/d0kEh8OhX-0M_tBh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100955727934414848/vid/avc1/588x1274/0VQ4rl0i0ebMvgum.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100955727934414848/pl/PtQhhEcvAQ672UYZ.m3u8"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100955685534203904",
+            "13_2100955727934414848"
+          ],
+          "media_source_tweet_id": [
+            "2100956267951092209",
+            "2100956267951092209"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101228818363212242",
+        "created_at": "2026-09-19T08:36:03.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101228818363212242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1504295723277631489",
+              "start": 3,
+              "username": "dongxiaojie99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKyV7Ue9P9",
+              "end": 53,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2100956267951092209/video/1",
+              "media_key": "3_2100955685534203904",
+              "start": 30,
+              "url": "https://t.co/qKyV7Ue9P9"
+            },
+            {
+              "display_url": "pic.x.com/qKyV7Ue9P9",
+              "end": 53,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2100956267951092209/video/1",
+              "media_key": "13_2100955727934414848",
+              "start": 30,
+              "url": "https://t.co/qKyV7Ue9P9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101228818363212242",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100955685534203904"
+          },
+          {
+            "media_key": "13_2100955727934414848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100956267951092209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dongxiaojie99: 卧槽广东最近咋了…… https://t.co/qKyV7Ue9P9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100955685534203904",
+            "13_2100955727934414848"
+          ]
+        },
+        "author_id": "1504295723277631489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100956267951092209",
+        "created_at": "2026-09-18T14:33:02.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100956267951092209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKyV7Ue9P9",
+              "end": 34,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2100956267951092209/video/1",
+              "media_key": "3_2100955685534203904",
+              "start": 11,
+              "url": "https://t.co/qKyV7Ue9P9"
+            },
+            {
+              "display_url": "pic.x.com/qKyV7Ue9P9",
+              "end": 34,
+              "expanded_url": "https://x.com/dongxiaojie99/status/2100956267951092209/video/1",
+              "media_key": "13_2100955727934414848",
+              "start": 11,
+              "url": "https://t.co/qKyV7Ue9P9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100956267951092209",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100955685534203904"
+          },
+          {
+            "media_key": "13_2100955727934414848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 483,
+          "impression_count": 1527192,
+          "like_count": 2186,
+          "quote_count": 15,
+          "reply_count": 959,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽广东最近咋了…… https://t.co/qKyV7Ue9P9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2101228818363212242",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 1167,
+          "like_count": 10291,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 4779
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-17T03:17:55.000Z",
+        "description": "杭州人\n\n小号 @dongfupo773\n\n广告真假自辩哦！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "dongfupo773"
+              }
+            ]
+          }
+        },
+        "id": "1504295723277631489",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100986965198061709",
+        "name": "董小姐的日常",
+        "pinned_tweet_id": "2088170091053715846",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504295723277631489/1647608712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504297795658072067/U_UpJL-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247398,
+          "following_count": 32,
+          "like_count": 15383,
+          "listed_count": 311,
+          "media_count": 3072,
+          "tweet_count": 15004
+        },
+        "url": "",
+        "username": "dongxiaojie99",
+        "verified": true,
+        "verified_type": "blue",
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

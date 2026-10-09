@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106596140665979031",
+    "created_at": "2026-10-04T06:08:41.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106627547928953283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066928700562784256",
+          "start": 0,
+          "username": "kkkkkkpro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106627547928953283",
+    "in_reply_to_user_id": "2066928700562784256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106623947748036736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkkkpro 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106596140665979031",
+        "created_at": "2026-10-04T06:08:41.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106627547928953283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066928700562784256",
+              "start": 0,
+              "username": "kkkkkkpro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106627547928953283",
+        "in_reply_to_user_id": "2066928700562784256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106623947748036736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkkkpro 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066928700562784256",
+        "conversation_id": "2106596140665979031",
+        "created_at": "2026-10-04T05:54:22.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106623947748036736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106623947748036736",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106615686823018645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 谢谢南瓜😢去医院缝针了，今天可能还会发生什么事情😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2106627547928953283",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 1205,
+          "like_count": 11437,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 5139
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T17:00:10.000Z",
+        "description": "09/男/od/🚬/🍷/187cm70kg（增长中）\n药物重度依赖，分享一些日常和负面信息。pr！pr！ym！ym！†升天† †升天†",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k25547",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k25547",
+                "start": 0,
+                "url": "https://t.co/uT9Gd62vsP"
+              }
+            ]
+          }
+        },
+        "id": "2066928700562784256",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2106623947748036736",
+        "name": "k！",
+        "pinned_tweet_id": "2106424202568122609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066928700562784256/1788984992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096291987662286849/8PtG3_T-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 62,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/uT9Gd62vsP",
+        "username": "kkkkkkpro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

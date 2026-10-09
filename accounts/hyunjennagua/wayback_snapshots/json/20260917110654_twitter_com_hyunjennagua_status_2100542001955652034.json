@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100001527914242048"
+      ],
+      "media_source_tweet_id": [
+        "2100343972472525271"
+      ]
+    },
+    "author_id": "1965246583379034117",
+    "conversation_id": "2100542001955652034",
+    "created_at": "2026-09-17T11:06:54.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T12:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100542001955652034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7PDobcpdFw",
+          "end": 53,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2100343972472525271/photo/1",
+          "media_key": "3_2100001527914242048",
+          "start": 30,
+          "url": "https://t.co/7PDobcpdFw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100542001955652034",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100001527914242048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100343972472525271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: 你至少不能这么玩…… https://t.co/7PDobcpdFw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2100001527914242048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSS0Q2sbIAAaqUm.jpg",
+        "width": 756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100001527914242048"
+          ],
+          "media_source_tweet_id": [
+            "2100343972472525271"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2100542001955652034",
+        "created_at": "2026-09-17T11:06:54.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100542001955652034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PDobcpdFw",
+              "end": 53,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2100343972472525271/photo/1",
+              "media_key": "3_2100001527914242048",
+              "start": 30,
+              "url": "https://t.co/7PDobcpdFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100542001955652034",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100001527914242048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100343972472525271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: 你至少不能这么玩…… https://t.co/7PDobcpdFw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100001527914242048"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2100343972472525271",
+        "created_at": "2026-09-16T22:00:00.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100343972472525271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PDobcpdFw",
+              "end": 34,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2100343972472525271/photo/1",
+              "media_key": "3_2100001527914242048",
+              "start": 11,
+              "url": "https://t.co/7PDobcpdFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100343972472525271",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100001527914242048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 65480,
+          "like_count": 241,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你至少不能这么玩…… https://t.co/7PDobcpdFw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2100542001955652034",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 1169,
+          "like_count": 10247,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 4756
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sonora233.cn",
+                "end": 23,
+                "expanded_url": "http://sonora233.cn",
+                "start": 0,
+                "url": "https://t.co/ZNjGnQNCmQ"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2100539657943761052",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2099786811232964934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11721,
+          "following_count": 1361,
+          "like_count": 21014,
+          "listed_count": 23,
+          "media_count": 3151,
+          "tweet_count": 6957
+        },
+        "url": "https://t.co/ZNjGnQNCmQ",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2104193912768446965",
+    "created_at": "2026-09-27T13:03:48.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104195299363446978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2091765988328869889",
+          "start": 0,
+          "username": "CookiEb3j2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104195299363446978",
+    "in_reply_to_user_id": "2091765988328869889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104193912768446965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CookiEb3j2 想你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2104193912768446965",
+        "created_at": "2026-09-27T13:03:48.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104195299363446978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2091765988328869889",
+              "start": 0,
+              "username": "CookiEb3j2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104195299363446978",
+        "in_reply_to_user_id": "2091765988328869889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104193912768446965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CookiEb3j2 想你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091765988328869889",
+        "conversation_id": "2104193912768446965",
+        "created_at": "2026-09-27T12:58:17.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104193912768446965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104193912768446965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "VPN炸了，ID不知道为什么不能用了，重新买花了80多，好贵呀，wwwwww\n离开三天有人想我吗？😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2104195299363446978",
+        "name": "南瓜",
+        "pinned_tweet_id": "2104106224522559738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 1162,
+          "like_count": 10471,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 4868
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T05:54:58.000Z",
+        "description": "HiiiThis Is kiwi(cookie\n#drugstwt (我只是一个10后的傻逼\nODer💊／不🈹🔪🩸\n168 /48kg€!/📍上海／欢迎互fo\n ₊⁺ ♡̴₊⁺ ₊⁺ ♡̴₊⁺ ₊⁺ ♡̴₊⁺ ₊⁺ ♡̴₊⁺ ₊⁺ ♡̴₊\n上一世@asdfghjklcooky😭😭",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 24,
+                "tag": "drugstwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 138,
+                "start": 123,
+                "username": "asdfghjklcooky"
+              }
+            ]
+          }
+        },
+        "id": "2091765988328869889",
+        "is_identity_verified": false,
+        "location": "My love mine all mine",
+        "most_recent_tweet_id": "2104195249245729202",
+        "name": "kiwi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091765988328869889/1789910066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094487354555641856/Qm4ao7MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 94,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "CookiEb3j2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

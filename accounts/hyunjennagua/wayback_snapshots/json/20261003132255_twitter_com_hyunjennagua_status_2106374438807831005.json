@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106361552924541018",
+    "created_at": "2026-10-03T13:22:55.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106374438807831005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830213377052037120",
+          "start": 0,
+          "username": "jiu_yokki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106374438807831005",
+    "in_reply_to_user_id": "1830213377052037120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106361552924541018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_yokki 看见我了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106361539531821056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtMqQRW0AARNp1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106361552924541018",
+        "created_at": "2026-10-03T13:22:55.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106374438807831005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830213377052037120",
+              "start": 0,
+              "username": "jiu_yokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106374438807831005",
+        "in_reply_to_user_id": "1830213377052037120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106361552924541018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_yokki 看见我了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106361539531821056"
+          ]
+        },
+        "author_id": "1830213377052037120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106361552924541018",
+        "created_at": "2026-10-03T12:31:43.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106361552924541018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dix5OfdRxu",
+              "end": 29,
+              "expanded_url": "https://x.com/jiu_yokki/status/2106361552924541018/photo/1",
+              "media_key": "3_2106361539531821056",
+              "start": 6,
+              "url": "https://t.co/Dix5OfdRxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106361552924541018",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106361539531821056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩了这个！ https://t.co/Dix5OfdRxu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2106374438807831005",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 1192,
+          "like_count": 11208,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 5082
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T11:57:39.000Z",
+        "description": "叫我小玖就好｜精分｜躁郁\ndm欢迎 互关直fo看成分回",
+        "id": "1830213377052037120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106361711221412058",
+        "name": "Namida",
+        "pinned_tweet_id": "2082387245776945496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830213377052037120/1785736374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103522442517917696/16DbwQDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 251,
+          "like_count": 3010,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "jiu_yokki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

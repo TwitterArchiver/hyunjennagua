@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106360208012542270",
+    "created_at": "2026-10-03T13:27:06.000Z",
+    "display_text_range": [
+      23,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106375492584751322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        },
+        {
+          "end": 22,
+          "id": "1999068389864865794",
+          "start": 11,
+          "username": "0voki33Me2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106375492584751322",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106360208012542270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me @0voki33Me2 太好了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2106360195828080640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTtLcCla4AAPiH_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106360208012542270",
+        "created_at": "2026-10-03T13:27:06.000Z",
+        "display_text_range": [
+          23,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106375492584751322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 22,
+              "id": "1999068389864865794",
+              "start": 11,
+              "username": "0voki33Me2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106375492584751322",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106360208012542270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me @0voki33Me2 太好了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106360195828080640"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2106360208012542270",
+        "created_at": "2026-10-03T12:26:22.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106360208012542270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1999068389864865794",
+              "start": 14,
+              "username": "0voki33Me2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYl5FUL82w",
+              "end": 49,
+              "expanded_url": "https://x.com/0voki33Me/status/2106360208012542270/photo/1",
+              "media_key": "3_2106360195828080640",
+              "start": 26,
+              "url": "https://t.co/UYl5FUL82w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106360208012542270",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106360195828080640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢，谢谢，谢谢马斯克\n防炸@0voki33Me2 https://t.co/UYl5FUL82w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2106375492584751322",
+        "name": "南瓜",
+        "pinned_tweet_id": "2106337677910134895",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 1192,
+          "like_count": 11213,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 5087
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的",
+        "id": "1641968587102621696",
+        "is_identity_verified": false,
+        "location": "im 静 J!!N6",
+        "most_recent_tweet_id": "2106361721128640750",
+        "name": "4w4y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641968587102621696/1771696358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1112,
+          "like_count": 7362,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 7539
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T10:47:14.000Z",
+        "description": "本体@0voki33Me 申诉中\n我是j11ng，可以叫我静",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "0voki33Me"
+              }
+            ]
+          }
+        },
+        "id": "1999068389864865794",
+        "is_identity_verified": false,
+        "location": "我",
+        "most_recent_tweet_id": "2106330329414033568",
+        "name": "4w4y 寻回互fo",
+        "pinned_tweet_id": "2104436934387077318",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999068389864865794/1790605625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104578597629644801/aJFNfIhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 255,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "0voki33Me2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

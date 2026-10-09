@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2106337677910134895",
+    "created_at": "2026-10-03T11:02:00.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T12:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106338975590105546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830213377052037120",
+          "start": 0,
+          "username": "jiu_yokki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106338975590105546",
+    "in_reply_to_user_id": "1830213377052037120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106338728885342444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiu_yokki 谢谢小玖！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2106337677910134895",
+        "created_at": "2026-10-03T11:02:00.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106338975590105546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830213377052037120",
+              "start": 0,
+              "username": "jiu_yokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106338975590105546",
+        "in_reply_to_user_id": "1830213377052037120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106338728885342444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiu_yokki 谢谢小玖！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830213377052037120",
+        "conversation_id": "2106337677910134895",
+        "created_at": "2026-10-03T11:01:01.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106338728885342444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106338728885342444",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106337677910134895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 哦没得多！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2106338975590105546",
+        "name": "南瓜",
+        "pinned_tweet_id": "2104106224522559738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 1188,
+          "like_count": 11119,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 5040
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T11:57:39.000Z",
+        "description": "叫我小玖就好｜精分｜躁郁\ndm欢迎 互关直fo看成分回",
+        "id": "1830213377052037120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106338728885342444",
+        "name": "Namida",
+        "pinned_tweet_id": "2082387245776945496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830213377052037120/1785736374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103522442517917696/16DbwQDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 251,
+          "like_count": 3005,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "jiu_yokki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

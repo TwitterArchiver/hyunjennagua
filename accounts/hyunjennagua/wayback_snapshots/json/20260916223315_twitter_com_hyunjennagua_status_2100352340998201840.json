@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2100253399510057225",
+    "created_at": "2026-09-16T22:33:15.000Z",
+    "display_text_range": [
+      30,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T23:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100352340998201840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "357539288",
+          "start": 0,
+          "username": "rin917_8964"
+        },
+        {
+          "end": 29,
+          "id": "1757603703811371008",
+          "start": 13,
+          "username": "11andpr89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100352340998201840",
+    "in_reply_to_user_id": "357539288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100253399510057225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rin917_8964 @11andpr89648964 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100253386268684289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWZU8LbMAExk7-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2100253399510057225",
+        "created_at": "2026-09-16T22:33:15.000Z",
+        "display_text_range": [
+          30,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100352340998201840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "357539288",
+              "start": 0,
+              "username": "rin917_8964"
+            },
+            {
+              "end": 29,
+              "id": "1757603703811371008",
+              "start": 13,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100352340998201840",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100253399510057225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rin917_8964 @11andpr89648964 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100253386268684289"
+          ]
+        },
+        "author_id": "357539288",
+        "conversation_id": "2100253399510057225",
+        "created_at": "2026-09-16T16:00:05.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100253399510057225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90jOMIcOF6",
+              "end": 76,
+              "expanded_url": "https://x.com/rin917_8964/status/2100253399510057225/photo/1",
+              "media_key": "3_2100253386268684289",
+              "start": 53,
+              "url": "https://t.co/90jOMIcOF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100253399510057225",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100253386268684289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2041,
+          "like_count": 86,
+          "quote_count": 3,
+          "reply_count": 68,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "生日快乐，霖\n好像很多年没过过生日了，今年也依旧如此，蛋糕上的是辣条！大家可以分着吃！爱你们，谢谢大家！ https://t.co/90jOMIcOF6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2100352340998201840",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 1166,
+          "like_count": 10271,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 4748
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n同类互fo🤤\n🚪52开放朋友圈不线下\n爱大家喵\n被爆大号@IiRin_00917_QwQ\n里号@yumumu_msknb\n😹🫶@woaiuai0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "IiRin_00917_QwQ"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "woaiuai0721"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "is_identity_verified": false,
+        "location": "msk身后",
+        "most_recent_tweet_id": "2100279512244367634",
+        "name": "传奇病娇18.霖",
+        "pinned_tweet_id": "2097332760834875902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357539288/1783618658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 404,
+          "like_count": 2512,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1586
+        },
+        "url": "",
+        "username": "rin917_8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52纯绿",
+        "id": "1757603703811371008",
+        "is_identity_verified": false,
+        "location": "普瑞药效里",
+        "most_recent_tweet_id": "2100342293266116770",
+        "name": "11",
+        "pinned_tweet_id": "2074088083595891054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757603703811371008/1775933700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 985,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2336
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

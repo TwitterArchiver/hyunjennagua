@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965246583379034117",
+    "conversation_id": "2100556212152766511",
+    "created_at": "2026-09-17T12:30:51.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T13:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100563129134703035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2083196399211200512",
+          "start": 0,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100563129134703035",
+    "in_reply_to_user_id": "2083196399211200512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100562469672665225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965246583379034117",
+        "conversation_id": "2100556212152766511",
+        "created_at": "2026-09-17T12:30:51.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100563129134703035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2083196399211200512",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100563129134703035",
+        "in_reply_to_user_id": "2083196399211200512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100562469672665225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083196399211200512",
+        "conversation_id": "2100556212152766511",
+        "created_at": "2026-09-17T12:28:13.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100562469672665225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100562469672665225",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100556212152766511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 支持🤓👍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ML",
+              "full_name": "Mali",
+              "geo": {
+                "coordinates": [
+                  -2.0,
+                  18.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "小号：@hyunjennnagua\n只会通过信任的人：@2022724xnxn\n好闺蜜：@colleen_ab6642 @mikeas846141091🥰🥰🤤\n🩸💊匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "2022724xnxn"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "colleen_ab6642"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "mikeas846141091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2100563129134703035",
+        "name": "南瓜",
+        "pinned_tweet_id": "2089418764039434414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965246583379034117/1776418168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 1169,
+          "like_count": 10252,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 4760
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:22:20.000Z",
+        "description": "ｋｕｕｋｉ　本　體\nAGENDER | AROMANTIC ASEXUAL \nsh/od twt\njoined 31/7/26 (5th acc\n\n████████████████████",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuukiwtf",
+                "end": 23,
+                "expanded_url": "http://x.com/kuukiwtf",
+                "start": 0,
+                "url": "https://t.co/aDk4cjJeIM"
+              }
+            ]
+          }
+        },
+        "id": "2083196399211200512",
+        "is_identity_verified": false,
+        "location": "ｉｎｔｅｒｎｅｔ",
+        "most_recent_tweet_id": "2100562469672665225",
+        "name": "kuuki",
+        "pinned_tweet_id": "2091204360248381856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083196399211200512/1785509200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202604855926784/BKn2wpol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 178,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/aDk4cjJeIM",
+        "username": "kuukiwfn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
